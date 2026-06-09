@@ -1,0 +1,1536 @@
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.1
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.1
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.1
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.1
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.1
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.1
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.2
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.2
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.3
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.3
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.4
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.4
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.5
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.5
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.6
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.7
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.8
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.9
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.10
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.11
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.12
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.13
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.14
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.15
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.16
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.17
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.18
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.19
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.20
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.21
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.22
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.23
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.24
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.25
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.26
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.27
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.28
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.29
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.30
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.31
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.32
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.33
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.34
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.35
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.36
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.37
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.38
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.39
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.40
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.41
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.42
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.43
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.44
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.45
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.46
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.47
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.48
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.49
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.50
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.51
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.52
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.53
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.54
+17/06/09 20:10:42 INFO netty.NettyBlockTransferService: Server created on 10.0.0.55
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.2]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.2]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.3]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.3]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.4]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.4]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.5]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.5]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.6]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.7]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.8]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.9]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.10]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.11]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.12]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.13]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.14]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.15]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.16]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.17]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.18]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.19]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.20]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.21]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.22]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.23]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.24]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.25]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.26]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.27]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.28]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.29]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.30]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.31]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.32]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.33]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.34]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.35]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.36]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.37]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.38]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.39]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.40]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.41]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.42]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.43]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.44]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.45]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.46]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.47]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.48]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.49]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.50]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.51]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.52]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.53]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.54]
+17/06/09 20:10:41 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://10.0.0.55]
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.1
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.1
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.1
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.1
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.1
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.1
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.2
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.2
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.3
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.3
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.4
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.4
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.5
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.5
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.6
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.7
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.8
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.9
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.10
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.11
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.12
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.13
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.14
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.15
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.16
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.17
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.18
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.19
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.20
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.21
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.22
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.23
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.24
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.25
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.26
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.27
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.28
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.29
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.30
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.31
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.32
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.33
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.34
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.35
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.36
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.37
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.38
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.39
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.40
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.41
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.42
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.43
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.44
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.45
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.46
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.47
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.48
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.49
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.50
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.51
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.52
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.53
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.54
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 10.0.0.55
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.1 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.1 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.1 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.1 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.1 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.1 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.2 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.2 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.3 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.3 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.4 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.4 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.5 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.5 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.6 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.7 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.8 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.9 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.10 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.11 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.12 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.13 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.14 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.15 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.16 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.17 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.18 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.19 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.20 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.21 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.22 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.23 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.24 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.25 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.26 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.27 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.28 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.29 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.30 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.31 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.32 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.33 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.34 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.35 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.36 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.37 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.38 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.39 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.40 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.41 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.42 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.43 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.44 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.45 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.46 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.47 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.48 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.49 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.50 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.51 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.52 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.53 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.54 GB
+17/06/09 20:10:41 INFO storage.MemoryStore: MemoryStore started with capacity 10.0.0.55 GB
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.2
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.2
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.3
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.3
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.4
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.4
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.5
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.5
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.6
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.7
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.8
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.9
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.10
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.11
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.12
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.13
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.14
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.15
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.16
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.17
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.18
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.19
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.20
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.21
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.22
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.23
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.24
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.25
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.26
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.27
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.28
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.29
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.30
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.31
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.32
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.33
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.34
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.35
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.36
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.37
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.38
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.39
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.40
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.41
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.42
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.43
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.44
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.45
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.46
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.47
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.48
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.49
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.50
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.51
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.52
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.53
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.54
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing modify acls to: 10.0.0.55
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.2 in stage 11.0.0.2 (TID 12.0.0.2)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.2 in stage 11.0.0.2 (TID 12.0.0.2)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.3 in stage 11.0.0.3 (TID 12.0.0.3)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.3 in stage 11.0.0.3 (TID 12.0.0.3)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.4 in stage 11.0.0.4 (TID 12.0.0.4)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.4 in stage 11.0.0.4 (TID 12.0.0.4)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.5 in stage 11.0.0.5 (TID 12.0.0.5)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.5 in stage 11.0.0.5 (TID 12.0.0.5)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.6 in stage 11.0.0.6 (TID 12.0.0.6)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.7 in stage 11.0.0.7 (TID 12.0.0.7)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.8 in stage 11.0.0.8 (TID 12.0.0.8)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.9 in stage 11.0.0.9 (TID 12.0.0.9)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.10 in stage 11.0.0.10 (TID 12.0.0.10)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.11 in stage 11.0.0.11 (TID 12.0.0.11)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.12 in stage 11.0.0.12 (TID 12.0.0.12)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.13 in stage 11.0.0.13 (TID 12.0.0.13)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.14 in stage 11.0.0.14 (TID 12.0.0.14)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.15 in stage 11.0.0.15 (TID 12.0.0.15)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.16 in stage 11.0.0.16 (TID 12.0.0.16)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.17 in stage 11.0.0.17 (TID 12.0.0.17)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.18 in stage 11.0.0.18 (TID 12.0.0.18)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.19 in stage 11.0.0.19 (TID 12.0.0.19)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.20 in stage 11.0.0.20 (TID 12.0.0.20)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.21 in stage 11.0.0.21 (TID 12.0.0.21)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.22 in stage 11.0.0.22 (TID 12.0.0.22)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.23 in stage 11.0.0.23 (TID 12.0.0.23)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.24 in stage 11.0.0.24 (TID 12.0.0.24)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.25 in stage 11.0.0.25 (TID 12.0.0.25)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.26 in stage 11.0.0.26 (TID 12.0.0.26)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.27 in stage 11.0.0.27 (TID 12.0.0.27)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.28 in stage 11.0.0.28 (TID 12.0.0.28)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.29 in stage 11.0.0.29 (TID 12.0.0.29)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.30 in stage 11.0.0.30 (TID 12.0.0.30)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.31 in stage 11.0.0.31 (TID 12.0.0.31)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.32 in stage 11.0.0.32 (TID 12.0.0.32)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.33 in stage 11.0.0.33 (TID 12.0.0.33)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.34 in stage 11.0.0.34 (TID 12.0.0.34)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.35 in stage 11.0.0.35 (TID 12.0.0.35)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.36 in stage 11.0.0.36 (TID 12.0.0.36)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.37 in stage 11.0.0.37 (TID 12.0.0.37)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.38 in stage 11.0.0.38 (TID 12.0.0.38)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.39 in stage 11.0.0.39 (TID 12.0.0.39)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.40 in stage 11.0.0.40 (TID 12.0.0.40)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.41 in stage 11.0.0.41 (TID 12.0.0.41)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.42 in stage 11.0.0.42 (TID 12.0.0.42)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.43 in stage 11.0.0.43 (TID 12.0.0.43)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.44 in stage 11.0.0.44 (TID 12.0.0.44)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.45 in stage 11.0.0.45 (TID 12.0.0.45)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.46 in stage 11.0.0.46 (TID 12.0.0.46)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.47 in stage 11.0.0.47 (TID 12.0.0.47)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.48 in stage 11.0.0.48 (TID 12.0.0.48)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.49 in stage 11.0.0.49 (TID 12.0.0.49)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.50 in stage 11.0.0.50 (TID 12.0.0.50)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.51 in stage 11.0.0.51 (TID 12.0.0.51)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.52 in stage 11.0.0.52 (TID 12.0.0.52)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.53 in stage 11.0.0.53 (TID 12.0.0.53)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.54 in stage 11.0.0.54 (TID 12.0.0.54)
+17/06/09 20:10:45 INFO executor.Executor: Running task 10.0.0.55 in stage 11.0.0.55 (TID 12.0.0.55)
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.1: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.1: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.1: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.1: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.1: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.1: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.2: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.2: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.3: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.3: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.4: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.4: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.5: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.5: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.6: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.7: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.8: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.9: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.10: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.11: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.12: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.13: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.14: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.15: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.16: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.17: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.18: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.19: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.20: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.21: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.22: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.23: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.24: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.25: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.26: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.27: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.28: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.29: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.30: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.31: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.32: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.33: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.34: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.35: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.36: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.37: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.38: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.39: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.40: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.41: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.42: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.43: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.44: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.45: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.46: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.47: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.48: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.49: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.50: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.51: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.52: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.53: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.54: Committed
+17/06/09 20:10:57 INFO mapred.SparkHadoopMapRedUtil: 10.0.0.55: Committed
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.1 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.1 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.1 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.1 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.1 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.1 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.2 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.2 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.3 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.3 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.4 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.4 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.5 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.5 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.6 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.7 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.8 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.9 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.10 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.11 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.12 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.13 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.14 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.15 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.16 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.17 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.18 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.19 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.20 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.21 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.22 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.23 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.24 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.25 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.26 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.27 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.28 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.29 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.30 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.31 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.32 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.33 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.34 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.35 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.36 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.37 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.38 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.39 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.40 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.41 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.42 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.43 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.44 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.45 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.46 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.47 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.48 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.49 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.50 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.51 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.52 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.53 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.54 locally
+17/06/09 20:10:52 INFO storage.BlockManager: Found block 10.0.0.55 locally
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.1 on host 11.0.0.1
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.1 on host 11.0.0.1
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.1 on host 11.0.0.1
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.1 on host 11.0.0.1
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.1 on host 11.0.0.1
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.1 on host 11.0.0.1
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.2 on host 11.0.0.2
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.2 on host 11.0.0.2
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.3 on host 11.0.0.3
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.3 on host 11.0.0.3
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.4 on host 11.0.0.4
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.4 on host 11.0.0.4
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.5 on host 11.0.0.5
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.5 on host 11.0.0.5
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.6 on host 11.0.0.6
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.7 on host 11.0.0.7
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.8 on host 11.0.0.8
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.9 on host 11.0.0.9
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.10 on host 11.0.0.10
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.11 on host 11.0.0.11
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.12 on host 11.0.0.12
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.13 on host 11.0.0.13
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.14 on host 11.0.0.14
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.15 on host 11.0.0.15
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.16 on host 11.0.0.16
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.17 on host 11.0.0.17
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.18 on host 11.0.0.18
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.19 on host 11.0.0.19
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.20 on host 11.0.0.20
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.21 on host 11.0.0.21
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.22 on host 11.0.0.22
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.23 on host 11.0.0.23
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.24 on host 11.0.0.24
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.25 on host 11.0.0.25
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.26 on host 11.0.0.26
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.27 on host 11.0.0.27
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.28 on host 11.0.0.28
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.29 on host 11.0.0.29
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.30 on host 11.0.0.30
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.31 on host 11.0.0.31
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.32 on host 11.0.0.32
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.33 on host 11.0.0.33
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.34 on host 11.0.0.34
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.35 on host 11.0.0.35
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.36 on host 11.0.0.36
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.37 on host 11.0.0.37
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.38 on host 11.0.0.38
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.39 on host 11.0.0.39
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.40 on host 11.0.0.40
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.41 on host 11.0.0.41
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.42 on host 11.0.0.42
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.43 on host 11.0.0.43
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.44 on host 11.0.0.44
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.45 on host 11.0.0.45
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.46 on host 11.0.0.46
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.47 on host 11.0.0.47
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.48 on host 11.0.0.48
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.49 on host 11.0.0.49
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.50 on host 11.0.0.50
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.51 on host 11.0.0.51
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.52 on host 11.0.0.52
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.53 on host 11.0.0.53
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.54 on host 11.0.0.54
+17/06/09 20:10:42 INFO executor.Executor: Starting executor ID 10.0.0.55 on host 11.0.0.55
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.2
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.2
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.3
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.3
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.4
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.4
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.5
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.5
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.6
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.7
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.8
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.9
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.10
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.11
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.12
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.13
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.14
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.15
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.16
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.17
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.18
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.19
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.20
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.21
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.22
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.23
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.24
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.25
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.26
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.27
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.28
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.29
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.30
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.31
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.32
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.33
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.34
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.35
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.36
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.37
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.38
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.39
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.40
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.41
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.42
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.43
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.44
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.45
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.46
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.47
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.48
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.49
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.50
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.51
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.52
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.53
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.54
+17/06/09 20:10:57 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 10.0.0.55
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.2 stored as values in memory (estimated size 11.0.0.2, free 12.0.0.2)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.2 stored as values in memory (estimated size 11.0.0.2, free 12.0.0.2)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.3 stored as values in memory (estimated size 11.0.0.3, free 12.0.0.3)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.3 stored as values in memory (estimated size 11.0.0.3, free 12.0.0.3)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.4 stored as values in memory (estimated size 11.0.0.4, free 12.0.0.4)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.4 stored as values in memory (estimated size 11.0.0.4, free 12.0.0.4)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.5 stored as values in memory (estimated size 11.0.0.5, free 12.0.0.5)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.5 stored as values in memory (estimated size 11.0.0.5, free 12.0.0.5)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.6 stored as values in memory (estimated size 11.0.0.6, free 12.0.0.6)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.7 stored as values in memory (estimated size 11.0.0.7, free 12.0.0.7)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.8 stored as values in memory (estimated size 11.0.0.8, free 12.0.0.8)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.9 stored as values in memory (estimated size 11.0.0.9, free 12.0.0.9)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.10 stored as values in memory (estimated size 11.0.0.10, free 12.0.0.10)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.11 stored as values in memory (estimated size 11.0.0.11, free 12.0.0.11)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.12 stored as values in memory (estimated size 11.0.0.12, free 12.0.0.12)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.13 stored as values in memory (estimated size 11.0.0.13, free 12.0.0.13)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.14 stored as values in memory (estimated size 11.0.0.14, free 12.0.0.14)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.15 stored as values in memory (estimated size 11.0.0.15, free 12.0.0.15)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.16 stored as values in memory (estimated size 11.0.0.16, free 12.0.0.16)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.17 stored as values in memory (estimated size 11.0.0.17, free 12.0.0.17)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.18 stored as values in memory (estimated size 11.0.0.18, free 12.0.0.18)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.19 stored as values in memory (estimated size 11.0.0.19, free 12.0.0.19)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.20 stored as values in memory (estimated size 11.0.0.20, free 12.0.0.20)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.21 stored as values in memory (estimated size 11.0.0.21, free 12.0.0.21)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.22 stored as values in memory (estimated size 11.0.0.22, free 12.0.0.22)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.23 stored as values in memory (estimated size 11.0.0.23, free 12.0.0.23)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.24 stored as values in memory (estimated size 11.0.0.24, free 12.0.0.24)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.25 stored as values in memory (estimated size 11.0.0.25, free 12.0.0.25)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.26 stored as values in memory (estimated size 11.0.0.26, free 12.0.0.26)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.27 stored as values in memory (estimated size 11.0.0.27, free 12.0.0.27)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.28 stored as values in memory (estimated size 11.0.0.28, free 12.0.0.28)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.29 stored as values in memory (estimated size 11.0.0.29, free 12.0.0.29)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.30 stored as values in memory (estimated size 11.0.0.30, free 12.0.0.30)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.31 stored as values in memory (estimated size 11.0.0.31, free 12.0.0.31)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.32 stored as values in memory (estimated size 11.0.0.32, free 12.0.0.32)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.33 stored as values in memory (estimated size 11.0.0.33, free 12.0.0.33)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.34 stored as values in memory (estimated size 11.0.0.34, free 12.0.0.34)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.35 stored as values in memory (estimated size 11.0.0.35, free 12.0.0.35)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.36 stored as values in memory (estimated size 11.0.0.36, free 12.0.0.36)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.37 stored as values in memory (estimated size 11.0.0.37, free 12.0.0.37)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.38 stored as values in memory (estimated size 11.0.0.38, free 12.0.0.38)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.39 stored as values in memory (estimated size 11.0.0.39, free 12.0.0.39)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.40 stored as values in memory (estimated size 11.0.0.40, free 12.0.0.40)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.41 stored as values in memory (estimated size 11.0.0.41, free 12.0.0.41)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.42 stored as values in memory (estimated size 11.0.0.42, free 12.0.0.42)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.43 stored as values in memory (estimated size 11.0.0.43, free 12.0.0.43)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.44 stored as values in memory (estimated size 11.0.0.44, free 12.0.0.44)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.45 stored as values in memory (estimated size 11.0.0.45, free 12.0.0.45)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.46 stored as values in memory (estimated size 11.0.0.46, free 12.0.0.46)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.47 stored as values in memory (estimated size 11.0.0.47, free 12.0.0.47)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.48 stored as values in memory (estimated size 11.0.0.48, free 12.0.0.48)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.49 stored as values in memory (estimated size 11.0.0.49, free 12.0.0.49)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.50 stored as values in memory (estimated size 11.0.0.50, free 12.0.0.50)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.51 stored as values in memory (estimated size 11.0.0.51, free 12.0.0.51)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.52 stored as values in memory (estimated size 11.0.0.52, free 12.0.0.52)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.53 stored as values in memory (estimated size 11.0.0.53, free 12.0.0.53)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.54 stored as values in memory (estimated size 11.0.0.54, free 12.0.0.54)
+17/06/09 20:10:46 INFO storage.MemoryStore: Block 10.0.0.55 stored as values in memory (estimated size 11.0.0.55, free 12.0.0.55)
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.2.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.2.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.3.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.3.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.4.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.4.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.5.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.5.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.6.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.7.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.8.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.9.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.10.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.11.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.12.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.13.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.14.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.15.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.16.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.17.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.18.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.19.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.20.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.21.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.22.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.23.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.24.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.25.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.26.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.27.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.28.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.29.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.30.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.31.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.32.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.33.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.34.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.35.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.36.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.37.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.38.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.39.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.40.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.41.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.42.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.43.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.44.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.45.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.46.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.47.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.48.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.49.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.50.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.51.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.52.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.53.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.54.
+17/06/09 20:10:42 INFO util.Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.55.
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.2 took 11.0.0.2 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.2 took 11.0.0.2 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.3 took 11.0.0.3 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.3 took 11.0.0.3 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.4 took 11.0.0.4 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.4 took 11.0.0.4 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.5 took 11.0.0.5 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.5 took 11.0.0.5 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.6 took 11.0.0.6 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.7 took 11.0.0.7 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.8 took 11.0.0.8 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.9 took 11.0.0.9 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.10 took 11.0.0.10 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.11 took 11.0.0.11 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.12 took 11.0.0.12 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.13 took 11.0.0.13 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.14 took 11.0.0.14 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.15 took 11.0.0.15 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.16 took 11.0.0.16 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.17 took 11.0.0.17 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.18 took 11.0.0.18 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.19 took 11.0.0.19 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.20 took 11.0.0.20 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.21 took 11.0.0.21 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.22 took 11.0.0.22 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.23 took 11.0.0.23 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.24 took 11.0.0.24 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.25 took 11.0.0.25 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.26 took 11.0.0.26 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.27 took 11.0.0.27 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.28 took 11.0.0.28 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.29 took 11.0.0.29 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.30 took 11.0.0.30 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.31 took 11.0.0.31 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.32 took 11.0.0.32 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.33 took 11.0.0.33 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.34 took 11.0.0.34 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.35 took 11.0.0.35 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.36 took 11.0.0.36 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.37 took 11.0.0.37 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.38 took 11.0.0.38 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.39 took 11.0.0.39 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.40 took 11.0.0.40 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.41 took 11.0.0.41 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.42 took 11.0.0.42 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.43 took 11.0.0.43 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.44 took 11.0.0.44 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.45 took 11.0.0.45 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.46 took 11.0.0.46 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.47 took 11.0.0.47 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.48 took 11.0.0.48 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.49 took 11.0.0.49 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.50 took 11.0.0.50 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.51 took 11.0.0.51 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.52 took 11.0.0.52 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.53 took 11.0.0.53 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.54 took 11.0.0.54 ms
+17/06/09 20:10:45 INFO broadcast.TorrentBroadcast: Reading broadcast variable 10.0.0.55 took 11.0.0.55 ms
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.1 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.1 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.1 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.1 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.1 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.1 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.2 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.2 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.3 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.3 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.4 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.4 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.5 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.5 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.6 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.7 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.8 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.9 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.10 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.11 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.12 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.13 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.14 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.15 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.16 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.17 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.18 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.19 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.20 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.21 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.22 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.23 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.24 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.25 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.26 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.27 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.28 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.29 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.30 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.31 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.32 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.33 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.34 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.35 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.36 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.37 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.38 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.39 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.40 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.41 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.42 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.43 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.44 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.45 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.46 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.47 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.48 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.49 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.50 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.51 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.52 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.53 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.54 not found, computing it
+17/06/09 20:10:46 INFO spark.CacheManager: Partition 10.0.0.55 not found, computing it
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.2, boot = 11.0.0.2, init = 12.0.0.2, finish = 13.0.0.2
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.2, boot = 11.0.0.2, init = 12.0.0.2, finish = 13.0.0.2
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.3, boot = 11.0.0.3, init = 12.0.0.3, finish = 13.0.0.3
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.3, boot = 11.0.0.3, init = 12.0.0.3, finish = 13.0.0.3
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.4, boot = 11.0.0.4, init = 12.0.0.4, finish = 13.0.0.4
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.4, boot = 11.0.0.4, init = 12.0.0.4, finish = 13.0.0.4
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.5, boot = 11.0.0.5, init = 12.0.0.5, finish = 13.0.0.5
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.5, boot = 11.0.0.5, init = 12.0.0.5, finish = 13.0.0.5
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.6, boot = 11.0.0.6, init = 12.0.0.6, finish = 13.0.0.6
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.7, boot = 11.0.0.7, init = 12.0.0.7, finish = 13.0.0.7
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.8, boot = 11.0.0.8, init = 12.0.0.8, finish = 13.0.0.8
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.9, boot = 11.0.0.9, init = 12.0.0.9, finish = 13.0.0.9
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.10, boot = 11.0.0.10, init = 12.0.0.10, finish = 13.0.0.10
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.11, boot = 11.0.0.11, init = 12.0.0.11, finish = 13.0.0.11
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.12, boot = 11.0.0.12, init = 12.0.0.12, finish = 13.0.0.12
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.13, boot = 11.0.0.13, init = 12.0.0.13, finish = 13.0.0.13
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.14, boot = 11.0.0.14, init = 12.0.0.14, finish = 13.0.0.14
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.15, boot = 11.0.0.15, init = 12.0.0.15, finish = 13.0.0.15
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.16, boot = 11.0.0.16, init = 12.0.0.16, finish = 13.0.0.16
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.17, boot = 11.0.0.17, init = 12.0.0.17, finish = 13.0.0.17
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.18, boot = 11.0.0.18, init = 12.0.0.18, finish = 13.0.0.18
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.19, boot = 11.0.0.19, init = 12.0.0.19, finish = 13.0.0.19
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.20, boot = 11.0.0.20, init = 12.0.0.20, finish = 13.0.0.20
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.21, boot = 11.0.0.21, init = 12.0.0.21, finish = 13.0.0.21
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.22, boot = 11.0.0.22, init = 12.0.0.22, finish = 13.0.0.22
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.23, boot = 11.0.0.23, init = 12.0.0.23, finish = 13.0.0.23
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.24, boot = 11.0.0.24, init = 12.0.0.24, finish = 13.0.0.24
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.25, boot = 11.0.0.25, init = 12.0.0.25, finish = 13.0.0.25
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.26, boot = 11.0.0.26, init = 12.0.0.26, finish = 13.0.0.26
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.27, boot = 11.0.0.27, init = 12.0.0.27, finish = 13.0.0.27
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.28, boot = 11.0.0.28, init = 12.0.0.28, finish = 13.0.0.28
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.29, boot = 11.0.0.29, init = 12.0.0.29, finish = 13.0.0.29
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.30, boot = 11.0.0.30, init = 12.0.0.30, finish = 13.0.0.30
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.31, boot = 11.0.0.31, init = 12.0.0.31, finish = 13.0.0.31
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.32, boot = 11.0.0.32, init = 12.0.0.32, finish = 13.0.0.32
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.33, boot = 11.0.0.33, init = 12.0.0.33, finish = 13.0.0.33
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.34, boot = 11.0.0.34, init = 12.0.0.34, finish = 13.0.0.34
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.35, boot = 11.0.0.35, init = 12.0.0.35, finish = 13.0.0.35
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.36, boot = 11.0.0.36, init = 12.0.0.36, finish = 13.0.0.36
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.37, boot = 11.0.0.37, init = 12.0.0.37, finish = 13.0.0.37
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.38, boot = 11.0.0.38, init = 12.0.0.38, finish = 13.0.0.38
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.39, boot = 11.0.0.39, init = 12.0.0.39, finish = 13.0.0.39
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.40, boot = 11.0.0.40, init = 12.0.0.40, finish = 13.0.0.40
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.41, boot = 11.0.0.41, init = 12.0.0.41, finish = 13.0.0.41
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.42, boot = 11.0.0.42, init = 12.0.0.42, finish = 13.0.0.42
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.43, boot = 11.0.0.43, init = 12.0.0.43, finish = 13.0.0.43
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.44, boot = 11.0.0.44, init = 12.0.0.44, finish = 13.0.0.44
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.45, boot = 11.0.0.45, init = 12.0.0.45, finish = 13.0.0.45
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.46, boot = 11.0.0.46, init = 12.0.0.46, finish = 13.0.0.46
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.47, boot = 11.0.0.47, init = 12.0.0.47, finish = 13.0.0.47
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.48, boot = 11.0.0.48, init = 12.0.0.48, finish = 13.0.0.48
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.49, boot = 11.0.0.49, init = 12.0.0.49, finish = 13.0.0.49
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.50, boot = 11.0.0.50, init = 12.0.0.50, finish = 13.0.0.50
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.51, boot = 11.0.0.51, init = 12.0.0.51, finish = 13.0.0.51
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.52, boot = 11.0.0.52, init = 12.0.0.52, finish = 13.0.0.52
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.53, boot = 11.0.0.53, init = 12.0.0.53, finish = 13.0.0.53
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.54, boot = 11.0.0.54, init = 12.0.0.54, finish = 13.0.0.54
+17/06/09 20:10:48 INFO python.PythonRunner: Times: total = 10.0.0.55, boot = 11.0.0.55, init = 12.0.0.55, finish = 13.0.0.55
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.2.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.2.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.3.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.3.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.4.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.4.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.5.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.5.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.6.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.7.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.8.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.9.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.10.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.11.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.12.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.13.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.14.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.15.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.16.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.17.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.18.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.19.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.20.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.21.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.22.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.23.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.24.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.25.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.26.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.27.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.28.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.29.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.30.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.31.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.32.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.33.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.34.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.35.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.36.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.37.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.38.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.39.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.40.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.41.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.42.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.43.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.44.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.45.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.46.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.47.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.48.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.49.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.50.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.51.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.52.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.53.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.54.
+17/06/09 20:10:41 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.55.
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.1
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.1
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.1
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.1
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.1
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.1
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.2
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.2
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.3
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.3
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.4
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.4
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.5
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.5
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.6
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.7
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.8
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.9
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.10
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.11
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.12
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.13
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.14
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.15
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.16
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.17
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.18
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.19
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.20
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.21
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.22
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.23
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.24
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.25
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.26
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.27
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.28
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.29
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.30
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.31
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.32
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.33
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.34
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.35
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.36
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.37
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.38
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.39
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.40
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.41
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.42
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.43
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.44
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.45
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.46
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.47
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.48
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.49
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.50
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.51
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.52
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.53
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.54
+17/06/09 20:10:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10.0.0.55
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.1
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.1
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.1
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.1
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.1
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.1
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.2
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.2
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.3
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.3
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.4
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.4
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.5
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.5
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.6
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.7
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.8
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.9
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.10
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.11
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.12
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.13
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.14
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.15
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.16
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.17
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.18
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.19
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.20
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.21
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.22
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.23
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.24
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.25
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.26
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.27
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.28
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.29
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.30
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.31
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.32
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.33
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.34
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.35
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.36
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.37
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.38
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.39
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.40
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.41
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.42
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.43
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.44
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.45
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.46
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.47
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.48
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.49
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.50
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.51
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.52
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.53
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.54
+17/06/09 20:10:46 INFO rdd.HadoopRDD: Input split: hdfs://10.0.0.55
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.1 stored as bytes in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.1 stored as bytes in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.1 stored as bytes in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.1 stored as bytes in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.1 stored as bytes in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.1 stored as bytes in memory (estimated size 11.0.0.1, free 12.0.0.1)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.2 stored as bytes in memory (estimated size 11.0.0.2, free 12.0.0.2)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.2 stored as bytes in memory (estimated size 11.0.0.2, free 12.0.0.2)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.3 stored as bytes in memory (estimated size 11.0.0.3, free 12.0.0.3)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.3 stored as bytes in memory (estimated size 11.0.0.3, free 12.0.0.3)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.4 stored as bytes in memory (estimated size 11.0.0.4, free 12.0.0.4)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.4 stored as bytes in memory (estimated size 11.0.0.4, free 12.0.0.4)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.5 stored as bytes in memory (estimated size 11.0.0.5, free 12.0.0.5)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.5 stored as bytes in memory (estimated size 11.0.0.5, free 12.0.0.5)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.6 stored as bytes in memory (estimated size 11.0.0.6, free 12.0.0.6)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.7 stored as bytes in memory (estimated size 11.0.0.7, free 12.0.0.7)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.8 stored as bytes in memory (estimated size 11.0.0.8, free 12.0.0.8)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.9 stored as bytes in memory (estimated size 11.0.0.9, free 12.0.0.9)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.10 stored as bytes in memory (estimated size 11.0.0.10, free 12.0.0.10)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.11 stored as bytes in memory (estimated size 11.0.0.11, free 12.0.0.11)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.12 stored as bytes in memory (estimated size 11.0.0.12, free 12.0.0.12)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.13 stored as bytes in memory (estimated size 11.0.0.13, free 12.0.0.13)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.14 stored as bytes in memory (estimated size 11.0.0.14, free 12.0.0.14)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.15 stored as bytes in memory (estimated size 11.0.0.15, free 12.0.0.15)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.16 stored as bytes in memory (estimated size 11.0.0.16, free 12.0.0.16)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.17 stored as bytes in memory (estimated size 11.0.0.17, free 12.0.0.17)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.18 stored as bytes in memory (estimated size 11.0.0.18, free 12.0.0.18)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.19 stored as bytes in memory (estimated size 11.0.0.19, free 12.0.0.19)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.20 stored as bytes in memory (estimated size 11.0.0.20, free 12.0.0.20)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.21 stored as bytes in memory (estimated size 11.0.0.21, free 12.0.0.21)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.22 stored as bytes in memory (estimated size 11.0.0.22, free 12.0.0.22)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.23 stored as bytes in memory (estimated size 11.0.0.23, free 12.0.0.23)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.24 stored as bytes in memory (estimated size 11.0.0.24, free 12.0.0.24)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.25 stored as bytes in memory (estimated size 11.0.0.25, free 12.0.0.25)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.26 stored as bytes in memory (estimated size 11.0.0.26, free 12.0.0.26)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.27 stored as bytes in memory (estimated size 11.0.0.27, free 12.0.0.27)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.28 stored as bytes in memory (estimated size 11.0.0.28, free 12.0.0.28)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.29 stored as bytes in memory (estimated size 11.0.0.29, free 12.0.0.29)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.30 stored as bytes in memory (estimated size 11.0.0.30, free 12.0.0.30)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.31 stored as bytes in memory (estimated size 11.0.0.31, free 12.0.0.31)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.32 stored as bytes in memory (estimated size 11.0.0.32, free 12.0.0.32)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.33 stored as bytes in memory (estimated size 11.0.0.33, free 12.0.0.33)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.34 stored as bytes in memory (estimated size 11.0.0.34, free 12.0.0.34)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.35 stored as bytes in memory (estimated size 11.0.0.35, free 12.0.0.35)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.36 stored as bytes in memory (estimated size 11.0.0.36, free 12.0.0.36)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.37 stored as bytes in memory (estimated size 11.0.0.37, free 12.0.0.37)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.38 stored as bytes in memory (estimated size 11.0.0.38, free 12.0.0.38)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.39 stored as bytes in memory (estimated size 11.0.0.39, free 12.0.0.39)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.40 stored as bytes in memory (estimated size 11.0.0.40, free 12.0.0.40)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.41 stored as bytes in memory (estimated size 11.0.0.41, free 12.0.0.41)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.42 stored as bytes in memory (estimated size 11.0.0.42, free 12.0.0.42)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.43 stored as bytes in memory (estimated size 11.0.0.43, free 12.0.0.43)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.44 stored as bytes in memory (estimated size 11.0.0.44, free 12.0.0.44)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.45 stored as bytes in memory (estimated size 11.0.0.45, free 12.0.0.45)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.46 stored as bytes in memory (estimated size 11.0.0.46, free 12.0.0.46)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.47 stored as bytes in memory (estimated size 11.0.0.47, free 12.0.0.47)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.48 stored as bytes in memory (estimated size 11.0.0.48, free 12.0.0.48)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.49 stored as bytes in memory (estimated size 11.0.0.49, free 12.0.0.49)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.50 stored as bytes in memory (estimated size 11.0.0.50, free 12.0.0.50)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.51 stored as bytes in memory (estimated size 11.0.0.51, free 12.0.0.51)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.52 stored as bytes in memory (estimated size 11.0.0.52, free 12.0.0.52)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.53 stored as bytes in memory (estimated size 11.0.0.53, free 12.0.0.53)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.54 stored as bytes in memory (estimated size 11.0.0.54, free 12.0.0.54)
+17/06/09 20:10:45 INFO storage.MemoryStore: Block 10.0.0.55 stored as bytes in memory (estimated size 11.0.0.55, free 12.0.0.55)
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.1
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.2
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.2
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.3
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.3
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.4
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.4
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.5
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.5
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.6
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.7
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.8
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.9
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.10
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.11
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.12
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.13
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.14
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.15
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.16
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.17
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.18
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.19
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.20
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.21
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.22
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.23
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.24
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.25
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.26
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.27
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.28
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.29
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.30
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.31
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.32
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.33
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.34
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.35
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.36
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.37
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.38
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.39
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.40
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.41
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.42
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.43
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.44
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.45
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.46
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.47
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.48
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.49
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.50
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.51
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.52
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.53
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.54
+17/06/09 20:10:40 INFO spark.SecurityManager: Changing view acls to: 10.0.0.55
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.1' to hdfs://11.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.1' to hdfs://11.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.1' to hdfs://11.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.1' to hdfs://11.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.1' to hdfs://11.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.1' to hdfs://11.0.0.1
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.2' to hdfs://11.0.0.2
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.2' to hdfs://11.0.0.2
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.3' to hdfs://11.0.0.3
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.3' to hdfs://11.0.0.3
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.4' to hdfs://11.0.0.4
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.4' to hdfs://11.0.0.4
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.5' to hdfs://11.0.0.5
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.5' to hdfs://11.0.0.5
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.6' to hdfs://11.0.0.6
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.7' to hdfs://11.0.0.7
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.8' to hdfs://11.0.0.8
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.9' to hdfs://11.0.0.9
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.10' to hdfs://11.0.0.10
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.11' to hdfs://11.0.0.11
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.12' to hdfs://11.0.0.12
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.13' to hdfs://11.0.0.13
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.14' to hdfs://11.0.0.14
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.15' to hdfs://11.0.0.15
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.16' to hdfs://11.0.0.16
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.17' to hdfs://11.0.0.17
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.18' to hdfs://11.0.0.18
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.19' to hdfs://11.0.0.19
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.20' to hdfs://11.0.0.20
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.21' to hdfs://11.0.0.21
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.22' to hdfs://11.0.0.22
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.23' to hdfs://11.0.0.23
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.24' to hdfs://11.0.0.24
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.25' to hdfs://11.0.0.25
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.26' to hdfs://11.0.0.26
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.27' to hdfs://11.0.0.27
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.28' to hdfs://11.0.0.28
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.29' to hdfs://11.0.0.29
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.30' to hdfs://11.0.0.30
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.31' to hdfs://11.0.0.31
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.32' to hdfs://11.0.0.32
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.33' to hdfs://11.0.0.33
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.34' to hdfs://11.0.0.34
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.35' to hdfs://11.0.0.35
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.36' to hdfs://11.0.0.36
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.37' to hdfs://11.0.0.37
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.38' to hdfs://11.0.0.38
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.39' to hdfs://11.0.0.39
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.40' to hdfs://11.0.0.40
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.41' to hdfs://11.0.0.41
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.42' to hdfs://11.0.0.42
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.43' to hdfs://11.0.0.43
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.44' to hdfs://11.0.0.44
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.45' to hdfs://11.0.0.45
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.46' to hdfs://11.0.0.46
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.47' to hdfs://11.0.0.47
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.48' to hdfs://11.0.0.48
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.49' to hdfs://11.0.0.49
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.50' to hdfs://11.0.0.50
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.51' to hdfs://11.0.0.51
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.52' to hdfs://11.0.0.52
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.53' to hdfs://11.0.0.53
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.54' to hdfs://11.0.0.54
+17/06/09 20:10:57 INFO output.FileOutputCommitter: Saved output of task '10.0.0.55' to hdfs://11.0.0.55
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1). 13.0.0.1 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1). 13.0.0.1 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1). 13.0.0.1 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1). 13.0.0.1 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1). 13.0.0.1 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1). 13.0.0.1 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.2 in stage 11.0.0.2 (TID 12.0.0.2). 13.0.0.2 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.2 in stage 11.0.0.2 (TID 12.0.0.2). 13.0.0.2 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.3 in stage 11.0.0.3 (TID 12.0.0.3). 13.0.0.3 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.3 in stage 11.0.0.3 (TID 12.0.0.3). 13.0.0.3 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.4 in stage 11.0.0.4 (TID 12.0.0.4). 13.0.0.4 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.4 in stage 11.0.0.4 (TID 12.0.0.4). 13.0.0.4 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.5 in stage 11.0.0.5 (TID 12.0.0.5). 13.0.0.5 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.5 in stage 11.0.0.5 (TID 12.0.0.5). 13.0.0.5 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.6 in stage 11.0.0.6 (TID 12.0.0.6). 13.0.0.6 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.7 in stage 11.0.0.7 (TID 12.0.0.7). 13.0.0.7 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.8 in stage 11.0.0.8 (TID 12.0.0.8). 13.0.0.8 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.9 in stage 11.0.0.9 (TID 12.0.0.9). 13.0.0.9 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.10 in stage 11.0.0.10 (TID 12.0.0.10). 13.0.0.10 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.11 in stage 11.0.0.11 (TID 12.0.0.11). 13.0.0.11 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.12 in stage 11.0.0.12 (TID 12.0.0.12). 13.0.0.12 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.13 in stage 11.0.0.13 (TID 12.0.0.13). 13.0.0.13 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.14 in stage 11.0.0.14 (TID 12.0.0.14). 13.0.0.14 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.15 in stage 11.0.0.15 (TID 12.0.0.15). 13.0.0.15 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.16 in stage 11.0.0.16 (TID 12.0.0.16). 13.0.0.16 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.17 in stage 11.0.0.17 (TID 12.0.0.17). 13.0.0.17 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.18 in stage 11.0.0.18 (TID 12.0.0.18). 13.0.0.18 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.19 in stage 11.0.0.19 (TID 12.0.0.19). 13.0.0.19 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.20 in stage 11.0.0.20 (TID 12.0.0.20). 13.0.0.20 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.21 in stage 11.0.0.21 (TID 12.0.0.21). 13.0.0.21 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.22 in stage 11.0.0.22 (TID 12.0.0.22). 13.0.0.22 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.23 in stage 11.0.0.23 (TID 12.0.0.23). 13.0.0.23 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.24 in stage 11.0.0.24 (TID 12.0.0.24). 13.0.0.24 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.25 in stage 11.0.0.25 (TID 12.0.0.25). 13.0.0.25 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.26 in stage 11.0.0.26 (TID 12.0.0.26). 13.0.0.26 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.27 in stage 11.0.0.27 (TID 12.0.0.27). 13.0.0.27 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.28 in stage 11.0.0.28 (TID 12.0.0.28). 13.0.0.28 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.29 in stage 11.0.0.29 (TID 12.0.0.29). 13.0.0.29 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.30 in stage 11.0.0.30 (TID 12.0.0.30). 13.0.0.30 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.31 in stage 11.0.0.31 (TID 12.0.0.31). 13.0.0.31 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.32 in stage 11.0.0.32 (TID 12.0.0.32). 13.0.0.32 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.33 in stage 11.0.0.33 (TID 12.0.0.33). 13.0.0.33 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.34 in stage 11.0.0.34 (TID 12.0.0.34). 13.0.0.34 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.35 in stage 11.0.0.35 (TID 12.0.0.35). 13.0.0.35 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.36 in stage 11.0.0.36 (TID 12.0.0.36). 13.0.0.36 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.37 in stage 11.0.0.37 (TID 12.0.0.37). 13.0.0.37 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.38 in stage 11.0.0.38 (TID 12.0.0.38). 13.0.0.38 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.39 in stage 11.0.0.39 (TID 12.0.0.39). 13.0.0.39 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.40 in stage 11.0.0.40 (TID 12.0.0.40). 13.0.0.40 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.41 in stage 11.0.0.41 (TID 12.0.0.41). 13.0.0.41 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.42 in stage 11.0.0.42 (TID 12.0.0.42). 13.0.0.42 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.43 in stage 11.0.0.43 (TID 12.0.0.43). 13.0.0.43 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.44 in stage 11.0.0.44 (TID 12.0.0.44). 13.0.0.44 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.45 in stage 11.0.0.45 (TID 12.0.0.45). 13.0.0.45 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.46 in stage 11.0.0.46 (TID 12.0.0.46). 13.0.0.46 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.47 in stage 11.0.0.47 (TID 12.0.0.47). 13.0.0.47 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.48 in stage 11.0.0.48 (TID 12.0.0.48). 13.0.0.48 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.49 in stage 11.0.0.49 (TID 12.0.0.49). 13.0.0.49 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.50 in stage 11.0.0.50 (TID 12.0.0.50). 13.0.0.50 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.51 in stage 11.0.0.51 (TID 12.0.0.51). 13.0.0.51 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.52 in stage 11.0.0.52 (TID 12.0.0.52). 13.0.0.52 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.53 in stage 11.0.0.53 (TID 12.0.0.53). 13.0.0.53 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.54 in stage 11.0.0.54 (TID 12.0.0.54). 13.0.0.54 bytes result sent to driver
+17/06/09 20:10:48 INFO executor.Executor: Finished task 10.0.0.55 in stage 11.0.0.55 (TID 12.0.0.55). 13.0.0.55 bytes result sent to driver
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.1
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.1
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.1
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.1
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.1
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.1
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.2
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.2
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.3
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.3
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.4
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.4
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.5
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.5
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.6
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.7
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.8
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.9
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.10
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.11
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.12
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.13
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.14
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.15
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.16
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.17
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.18
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.19
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.20
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.21
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.22
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.23
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.24
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.25
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.26
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.27
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.28
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.29
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.30
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.31
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.32
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.33
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.34
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.35
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.36
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.37
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.38
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.39
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.40
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.41
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.42
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.43
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.44
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.45
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.46
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.47
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.48
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.49
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.50
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.51
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.52
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.53
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.54
+17/06/09 20:10:42 INFO executor.CoarseGrainedExecutorBackend: Connecting to driver: spark://10.0.0.55
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha
+17/06/09 20:10:41 INFO storage.DiskBlockManager: Created local directory at aaalpha

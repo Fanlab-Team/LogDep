@@ -1,0 +1,1536 @@
+0 Server created on 10.0.0.1
+1 Server created on 10.0.0.1
+2 Server created on 10.0.0.1
+3 Server created on 10.0.0.1
+4 Server created on 10.0.0.1
+5 Server created on 10.0.0.1
+6 Server created on 10.0.0.1
+7 Server created on 10.0.0.1
+8 Server created on 10.0.0.1
+9 Server created on 10.0.0.1
+10 Server created on 10.0.0.1
+11 Server created on 10.0.0.1
+12 Server created on 10.0.0.1
+13 Server created on 10.0.0.1
+14 Server created on 10.0.0.1
+15 Server created on 10.0.0.2
+16 Server created on 10.0.0.2
+17 Server created on 10.0.0.2
+18 Server created on 10.0.0.3
+19 Server created on 10.0.0.3
+20 Server created on 10.0.0.3
+21 Server created on 10.0.0.4
+22 Server created on 10.0.0.4
+23 Server created on 10.0.0.4
+24 Server created on 10.0.0.5
+25 Server created on 10.0.0.5
+26 Server created on 10.0.0.6
+27 Server created on 10.0.0.6
+28 Server created on 10.0.0.7
+29 Server created on 10.0.0.7
+30 Server created on 10.0.0.8
+31 Server created on 10.0.0.8
+32 Server created on 10.0.0.9
+33 Server created on 10.0.0.9
+34 Server created on 10.0.0.10
+35 Server created on 10.0.0.10
+36 Server created on 10.0.0.11
+37 Server created on 10.0.0.11
+38 Server created on 10.0.0.12
+39 Server created on 10.0.0.12
+40 Server created on 10.0.0.13
+41 Server created on 10.0.0.13
+42 Server created on 10.0.0.14
+43 Server created on 10.0.0.14
+44 Server created on 10.0.0.15
+45 Server created on 10.0.0.15
+46 Server created on 10.0.0.16
+47 Server created on 10.0.0.16
+48 Server created on 10.0.0.17
+49 Server created on 10.0.0.17
+50 Server created on 10.0.0.18
+51 Server created on 10.0.0.18
+52 Server created on 10.0.0.19
+53 Server created on 10.0.0.19
+54 Server created on 10.0.0.20
+55 Server created on 10.0.0.20
+56 Server created on 10.0.0.21
+57 Server created on 10.0.0.21
+58 Server created on 10.0.0.22
+59 Server created on 10.0.0.22
+60 Server created on 10.0.0.23
+61 Server created on 10.0.0.23
+62 Server created on 10.0.0.24
+63 Server created on 10.0.0.24
+64 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+65 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+66 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+67 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+68 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+69 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+70 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+71 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+72 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+73 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+74 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+75 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+76 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+77 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+78 Remoting started; listening on addresses :[akka.tcp://10.0.0.1]
+79 Remoting started; listening on addresses :[akka.tcp://10.0.0.2]
+80 Remoting started; listening on addresses :[akka.tcp://10.0.0.2]
+81 Remoting started; listening on addresses :[akka.tcp://10.0.0.2]
+82 Remoting started; listening on addresses :[akka.tcp://10.0.0.3]
+83 Remoting started; listening on addresses :[akka.tcp://10.0.0.3]
+84 Remoting started; listening on addresses :[akka.tcp://10.0.0.3]
+85 Remoting started; listening on addresses :[akka.tcp://10.0.0.4]
+86 Remoting started; listening on addresses :[akka.tcp://10.0.0.4]
+87 Remoting started; listening on addresses :[akka.tcp://10.0.0.4]
+88 Remoting started; listening on addresses :[akka.tcp://10.0.0.5]
+89 Remoting started; listening on addresses :[akka.tcp://10.0.0.5]
+90 Remoting started; listening on addresses :[akka.tcp://10.0.0.6]
+91 Remoting started; listening on addresses :[akka.tcp://10.0.0.6]
+92 Remoting started; listening on addresses :[akka.tcp://10.0.0.7]
+93 Remoting started; listening on addresses :[akka.tcp://10.0.0.7]
+94 Remoting started; listening on addresses :[akka.tcp://10.0.0.8]
+95 Remoting started; listening on addresses :[akka.tcp://10.0.0.8]
+96 Remoting started; listening on addresses :[akka.tcp://10.0.0.9]
+97 Remoting started; listening on addresses :[akka.tcp://10.0.0.9]
+98 Remoting started; listening on addresses :[akka.tcp://10.0.0.10]
+99 Remoting started; listening on addresses :[akka.tcp://10.0.0.10]
+100 Remoting started; listening on addresses :[akka.tcp://10.0.0.11]
+101 Remoting started; listening on addresses :[akka.tcp://10.0.0.11]
+102 Remoting started; listening on addresses :[akka.tcp://10.0.0.12]
+103 Remoting started; listening on addresses :[akka.tcp://10.0.0.12]
+104 Remoting started; listening on addresses :[akka.tcp://10.0.0.13]
+105 Remoting started; listening on addresses :[akka.tcp://10.0.0.13]
+106 Remoting started; listening on addresses :[akka.tcp://10.0.0.14]
+107 Remoting started; listening on addresses :[akka.tcp://10.0.0.14]
+108 Remoting started; listening on addresses :[akka.tcp://10.0.0.15]
+109 Remoting started; listening on addresses :[akka.tcp://10.0.0.15]
+110 Remoting started; listening on addresses :[akka.tcp://10.0.0.16]
+111 Remoting started; listening on addresses :[akka.tcp://10.0.0.16]
+112 Remoting started; listening on addresses :[akka.tcp://10.0.0.17]
+113 Remoting started; listening on addresses :[akka.tcp://10.0.0.17]
+114 Remoting started; listening on addresses :[akka.tcp://10.0.0.18]
+115 Remoting started; listening on addresses :[akka.tcp://10.0.0.18]
+116 Remoting started; listening on addresses :[akka.tcp://10.0.0.19]
+117 Remoting started; listening on addresses :[akka.tcp://10.0.0.19]
+118 Remoting started; listening on addresses :[akka.tcp://10.0.0.20]
+119 Remoting started; listening on addresses :[akka.tcp://10.0.0.20]
+120 Remoting started; listening on addresses :[akka.tcp://10.0.0.21]
+121 Remoting started; listening on addresses :[akka.tcp://10.0.0.21]
+122 Remoting started; listening on addresses :[akka.tcp://10.0.0.22]
+123 Remoting started; listening on addresses :[akka.tcp://10.0.0.22]
+124 Remoting started; listening on addresses :[akka.tcp://10.0.0.23]
+125 Remoting started; listening on addresses :[akka.tcp://10.0.0.23]
+126 Remoting started; listening on addresses :[akka.tcp://10.0.0.24]
+127 Remoting started; listening on addresses :[akka.tcp://10.0.0.24]
+128 Started reading broadcast variable 10.0.0.1
+129 Started reading broadcast variable 10.0.0.1
+130 Started reading broadcast variable 10.0.0.1
+131 Started reading broadcast variable 10.0.0.1
+132 Started reading broadcast variable 10.0.0.1
+133 Started reading broadcast variable 10.0.0.1
+134 Started reading broadcast variable 10.0.0.1
+135 Started reading broadcast variable 10.0.0.1
+136 Started reading broadcast variable 10.0.0.1
+137 Started reading broadcast variable 10.0.0.1
+138 Started reading broadcast variable 10.0.0.1
+139 Started reading broadcast variable 10.0.0.1
+140 Started reading broadcast variable 10.0.0.1
+141 Started reading broadcast variable 10.0.0.1
+142 Started reading broadcast variable 10.0.0.1
+143 Started reading broadcast variable 10.0.0.2
+144 Started reading broadcast variable 10.0.0.2
+145 Started reading broadcast variable 10.0.0.2
+146 Started reading broadcast variable 10.0.0.3
+147 Started reading broadcast variable 10.0.0.3
+148 Started reading broadcast variable 10.0.0.3
+149 Started reading broadcast variable 10.0.0.4
+150 Started reading broadcast variable 10.0.0.4
+151 Started reading broadcast variable 10.0.0.4
+152 Started reading broadcast variable 10.0.0.5
+153 Started reading broadcast variable 10.0.0.5
+154 Started reading broadcast variable 10.0.0.6
+155 Started reading broadcast variable 10.0.0.6
+156 Started reading broadcast variable 10.0.0.7
+157 Started reading broadcast variable 10.0.0.7
+158 Started reading broadcast variable 10.0.0.8
+159 Started reading broadcast variable 10.0.0.8
+160 Started reading broadcast variable 10.0.0.9
+161 Started reading broadcast variable 10.0.0.9
+162 Started reading broadcast variable 10.0.0.10
+163 Started reading broadcast variable 10.0.0.10
+164 Started reading broadcast variable 10.0.0.11
+165 Started reading broadcast variable 10.0.0.11
+166 Started reading broadcast variable 10.0.0.12
+167 Started reading broadcast variable 10.0.0.12
+168 Started reading broadcast variable 10.0.0.13
+169 Started reading broadcast variable 10.0.0.13
+170 Started reading broadcast variable 10.0.0.14
+171 Started reading broadcast variable 10.0.0.14
+172 Started reading broadcast variable 10.0.0.15
+173 Started reading broadcast variable 10.0.0.15
+174 Started reading broadcast variable 10.0.0.16
+175 Started reading broadcast variable 10.0.0.16
+176 Started reading broadcast variable 10.0.0.17
+177 Started reading broadcast variable 10.0.0.17
+178 Started reading broadcast variable 10.0.0.18
+179 Started reading broadcast variable 10.0.0.18
+180 Started reading broadcast variable 10.0.0.19
+181 Started reading broadcast variable 10.0.0.19
+182 Started reading broadcast variable 10.0.0.20
+183 Started reading broadcast variable 10.0.0.20
+184 Started reading broadcast variable 10.0.0.21
+185 Started reading broadcast variable 10.0.0.21
+186 Started reading broadcast variable 10.0.0.22
+187 Started reading broadcast variable 10.0.0.22
+188 Started reading broadcast variable 10.0.0.23
+189 Started reading broadcast variable 10.0.0.23
+190 Started reading broadcast variable 10.0.0.24
+191 Started reading broadcast variable 10.0.0.24
+192 MemoryStore started with capacity 10.0.0.1 GB
+193 MemoryStore started with capacity 10.0.0.1 GB
+194 MemoryStore started with capacity 10.0.0.1 GB
+195 MemoryStore started with capacity 10.0.0.1 GB
+196 MemoryStore started with capacity 10.0.0.1 GB
+197 MemoryStore started with capacity 10.0.0.1 GB
+198 MemoryStore started with capacity 10.0.0.1 GB
+199 MemoryStore started with capacity 10.0.0.1 GB
+200 MemoryStore started with capacity 10.0.0.1 GB
+201 MemoryStore started with capacity 10.0.0.1 GB
+202 MemoryStore started with capacity 10.0.0.1 GB
+203 MemoryStore started with capacity 10.0.0.1 GB
+204 MemoryStore started with capacity 10.0.0.1 GB
+205 MemoryStore started with capacity 10.0.0.1 GB
+206 MemoryStore started with capacity 10.0.0.1 GB
+207 MemoryStore started with capacity 10.0.0.2 GB
+208 MemoryStore started with capacity 10.0.0.2 GB
+209 MemoryStore started with capacity 10.0.0.2 GB
+210 MemoryStore started with capacity 10.0.0.3 GB
+211 MemoryStore started with capacity 10.0.0.3 GB
+212 MemoryStore started with capacity 10.0.0.3 GB
+213 MemoryStore started with capacity 10.0.0.4 GB
+214 MemoryStore started with capacity 10.0.0.4 GB
+215 MemoryStore started with capacity 10.0.0.4 GB
+216 MemoryStore started with capacity 10.0.0.5 GB
+217 MemoryStore started with capacity 10.0.0.5 GB
+218 MemoryStore started with capacity 10.0.0.6 GB
+219 MemoryStore started with capacity 10.0.0.6 GB
+220 MemoryStore started with capacity 10.0.0.7 GB
+221 MemoryStore started with capacity 10.0.0.7 GB
+222 MemoryStore started with capacity 10.0.0.8 GB
+223 MemoryStore started with capacity 10.0.0.8 GB
+224 MemoryStore started with capacity 10.0.0.9 GB
+225 MemoryStore started with capacity 10.0.0.9 GB
+226 MemoryStore started with capacity 10.0.0.10 GB
+227 MemoryStore started with capacity 10.0.0.10 GB
+228 MemoryStore started with capacity 10.0.0.11 GB
+229 MemoryStore started with capacity 10.0.0.11 GB
+230 MemoryStore started with capacity 10.0.0.12 GB
+231 MemoryStore started with capacity 10.0.0.12 GB
+232 MemoryStore started with capacity 10.0.0.13 GB
+233 MemoryStore started with capacity 10.0.0.13 GB
+234 MemoryStore started with capacity 10.0.0.14 GB
+235 MemoryStore started with capacity 10.0.0.14 GB
+236 MemoryStore started with capacity 10.0.0.15 GB
+237 MemoryStore started with capacity 10.0.0.15 GB
+238 MemoryStore started with capacity 10.0.0.16 GB
+239 MemoryStore started with capacity 10.0.0.16 GB
+240 MemoryStore started with capacity 10.0.0.17 GB
+241 MemoryStore started with capacity 10.0.0.17 GB
+242 MemoryStore started with capacity 10.0.0.18 GB
+243 MemoryStore started with capacity 10.0.0.18 GB
+244 MemoryStore started with capacity 10.0.0.19 GB
+245 MemoryStore started with capacity 10.0.0.19 GB
+246 MemoryStore started with capacity 10.0.0.20 GB
+247 MemoryStore started with capacity 10.0.0.20 GB
+248 MemoryStore started with capacity 10.0.0.21 GB
+249 MemoryStore started with capacity 10.0.0.21 GB
+250 MemoryStore started with capacity 10.0.0.22 GB
+251 MemoryStore started with capacity 10.0.0.22 GB
+252 MemoryStore started with capacity 10.0.0.23 GB
+253 MemoryStore started with capacity 10.0.0.23 GB
+254 MemoryStore started with capacity 10.0.0.24 GB
+255 MemoryStore started with capacity 10.0.0.24 GB
+256 Changing modify acls to: 10.0.0.1
+257 Changing modify acls to: 10.0.0.1
+258 Changing modify acls to: 10.0.0.1
+259 Changing modify acls to: 10.0.0.1
+260 Changing modify acls to: 10.0.0.1
+261 Changing modify acls to: 10.0.0.1
+262 Changing modify acls to: 10.0.0.1
+263 Changing modify acls to: 10.0.0.1
+264 Changing modify acls to: 10.0.0.1
+265 Changing modify acls to: 10.0.0.1
+266 Changing modify acls to: 10.0.0.1
+267 Changing modify acls to: 10.0.0.1
+268 Changing modify acls to: 10.0.0.1
+269 Changing modify acls to: 10.0.0.1
+270 Changing modify acls to: 10.0.0.1
+271 Changing modify acls to: 10.0.0.2
+272 Changing modify acls to: 10.0.0.2
+273 Changing modify acls to: 10.0.0.2
+274 Changing modify acls to: 10.0.0.3
+275 Changing modify acls to: 10.0.0.3
+276 Changing modify acls to: 10.0.0.3
+277 Changing modify acls to: 10.0.0.4
+278 Changing modify acls to: 10.0.0.4
+279 Changing modify acls to: 10.0.0.4
+280 Changing modify acls to: 10.0.0.5
+281 Changing modify acls to: 10.0.0.5
+282 Changing modify acls to: 10.0.0.6
+283 Changing modify acls to: 10.0.0.6
+284 Changing modify acls to: 10.0.0.7
+285 Changing modify acls to: 10.0.0.7
+286 Changing modify acls to: 10.0.0.8
+287 Changing modify acls to: 10.0.0.8
+288 Changing modify acls to: 10.0.0.9
+289 Changing modify acls to: 10.0.0.9
+290 Changing modify acls to: 10.0.0.10
+291 Changing modify acls to: 10.0.0.10
+292 Changing modify acls to: 10.0.0.11
+293 Changing modify acls to: 10.0.0.11
+294 Changing modify acls to: 10.0.0.12
+295 Changing modify acls to: 10.0.0.12
+296 Changing modify acls to: 10.0.0.13
+297 Changing modify acls to: 10.0.0.13
+298 Changing modify acls to: 10.0.0.14
+299 Changing modify acls to: 10.0.0.14
+300 Changing modify acls to: 10.0.0.15
+301 Changing modify acls to: 10.0.0.15
+302 Changing modify acls to: 10.0.0.16
+303 Changing modify acls to: 10.0.0.16
+304 Changing modify acls to: 10.0.0.17
+305 Changing modify acls to: 10.0.0.17
+306 Changing modify acls to: 10.0.0.18
+307 Changing modify acls to: 10.0.0.18
+308 Changing modify acls to: 10.0.0.19
+309 Changing modify acls to: 10.0.0.19
+310 Changing modify acls to: 10.0.0.20
+311 Changing modify acls to: 10.0.0.20
+312 Changing modify acls to: 10.0.0.21
+313 Changing modify acls to: 10.0.0.21
+314 Changing modify acls to: 10.0.0.22
+315 Changing modify acls to: 10.0.0.22
+316 Changing modify acls to: 10.0.0.23
+317 Changing modify acls to: 10.0.0.23
+318 Changing modify acls to: 10.0.0.24
+319 Changing modify acls to: 10.0.0.24
+320 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+321 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+322 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+323 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+324 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+325 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+326 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+327 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+328 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+329 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+330 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+331 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+332 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+333 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+334 Running task 10.0.0.1 in stage 11.0.0.1 (TID 12.0.0.1)
+335 Running task 10.0.0.2 in stage 11.0.0.2 (TID 12.0.0.2)
+336 Running task 10.0.0.2 in stage 11.0.0.2 (TID 12.0.0.2)
+337 Running task 10.0.0.2 in stage 11.0.0.2 (TID 12.0.0.2)
+338 Running task 10.0.0.3 in stage 11.0.0.3 (TID 12.0.0.3)
+339 Running task 10.0.0.3 in stage 11.0.0.3 (TID 12.0.0.3)
+340 Running task 10.0.0.3 in stage 11.0.0.3 (TID 12.0.0.3)
+341 Running task 10.0.0.4 in stage 11.0.0.4 (TID 12.0.0.4)
+342 Running task 10.0.0.4 in stage 11.0.0.4 (TID 12.0.0.4)
+343 Running task 10.0.0.4 in stage 11.0.0.4 (TID 12.0.0.4)
+344 Running task 10.0.0.5 in stage 11.0.0.5 (TID 12.0.0.5)
+345 Running task 10.0.0.5 in stage 11.0.0.5 (TID 12.0.0.5)
+346 Running task 10.0.0.6 in stage 11.0.0.6 (TID 12.0.0.6)
+347 Running task 10.0.0.6 in stage 11.0.0.6 (TID 12.0.0.6)
+348 Running task 10.0.0.7 in stage 11.0.0.7 (TID 12.0.0.7)
+349 Running task 10.0.0.7 in stage 11.0.0.7 (TID 12.0.0.7)
+350 Running task 10.0.0.8 in stage 11.0.0.8 (TID 12.0.0.8)
+351 Running task 10.0.0.8 in stage 11.0.0.8 (TID 12.0.0.8)
+352 Running task 10.0.0.9 in stage 11.0.0.9 (TID 12.0.0.9)
+353 Running task 10.0.0.9 in stage 11.0.0.9 (TID 12.0.0.9)
+354 Running task 10.0.0.10 in stage 11.0.0.10 (TID 12.0.0.10)
+355 Running task 10.0.0.10 in stage 11.0.0.10 (TID 12.0.0.10)
+356 Running task 10.0.0.11 in stage 11.0.0.11 (TID 12.0.0.11)
+357 Running task 10.0.0.11 in stage 11.0.0.11 (TID 12.0.0.11)
+358 Running task 10.0.0.12 in stage 11.0.0.12 (TID 12.0.0.12)
+359 Running task 10.0.0.12 in stage 11.0.0.12 (TID 12.0.0.12)
+360 Running task 10.0.0.13 in stage 11.0.0.13 (TID 12.0.0.13)
+361 Running task 10.0.0.13 in stage 11.0.0.13 (TID 12.0.0.13)
+362 Running task 10.0.0.14 in stage 11.0.0.14 (TID 12.0.0.14)
+363 Running task 10.0.0.14 in stage 11.0.0.14 (TID 12.0.0.14)
+364 Running task 10.0.0.15 in stage 11.0.0.15 (TID 12.0.0.15)
+365 Running task 10.0.0.15 in stage 11.0.0.15 (TID 12.0.0.15)
+366 Running task 10.0.0.16 in stage 11.0.0.16 (TID 12.0.0.16)
+367 Running task 10.0.0.16 in stage 11.0.0.16 (TID 12.0.0.16)
+368 Running task 10.0.0.17 in stage 11.0.0.17 (TID 12.0.0.17)
+369 Running task 10.0.0.17 in stage 11.0.0.17 (TID 12.0.0.17)
+370 Running task 10.0.0.18 in stage 11.0.0.18 (TID 12.0.0.18)
+371 Running task 10.0.0.18 in stage 11.0.0.18 (TID 12.0.0.18)
+372 Running task 10.0.0.19 in stage 11.0.0.19 (TID 12.0.0.19)
+373 Running task 10.0.0.19 in stage 11.0.0.19 (TID 12.0.0.19)
+374 Running task 10.0.0.20 in stage 11.0.0.20 (TID 12.0.0.20)
+375 Running task 10.0.0.20 in stage 11.0.0.20 (TID 12.0.0.20)
+376 Running task 10.0.0.21 in stage 11.0.0.21 (TID 12.0.0.21)
+377 Running task 10.0.0.21 in stage 11.0.0.21 (TID 12.0.0.21)
+378 Running task 10.0.0.22 in stage 11.0.0.22 (TID 12.0.0.22)
+379 Running task 10.0.0.22 in stage 11.0.0.22 (TID 12.0.0.22)
+380 Running task 10.0.0.23 in stage 11.0.0.23 (TID 12.0.0.23)
+381 Running task 10.0.0.23 in stage 11.0.0.23 (TID 12.0.0.23)
+382 Running task 10.0.0.24 in stage 11.0.0.24 (TID 12.0.0.24)
+383 Running task 10.0.0.24 in stage 11.0.0.24 (TID 12.0.0.24)
+384 10.0.0.1: Committed
+385 10.0.0.1: Committed
+386 10.0.0.1: Committed
+387 10.0.0.1: Committed
+388 10.0.0.1: Committed
+389 10.0.0.1: Committed
+390 10.0.0.1: Committed
+391 10.0.0.1: Committed
+392 10.0.0.1: Committed
+393 10.0.0.1: Committed
+394 10.0.0.1: Committed
+395 10.0.0.1: Committed
+396 10.0.0.1: Committed
+397 10.0.0.1: Committed
+398 10.0.0.1: Committed
+399 10.0.0.2: Committed
+400 10.0.0.2: Committed
+401 10.0.0.2: Committed
+402 10.0.0.3: Committed
+403 10.0.0.3: Committed
+404 10.0.0.3: Committed
+405 10.0.0.4: Committed
+406 10.0.0.4: Committed
+407 10.0.0.4: Committed
+408 10.0.0.5: Committed
+409 10.0.0.5: Committed
+410 10.0.0.6: Committed
+411 10.0.0.6: Committed
+412 10.0.0.7: Committed
+413 10.0.0.7: Committed
+414 10.0.0.8: Committed
+415 10.0.0.8: Committed
+416 10.0.0.9: Committed
+417 10.0.0.9: Committed
+418 10.0.0.10: Committed
+419 10.0.0.10: Committed
+420 10.0.0.11: Committed
+421 10.0.0.11: Committed
+422 10.0.0.12: Committed
+423 10.0.0.12: Committed
+424 10.0.0.13: Committed
+425 10.0.0.13: Committed
+426 10.0.0.14: Committed
+427 10.0.0.14: Committed
+428 10.0.0.15: Committed
+429 10.0.0.15: Committed
+430 10.0.0.16: Committed
+431 10.0.0.16: Committed
+432 10.0.0.17: Committed
+433 10.0.0.17: Committed
+434 10.0.0.18: Committed
+435 10.0.0.18: Committed
+436 10.0.0.19: Committed
+437 10.0.0.19: Committed
+438 10.0.0.20: Committed
+439 10.0.0.20: Committed
+440 10.0.0.21: Committed
+441 10.0.0.21: Committed
+442 10.0.0.22: Committed
+443 10.0.0.22: Committed
+444 10.0.0.23: Committed
+445 10.0.0.23: Committed
+446 10.0.0.24: Committed
+447 10.0.0.24: Committed
+448 Found block 10.0.0.1 locally
+449 Found block 10.0.0.1 locally
+450 Found block 10.0.0.1 locally
+451 Found block 10.0.0.1 locally
+452 Found block 10.0.0.1 locally
+453 Found block 10.0.0.1 locally
+454 Found block 10.0.0.1 locally
+455 Found block 10.0.0.1 locally
+456 Found block 10.0.0.1 locally
+457 Found block 10.0.0.1 locally
+458 Found block 10.0.0.1 locally
+459 Found block 10.0.0.1 locally
+460 Found block 10.0.0.1 locally
+461 Found block 10.0.0.1 locally
+462 Found block 10.0.0.1 locally
+463 Found block 10.0.0.2 locally
+464 Found block 10.0.0.2 locally
+465 Found block 10.0.0.2 locally
+466 Found block 10.0.0.3 locally
+467 Found block 10.0.0.3 locally
+468 Found block 10.0.0.3 locally
+469 Found block 10.0.0.4 locally
+470 Found block 10.0.0.4 locally
+471 Found block 10.0.0.4 locally
+472 Found block 10.0.0.5 locally
+473 Found block 10.0.0.5 locally
+474 Found block 10.0.0.6 locally
+475 Found block 10.0.0.6 locally
+476 Found block 10.0.0.7 locally
+477 Found block 10.0.0.7 locally
+478 Found block 10.0.0.8 locally
+479 Found block 10.0.0.8 locally
+480 Found block 10.0.0.9 locally
+481 Found block 10.0.0.9 locally
+482 Found block 10.0.0.10 locally
+483 Found block 10.0.0.10 locally
+484 Found block 10.0.0.11 locally
+485 Found block 10.0.0.11 locally
+486 Found block 10.0.0.12 locally
+487 Found block 10.0.0.12 locally
+488 Found block 10.0.0.13 locally
+489 Found block 10.0.0.13 locally
+490 Found block 10.0.0.14 locally
+491 Found block 10.0.0.14 locally
+492 Found block 10.0.0.15 locally
+493 Found block 10.0.0.15 locally
+494 Found block 10.0.0.16 locally
+495 Found block 10.0.0.16 locally
+496 Found block 10.0.0.17 locally
+497 Found block 10.0.0.17 locally
+498 Found block 10.0.0.18 locally
+499 Found block 10.0.0.18 locally
+500 Found block 10.0.0.19 locally
+501 Found block 10.0.0.19 locally
+502 Found block 10.0.0.20 locally
+503 Found block 10.0.0.20 locally
+504 Found block 10.0.0.21 locally
+505 Found block 10.0.0.21 locally
+506 Found block 10.0.0.22 locally
+507 Found block 10.0.0.22 locally
+508 Found block 10.0.0.23 locally
+509 Found block 10.0.0.23 locally
+510 Found block 10.0.0.24 locally
+511 Found block 10.0.0.24 locally
+512 Starting executor ID 10.0.0.1 on host 11.0.0.1
+513 Starting executor ID 10.0.0.1 on host 11.0.0.1
+514 Starting executor ID 10.0.0.1 on host 11.0.0.1
+515 Starting executor ID 10.0.0.1 on host 11.0.0.1
+516 Starting executor ID 10.0.0.1 on host 11.0.0.1
+517 Starting executor ID 10.0.0.1 on host 11.0.0.1
+518 Starting executor ID 10.0.0.1 on host 11.0.0.1
+519 Starting executor ID 10.0.0.1 on host 11.0.0.1
+520 Starting executor ID 10.0.0.1 on host 11.0.0.1
+521 Starting executor ID 10.0.0.1 on host 11.0.0.1
+522 Starting executor ID 10.0.0.1 on host 11.0.0.1
+523 Starting executor ID 10.0.0.1 on host 11.0.0.1
+524 Starting executor ID 10.0.0.1 on host 11.0.0.1
+525 Starting executor ID 10.0.0.1 on host 11.0.0.1
+526 Starting executor ID 10.0.0.1 on host 11.0.0.1
+527 Starting executor ID 10.0.0.2 on host 11.0.0.2
+528 Starting executor ID 10.0.0.2 on host 11.0.0.2
+529 Starting executor ID 10.0.0.2 on host 11.0.0.2
+530 Starting executor ID 10.0.0.3 on host 11.0.0.3
+531 Starting executor ID 10.0.0.3 on host 11.0.0.3
+532 Starting executor ID 10.0.0.3 on host 11.0.0.3
+533 Starting executor ID 10.0.0.4 on host 11.0.0.4
+534 Starting executor ID 10.0.0.4 on host 11.0.0.4
+535 Starting executor ID 10.0.0.4 on host 11.0.0.4
+536 Starting executor ID 10.0.0.5 on host 11.0.0.5
+537 Starting executor ID 10.0.0.5 on host 11.0.0.5
+538 Starting executor ID 10.0.0.6 on host 11.0.0.6
+539 Starting executor ID 10.0.0.6 on host 11.0.0.6
+540 Starting executor ID 10.0.0.7 on host 11.0.0.7
+541 Starting executor ID 10.0.0.7 on host 11.0.0.7
+542 Starting executor ID 10.0.0.8 on host 11.0.0.8
+543 Starting executor ID 10.0.0.8 on host 11.0.0.8
+544 Starting executor ID 10.0.0.9 on host 11.0.0.9
+545 Starting executor ID 10.0.0.9 on host 11.0.0.9
+546 Starting executor ID 10.0.0.10 on host 11.0.0.10
+547 Starting executor ID 10.0.0.10 on host 11.0.0.10
+548 Starting executor ID 10.0.0.11 on host 11.0.0.11
+549 Starting executor ID 10.0.0.11 on host 11.0.0.11
+550 Starting executor ID 10.0.0.12 on host 11.0.0.12
+551 Starting executor ID 10.0.0.12 on host 11.0.0.12
+552 Starting executor ID 10.0.0.13 on host 11.0.0.13
+553 Starting executor ID 10.0.0.13 on host 11.0.0.13
+554 Starting executor ID 10.0.0.14 on host 11.0.0.14
+555 Starting executor ID 10.0.0.14 on host 11.0.0.14
+556 Starting executor ID 10.0.0.15 on host 11.0.0.15
+557 Starting executor ID 10.0.0.15 on host 11.0.0.15
+558 Starting executor ID 10.0.0.16 on host 11.0.0.16
+559 Starting executor ID 10.0.0.16 on host 11.0.0.16
+560 Starting executor ID 10.0.0.17 on host 11.0.0.17
+561 Starting executor ID 10.0.0.17 on host 11.0.0.17
+562 Starting executor ID 10.0.0.18 on host 11.0.0.18
+563 Starting executor ID 10.0.0.18 on host 11.0.0.18
+564 Starting executor ID 10.0.0.19 on host 11.0.0.19
+565 Starting executor ID 10.0.0.19 on host 11.0.0.19
+566 Starting executor ID 10.0.0.20 on host 11.0.0.20
+567 Starting executor ID 10.0.0.20 on host 11.0.0.20
+568 Starting executor ID 10.0.0.21 on host 11.0.0.21
+569 Starting executor ID 10.0.0.21 on host 11.0.0.21
+570 Starting executor ID 10.0.0.22 on host 11.0.0.22
+571 Starting executor ID 10.0.0.22 on host 11.0.0.22
+572 Starting executor ID 10.0.0.23 on host 11.0.0.23
+573 Starting executor ID 10.0.0.23 on host 11.0.0.23
+574 Starting executor ID 10.0.0.24 on host 11.0.0.24
+575 Starting executor ID 10.0.0.24 on host 11.0.0.24
+576 File Output Committer Algorithm version is 10.0.0.1
+577 File Output Committer Algorithm version is 10.0.0.1
+578 File Output Committer Algorithm version is 10.0.0.1
+579 File Output Committer Algorithm version is 10.0.0.1
+580 File Output Committer Algorithm version is 10.0.0.1
+581 File Output Committer Algorithm version is 10.0.0.1
+582 File Output Committer Algorithm version is 10.0.0.1
+583 File Output Committer Algorithm version is 10.0.0.1
+584 File Output Committer Algorithm version is 10.0.0.1
+585 File Output Committer Algorithm version is 10.0.0.1
+586 File Output Committer Algorithm version is 10.0.0.1
+587 File Output Committer Algorithm version is 10.0.0.1
+588 File Output Committer Algorithm version is 10.0.0.1
+589 File Output Committer Algorithm version is 10.0.0.1
+590 File Output Committer Algorithm version is 10.0.0.1
+591 File Output Committer Algorithm version is 10.0.0.2
+592 File Output Committer Algorithm version is 10.0.0.2
+593 File Output Committer Algorithm version is 10.0.0.2
+594 File Output Committer Algorithm version is 10.0.0.3
+595 File Output Committer Algorithm version is 10.0.0.3
+596 File Output Committer Algorithm version is 10.0.0.3
+597 File Output Committer Algorithm version is 10.0.0.4
+598 File Output Committer Algorithm version is 10.0.0.4
+599 File Output Committer Algorithm version is 10.0.0.4
+600 File Output Committer Algorithm version is 10.0.0.5
+601 File Output Committer Algorithm version is 10.0.0.5
+602 File Output Committer Algorithm version is 10.0.0.6
+603 File Output Committer Algorithm version is 10.0.0.6
+604 File Output Committer Algorithm version is 10.0.0.7
+605 File Output Committer Algorithm version is 10.0.0.7
+606 File Output Committer Algorithm version is 10.0.0.8
+607 File Output Committer Algorithm version is 10.0.0.8
+608 File Output Committer Algorithm version is 10.0.0.9
+609 File Output Committer Algorithm version is 10.0.0.9
+610 File Output Committer Algorithm version is 10.0.0.10
+611 File Output Committer Algorithm version is 10.0.0.10
+612 File Output Committer Algorithm version is 10.0.0.11
+613 File Output Committer Algorithm version is 10.0.0.11
+614 File Output Committer Algorithm version is 10.0.0.12
+615 File Output Committer Algorithm version is 10.0.0.12
+616 File Output Committer Algorithm version is 10.0.0.13
+617 File Output Committer Algorithm version is 10.0.0.13
+618 File Output Committer Algorithm version is 10.0.0.14
+619 File Output Committer Algorithm version is 10.0.0.14
+620 File Output Committer Algorithm version is 10.0.0.15
+621 File Output Committer Algorithm version is 10.0.0.15
+622 File Output Committer Algorithm version is 10.0.0.16
+623 File Output Committer Algorithm version is 10.0.0.16
+624 File Output Committer Algorithm version is 10.0.0.17
+625 File Output Committer Algorithm version is 10.0.0.17
+626 File Output Committer Algorithm version is 10.0.0.18
+627 File Output Committer Algorithm version is 10.0.0.18
+628 File Output Committer Algorithm version is 10.0.0.19
+629 File Output Committer Algorithm version is 10.0.0.19
+630 File Output Committer Algorithm version is 10.0.0.20
+631 File Output Committer Algorithm version is 10.0.0.20
+632 File Output Committer Algorithm version is 10.0.0.21
+633 File Output Committer Algorithm version is 10.0.0.21
+634 File Output Committer Algorithm version is 10.0.0.22
+635 File Output Committer Algorithm version is 10.0.0.22
+636 File Output Committer Algorithm version is 10.0.0.23
+637 File Output Committer Algorithm version is 10.0.0.23
+638 File Output Committer Algorithm version is 10.0.0.24
+639 File Output Committer Algorithm version is 10.0.0.24
+640 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+641 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+642 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+643 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+644 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+645 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+646 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+647 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+648 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+649 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+650 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+651 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+652 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+653 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+654 Block 10.0.0.1 stored as values in memory (estimated size 11.0.0.1, free 12.0.0.1)
+655 Block 10.0.0.2 stored as values in memory (estimated size 11.0.0.2, free 12.0.0.2)
+656 Block 10.0.0.2 stored as values in memory (estimated size 11.0.0.2, free 12.0.0.2)
+657 Block 10.0.0.2 stored as values in memory (estimated size 11.0.0.2, free 12.0.0.2)
+658 Block 10.0.0.3 stored as values in memory (estimated size 11.0.0.3, free 12.0.0.3)
+659 Block 10.0.0.3 stored as values in memory (estimated size 11.0.0.3, free 12.0.0.3)
+660 Block 10.0.0.3 stored as values in memory (estimated size 11.0.0.3, free 12.0.0.3)
+661 Block 10.0.0.4 stored as values in memory (estimated size 11.0.0.4, free 12.0.0.4)
+662 Block 10.0.0.4 stored as values in memory (estimated size 11.0.0.4, free 12.0.0.4)
+663 Block 10.0.0.4 stored as values in memory (estimated size 11.0.0.4, free 12.0.0.4)
+664 Block 10.0.0.5 stored as values in memory (estimated size 11.0.0.5, free 12.0.0.5)
+665 Block 10.0.0.5 stored as values in memory (estimated size 11.0.0.5, free 12.0.0.5)
+666 Block 10.0.0.6 stored as values in memory (estimated size 11.0.0.6, free 12.0.0.6)
+667 Block 10.0.0.6 stored as values in memory (estimated size 11.0.0.6, free 12.0.0.6)
+668 Block 10.0.0.7 stored as values in memory (estimated size 11.0.0.7, free 12.0.0.7)
+669 Block 10.0.0.7 stored as values in memory (estimated size 11.0.0.7, free 12.0.0.7)
+670 Block 10.0.0.8 stored as values in memory (estimated size 11.0.0.8, free 12.0.0.8)
+671 Block 10.0.0.8 stored as values in memory (estimated size 11.0.0.8, free 12.0.0.8)
+672 Block 10.0.0.9 stored as values in memory (estimated size 11.0.0.9, free 12.0.0.9)
+673 Block 10.0.0.9 stored as values in memory (estimated size 11.0.0.9, free 12.0.0.9)
+674 Block 10.0.0.10 stored as values in memory (estimated size 11.0.0.10, free 12.0.0.10)
+675 Block 10.0.0.10 stored as values in memory (estimated size 11.0.0.10, free 12.0.0.10)
+676 Block 10.0.0.11 stored as values in memory (estimated size 11.0.0.11, free 12.0.0.11)
+677 Block 10.0.0.11 stored as values in memory (estimated size 11.0.0.11, free 12.0.0.11)
+678 Block 10.0.0.12 stored as values in memory (estimated size 11.0.0.12, free 12.0.0.12)
+679 Block 10.0.0.12 stored as values in memory (estimated size 11.0.0.12, free 12.0.0.12)
+680 Block 10.0.0.13 stored as values in memory (estimated size 11.0.0.13, free 12.0.0.13)
+681 Block 10.0.0.13 stored as values in memory (estimated size 11.0.0.13, free 12.0.0.13)
+682 Block 10.0.0.14 stored as values in memory (estimated size 11.0.0.14, free 12.0.0.14)
+683 Block 10.0.0.14 stored as values in memory (estimated size 11.0.0.14, free 12.0.0.14)
+684 Block 10.0.0.15 stored as values in memory (estimated size 11.0.0.15, free 12.0.0.15)
+685 Block 10.0.0.15 stored as values in memory (estimated size 11.0.0.15, free 12.0.0.15)
+686 Block 10.0.0.16 stored as values in memory (estimated size 11.0.0.16, free 12.0.0.16)
+687 Block 10.0.0.16 stored as values in memory (estimated size 11.0.0.16, free 12.0.0.16)
+688 Block 10.0.0.17 stored as values in memory (estimated size 11.0.0.17, free 12.0.0.17)
+689 Block 10.0.0.17 stored as values in memory (estimated size 11.0.0.17, free 12.0.0.17)
+690 Block 10.0.0.18 stored as values in memory (estimated size 11.0.0.18, free 12.0.0.18)
+691 Block 10.0.0.18 stored as values in memory (estimated size 11.0.0.18, free 12.0.0.18)
+692 Block 10.0.0.19 stored as values in memory (estimated size 11.0.0.19, free 12.0.0.19)
+693 Block 10.0.0.19 stored as values in memory (estimated size 11.0.0.19, free 12.0.0.19)
+694 Block 10.0.0.20 stored as values in memory (estimated size 11.0.0.20, free 12.0.0.20)
+695 Block 10.0.0.20 stored as values in memory (estimated size 11.0.0.20, free 12.0.0.20)
+696 Block 10.0.0.21 stored as values in memory (estimated size 11.0.0.21, free 12.0.0.21)
+697 Block 10.0.0.21 stored as values in memory (estimated size 11.0.0.21, free 12.0.0.21)
+698 Block 10.0.0.22 stored as values in memory (estimated size 11.0.0.22, free 12.0.0.22)
+699 Block 10.0.0.22 stored as values in memory (estimated size 11.0.0.22, free 12.0.0.22)
+700 Block 10.0.0.23 stored as values in memory (estimated size 11.0.0.23, free 12.0.0.23)
+701 Block 10.0.0.23 stored as values in memory (estimated size 11.0.0.23, free 12.0.0.23)
+702 Block 10.0.0.24 stored as values in memory (estimated size 11.0.0.24, free 12.0.0.24)
+703 Block 10.0.0.24 stored as values in memory (estimated size 11.0.0.24, free 12.0.0.24)
+704 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+705 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+706 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+707 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+708 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+709 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+710 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+711 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+712 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+713 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+714 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+715 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+716 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+717 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+718 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.1.
+719 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.2.
+720 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.2.
+721 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.2.
+722 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.3.
+723 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.3.
+724 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.3.
+725 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.4.
+726 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.4.
+727 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.4.
+728 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.5.
+729 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.5.
+730 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.6.
+731 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.6.
+732 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.7.
+733 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.7.
+734 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.8.
+735 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.8.
+736 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.9.
+737 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.9.
+738 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.10.
+739 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.10.
+740 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.11.
+741 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.11.
+742 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.12.
+743 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.12.
+744 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.13.
+745 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.13.
+746 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.14.
+747 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.14.
+748 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.15.
+749 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.15.
+750 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.16.
+751 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.16.
+752 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.17.
+753 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.17.
+754 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.18.
+755 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.18.
+756 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.19.
+757 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.19.
+758 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.20.
+759 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.20.
+760 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.21.
+761 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.21.
+762 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.22.
+763 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.22.
+764 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.23.
+765 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.23.
+766 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.24.
+767 Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 10.0.0.24.
+768 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+769 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+770 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+771 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+772 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+773 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+774 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+775 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+776 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+777 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+778 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+779 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+780 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+781 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+782 Reading broadcast variable 10.0.0.1 took 11.0.0.1 ms
+783 Reading broadcast variable 10.0.0.2 took 11.0.0.2 ms
+784 Reading broadcast variable 10.0.0.2 took 11.0.0.2 ms
+785 Reading broadcast variable 10.0.0.2 took 11.0.0.2 ms
+786 Reading broadcast variable 10.0.0.3 took 11.0.0.3 ms
+787 Reading broadcast variable 10.0.0.3 took 11.0.0.3 ms
+788 Reading broadcast variable 10.0.0.3 took 11.0.0.3 ms
+789 Reading broadcast variable 10.0.0.4 took 11.0.0.4 ms
+790 Reading broadcast variable 10.0.0.4 took 11.0.0.4 ms
+791 Reading broadcast variable 10.0.0.4 took 11.0.0.4 ms
+792 Reading broadcast variable 10.0.0.5 took 11.0.0.5 ms
+793 Reading broadcast variable 10.0.0.5 took 11.0.0.5 ms
+794 Reading broadcast variable 10.0.0.6 took 11.0.0.6 ms
+795 Reading broadcast variable 10.0.0.6 took 11.0.0.6 ms
+796 Reading broadcast variable 10.0.0.7 took 11.0.0.7 ms
+797 Reading broadcast variable 10.0.0.7 took 11.0.0.7 ms
+798 Reading broadcast variable 10.0.0.8 took 11.0.0.8 ms
+799 Reading broadcast variable 10.0.0.8 took 11.0.0.8 ms
+800 Reading broadcast variable 10.0.0.9 took 11.0.0.9 ms
+801 Reading broadcast variable 10.0.0.9 took 11.0.0.9 ms
+802 Reading broadcast variable 10.0.0.10 took 11.0.0.10 ms
+803 Reading broadcast variable 10.0.0.10 took 11.0.0.10 ms
+804 Reading broadcast variable 10.0.0.11 took 11.0.0.11 ms
+805 Reading broadcast variable 10.0.0.11 took 11.0.0.11 ms
+806 Reading broadcast variable 10.0.0.12 took 11.0.0.12 ms
+807 Reading broadcast variable 10.0.0.12 took 11.0.0.12 ms
+808 Reading broadcast variable 10.0.0.13 took 11.0.0.13 ms
+809 Reading broadcast variable 10.0.0.13 took 11.0.0.13 ms
+810 Reading broadcast variable 10.0.0.14 took 11.0.0.14 ms
+811 Reading broadcast variable 10.0.0.14 took 11.0.0.14 ms
+812 Reading broadcast variable 10.0.0.15 took 11.0.0.15 ms
+813 Reading broadcast variable 10.0.0.15 took 11.0.0.15 ms
+814 Reading broadcast variable 10.0.0.16 took 11.0.0.16 ms
+815 Reading broadcast variable 10.0.0.16 took 11.0.0.16 ms
+816 Reading broadcast variable 10.0.0.17 took 11.0.0.17 ms
+817 Reading broadcast variable 10.0.0.17 took 11.0.0.17 ms
+818 Reading broadcast variable 10.0.0.18 took 11.0.0.18 ms
+819 Reading broadcast variable 10.0.0.18 took 11.0.0.18 ms
+820 Reading broadcast variable 10.0.0.19 took 11.0.0.19 ms
+821 Reading broadcast variable 10.0.0.19 took 11.0.0.19 ms
+822 Reading broadcast variable 10.0.0.20 took 11.0.0.20 ms
+823 Reading broadcast variable 10.0.0.20 took 11.0.0.20 ms
+824 Reading broadcast variable 10.0.0.21 took 11.0.0.21 ms
+825 Reading broadcast variable 10.0.0.21 took 11.0.0.21 ms
+826 Reading broadcast variable 10.0.0.22 took 11.0.0.22 ms
+827 Reading broadcast variable 10.0.0.22 took 11.0.0.22 ms
+828 Reading broadcast variable 10.0.0.23 took 11.0.0.23 ms
+829 Reading broadcast variable 10.0.0.23 took 11.0.0.23 ms
+830 Reading broadcast variable 10.0.0.24 took 11.0.0.24 ms
+831 Reading broadcast variable 10.0.0.24 took 11.0.0.24 ms
+832 Partition 10.0.0.1 not found, computing it
+833 Partition 10.0.0.1 not found, computing it
+834 Partition 10.0.0.1 not found, computing it
+835 Partition 10.0.0.1 not found, computing it
+836 Partition 10.0.0.1 not found, computing it
+837 Partition 10.0.0.1 not found, computing it
+838 Partition 10.0.0.1 not found, computing it
+839 Partition 10.0.0.1 not found, computing it
+840 Partition 10.0.0.1 not found, computing it
+841 Partition 10.0.0.1 not found, computing it
+842 Partition 10.0.0.1 not found, computing it
+843 Partition 10.0.0.1 not found, computing it
+844 Partition 10.0.0.1 not found, computing it
+845 Partition 10.0.0.1 not found, computing it
+846 Partition 10.0.0.1 not found, computing it
+847 Partition 10.0.0.2 not found, computing it
+848 Partition 10.0.0.2 not found, computing it
+849 Partition 10.0.0.2 not found, computing it
+850 Partition 10.0.0.3 not found, computing it
+851 Partition 10.0.0.3 not found, computing it
+852 Partition 10.0.0.3 not found, computing it
+853 Partition 10.0.0.4 not found, computing it
+854 Partition 10.0.0.4 not found, computing it
+855 Partition 10.0.0.4 not found, computing it
+856 Partition 10.0.0.5 not found, computing it
+857 Partition 10.0.0.5 not found, computing it
+858 Partition 10.0.0.6 not found, computing it
+859 Partition 10.0.0.6 not found, computing it
+860 Partition 10.0.0.7 not found, computing it
+861 Partition 10.0.0.7 not found, computing it
+862 Partition 10.0.0.8 not found, computing it
+863 Partition 10.0.0.8 not found, computing it
+864 Partition 10.0.0.9 not found, computing it
+865 Partition 10.0.0.9 not found, computing it
+866 Partition 10.0.0.10 not found, computing it
+867 Partition 10.0.0.10 not found, computing it
+868 Partition 10.0.0.11 not found, computing it
+869 Partition 10.0.0.11 not found, computing it
+870 Partition 10.0.0.12 not found, computing it
+871 Partition 10.0.0.12 not found, computing it
+872 Partition 10.0.0.13 not found, computing it
+873 Partition 10.0.0.13 not found, computing it
+874 Partition 10.0.0.14 not found, computing it
+875 Partition 10.0.0.14 not found, computing it
+876 Partition 10.0.0.15 not found, computing it
+877 Partition 10.0.0.15 not found, computing it
+878 Partition 10.0.0.16 not found, computing it
+879 Partition 10.0.0.16 not found, computing it
+880 Partition 10.0.0.17 not found, computing it
+881 Partition 10.0.0.17 not found, computing it
+882 Partition 10.0.0.18 not found, computing it
+883 Partition 10.0.0.18 not found, computing it
+884 Partition 10.0.0.19 not found, computing it
+885 Partition 10.0.0.19 not found, computing it
+886 Partition 10.0.0.20 not found, computing it
+887 Partition 10.0.0.20 not found, computing it
+888 Partition 10.0.0.21 not found, computing it
+889 Partition 10.0.0.21 not found, computing it
+890 Partition 10.0.0.22 not found, computing it
+891 Partition 10.0.0.22 not found, computing it
+892 Partition 10.0.0.23 not found, computing it
+893 Partition 10.0.0.23 not found, computing it
+894 Partition 10.0.0.24 not found, computing it
+895 Partition 10.0.0.24 not found, computing it
+896 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+897 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+898 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+899 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+900 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+901 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+902 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+903 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+904 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+905 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+906 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+907 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+908 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+909 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+910 Times: total = 10.0.0.1, boot = 11.0.0.1, init = 12.0.0.1, finish = 13.0.0.1
+911 Times: total = 10.0.0.2, boot = 11.0.0.2, init = 12.0.0.2, finish = 13.0.0.2
+912 Times: total = 10.0.0.2, boot = 11.0.0.2, init = 12.0.0.2, finish = 13.0.0.2
+913 Times: total = 10.0.0.2, boot = 11.0.0.2, init = 12.0.0.2, finish = 13.0.0.2
+914 Times: total = 10.0.0.3, boot = 11.0.0.3, init = 12.0.0.3, finish = 13.0.0.3
+915 Times: total = 10.0.0.3, boot = 11.0.0.3, init = 12.0.0.3, finish = 13.0.0.3
+916 Times: total = 10.0.0.3, boot = 11.0.0.3, init = 12.0.0.3, finish = 13.0.0.3
+917 Times: total = 10.0.0.4, boot = 11.0.0.4, init = 12.0.0.4, finish = 13.0.0.4
+918 Times: total = 10.0.0.4, boot = 11.0.0.4, init = 12.0.0.4, finish = 13.0.0.4
+919 Times: total = 10.0.0.4, boot = 11.0.0.4, init = 12.0.0.4, finish = 13.0.0.4
+920 Times: total = 10.0.0.5, boot = 11.0.0.5, init = 12.0.0.5, finish = 13.0.0.5
+921 Times: total = 10.0.0.5, boot = 11.0.0.5, init = 12.0.0.5, finish = 13.0.0.5
+922 Times: total = 10.0.0.6, boot = 11.0.0.6, init = 12.0.0.6, finish = 13.0.0.6
+923 Times: total = 10.0.0.6, boot = 11.0.0.6, init = 12.0.0.6, finish = 13.0.0.6
+924 Times: total = 10.0.0.7, boot = 11.0.0.7, init = 12.0.0.7, finish = 13.0.0.7
+925 Times: total = 10.0.0.7, boot = 11.0.0.7, init = 12.0.0.7, finish = 13.0.0.7
+926 Times: total = 10.0.0.8, boot = 11.0.0.8, init = 12.0.0.8, finish = 13.0.0.8
+927 Times: total = 10.0.0.8, boot = 11.0.0.8, init = 12.0.0.8, finish = 13.0.0.8
+928 Times: total = 10.0.0.9, boot = 11.0.0.9, init = 12.0.0.9, finish = 13.0.0.9
+929 Times: total = 10.0.0.9, boot = 11.0.0.9, init = 12.0.0.9, finish = 13.0.0.9
+930 Times: total = 10.0.0.10, boot = 11.0.0.10, init = 12.0.0.10, finish = 13.0.0.10
+931 Times: total = 10.0.0.10, boot = 11.0.0.10, init = 12.0.0.10, finish = 13.0.0.10
+932 Times: total = 10.0.0.11, boot = 11.0.0.11, init = 12.0.0.11, finish = 13.0.0.11
+933 Times: total = 10.0.0.11, boot = 11.0.0.11, init = 12.0.0.11, finish = 13.0.0.11
+934 Times: total = 10.0.0.12, boot = 11.0.0.12, init = 12.0.0.12, finish = 13.0.0.12
+935 Times: total = 10.0.0.12, boot = 11.0.0.12, init = 12.0.0.12, finish = 13.0.0.12
+936 Times: total = 10.0.0.13, boot = 11.0.0.13, init = 12.0.0.13, finish = 13.0.0.13
+937 Times: total = 10.0.0.13, boot = 11.0.0.13, init = 12.0.0.13, finish = 13.0.0.13
+938 Times: total = 10.0.0.14, boot = 11.0.0.14, init = 12.0.0.14, finish = 13.0.0.14
+939 Times: total = 10.0.0.14, boot = 11.0.0.14, init = 12.0.0.14, finish = 13.0.0.14
+940 Times: total = 10.0.0.15, boot = 11.0.0.15, init = 12.0.0.15, finish = 13.0.0.15
+941 Times: total = 10.0.0.15, boot = 11.0.0.15, init = 12.0.0.15, finish = 13.0.0.15
+942 Times: total = 10.0.0.16, boot = 11.0.0.16, init = 12.0.0.16, finish = 13.0.0.16
+943 Times: total = 10.0.0.16, boot = 11.0.0.16, init = 12.0.0.16, finish = 13.0.0.16
+944 Times: total = 10.0.0.17, boot = 11.0.0.17, init = 12.0.0.17, finish = 13.0.0.17
+945 Times: total = 10.0.0.17, boot = 11.0.0.17, init = 12.0.0.17, finish = 13.0.0.17
+946 Times: total = 10.0.0.18, boot = 11.0.0.18, init = 12.0.0.18, finish = 13.0.0.18
+947 Times: total = 10.0.0.18, boot = 11.0.0.18, init = 12.0.0.18, finish = 13.0.0.18
+948 Times: total = 10.0.0.19, boot = 11.0.0.19, init = 12.0.0.19, finish = 13.0.0.19
+949 Times: total = 10.0.0.19, boot = 11.0.0.19, init = 12.0.0.19, finish = 13.0.0.19
+950 Times: total = 10.0.0.20, boot = 11.0.0.20, init = 12.0.0.20, finish = 13.0.0.20
+951 Times: total = 10.0.0.20, boot = 11.0.0.20, init = 12.0.0.20, finish = 13.0.0.20
+952 Times: total = 10.0.0.21, boot = 11.0.0.21, init = 12.0.0.21, finish = 13.0.0.21
+953 Times: total = 10.0.0.21, boot = 11.0.0.21, init = 12.0.0.21, finish = 13.0.0.21
+954 Times: total = 10.0.0.22, boot = 11.0.0.22, init = 12.0.0.22, finish = 13.0.0.22
+955 Times: total = 10.0.0.22, boot = 11.0.0.22, init = 12.0.0.22, finish = 13.0.0.22
+956 Times: total = 10.0.0.23, boot = 11.0.0.23, init = 12.0.0.23, finish = 13.0.0.23
+957 Times: total = 10.0.0.23, boot = 11.0.0.23, init = 12.0.0.23, finish = 13.0.0.23
+958 Times: total = 10.0.0.24, boot = 11.0.0.24, init = 12.0.0.24, finish = 13.0.0.24
+959 Times: total = 10.0.0.24, boot = 11.0.0.24, init = 12.0.0.24, finish = 13.0.0.24
+960 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+961 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+962 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+963 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+964 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+965 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+966 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+967 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+968 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+969 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+970 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+971 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+972 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+973 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+974 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.1.
+975 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.2.
+976 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.2.
+977 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.2.
+978 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.3.
+979 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.3.
+980 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.3.
+981 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.4.
+982 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.4.
+983 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.4.
+984 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.5.
+985 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.5.
+986 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.6.
+987 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.6.
+988 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.7.
+989 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.7.
+990 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.8.
+991 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.8.
+992 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.9.
+993 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.9.
+994 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.10.
+995 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.10.
+996 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.11.
+997 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.11.
+998 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.12.
+999 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.12.
+1000 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.13.
+1001 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.13.
+1002 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.14.
+1003 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.14.
+1004 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.15.
+1005 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.15.
+1006 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.16.
+1007 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.16.
+1008 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.17.
+1009 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.17.
+1010 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.18.
+1011 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.18.
+1012 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.19.
+1013 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.19.
+1014 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.20.
+1015 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.20.
+1016 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.21.
+1017 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.21.
+1018 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.22.
+1019 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.22.
+1020 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.23.
+1021 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.23.
+1022 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.24.
+1023 Successfully started service 'sparkExecutorActorSystem' on port 10.0.0.24.
+1024 Got assigned task 10.0.0.1
+1025 Got assigned task 10.0.0.1
+1026 Got assigned task 10.0.0.1
+1027 Got assigned task 10.0.0.1
+1028 Got assigned task 10.0.0.1
+1029 Got assigned task 10.0.0.1
+1030 Got assigned task 10.0.0.1
+1031 Got assigned task 10.0.0.1
+1032 Got assigned task 10.0.0.1
+1033 Got assigned task 10.0.0.1
+1034 Got assigned task 10.0.0.1
+1035 Got assigned task 10.0.0.1
+1036 Got assigned task 10.0.0.1
+1037 Got assigned task 10.0.0.1
+1038 Got assigned task 10.0.0.1
+1039 Got assigned task 10.0.0.2
+1040 Got assigned task 10.0.0.2
+1041 Got assigned task 10.0.0.2
+1042 Got assigned task 10.0.0.3
+1043 Got assigned task 10.0.0.3
+1044 Got assigned task 10.0.0.3
+1045 Got assigned task 10.0.0.4
+1046 Got assigned task 10.0.0.4
+1047 Got assigned task 10.0.0.4
+1048 Got assigned task 10.0.0.5
+1049 Got assigned task 10.0.0.5
+1050 Got assigned task 10.0.0.6
+1051 Got assigned task 10.0.0.6
+1052 Got assigned task 10.0.0.7
+1053 Got assigned task 10.0.0.7
+1054 Got assigned task 10.0.0.8
+1055 Got assigned task 10.0.0.8
+1056 Got assigned task 10.0.0.9
+1057 Got assigned task 10.0.0.9
+1058 Got assigned task 10.0.0.10
+1059 Got assigned task 10.0.0.10
+1060 Got assigned task 10.0.0.11
+1061 Got assigned task 10.0.0.11
+1062 Got assigned task 10.0.0.12
+1063 Got assigned task 10.0.0.12
+1064 Got assigned task 10.0.0.13
+1065 Got assigned task 10.0.0.13
+1066 Got assigned task 10.0.0.14
+1067 Got assigned task 10.0.0.14
+1068 Got assigned task 10.0.0.15
+1069 Got assigned task 10.0.0.15
+1070 Got assigned task 10.0.0.16
+1071 Got assigned task 10.0.0.16
+1072 Got assigned task 10.0.0.17
+1073 Got assigned task 10.0.0.17
+1074 Got assigned task 10.0.0.18
+1075 Got assigned task 10.0.0.18
+1076 Got assigned task 10.0.0.19
+1077 Got assigned task 10.0.0.19
+1078 Got assigned task 10.0.0.20
+1079 Got assigned task 10.0.0.20
+1080 Got assigned task 10.0.0.21
+1081 Got assigned task 10.0.0.21
+1082 Got assigned task 10.0.0.22
+1083 Got assigned task 10.0.0.22
+1084 Got assigned task 10.0.0.23
+1085 Got assigned task 10.0.0.23
+1086 Got assigned task 10.0.0.24
+1087 Got assigned task 10.0.0.24
+1088 Input split: hdfs://aaalpha
+1089 Input split: hdfs://aaalpha
+1090 Input split: hdfs://aaalpha
+1091 Input split: hdfs://aaalpha
+1092 Input split: hdfs://aaalpha
+1093 Input split: hdfs://aaalpha
+1094 Input split: hdfs://aaalpha
+1095 Input split: hdfs://aaalpha
+1096 Input split: hdfs://aaalpha
+1097 Input split: hdfs://aaalpha
+1098 Input split: hdfs://aaalpha
+1099 Input split: hdfs://aaalpha
+1100 Input split: hdfs://aaalpha
+1101 Input split: hdfs://aaalpha
+1102 Input split: hdfs://aaalpha
+1103 Input split: hdfs://aaalpha
+1104 Input split: hdfs://aaalpha
+1105 Input split: hdfs://aaalpha
+1106 Input split: hdfs://aaalpha
+1107 Input split: hdfs://aaalpha
+1108 Input split: hdfs://aaalpha
+1109 Input split: hdfs://aaalpha
+1110 Input split: hdfs://aaalpha
+1111 Input split: hdfs://aaalpha
+1112 Input split: hdfs://aaalpha
+1113 Input split: hdfs://aaalpha
+1114 Input split: hdfs://aaalpha
+1115 Input split: hdfs://aaalpha
+1116 Input split: hdfs://aaalpha
+1117 Input split: hdfs://aaalpha
+1118 Input split: hdfs://aaalpha
+1119 Input split: hdfs://aaalpha
+1120 Input split: hdfs://aaalpha
+1121 Input split: hdfs://aaalpha
+1122 Input split: hdfs://aaalpha
+1123 Input split: hdfs://aaalpha
+1124 Input split: hdfs://aaalpha
+1125 Input split: hdfs://aaalpha
+1126 Input split: hdfs://aaalpha
+1127 Input split: hdfs://aaalpha
+1128 Input split: hdfs://aaalpha
+1129 Input split: hdfs://aaalpha
+1130 Input split: hdfs://aaalpha
+1131 Input split: hdfs://aaalpha
+1132 Input split: hdfs://aaalpha
+1133 Input split: hdfs://aaalpha
+1134 Input split: hdfs://aaalpha
+1135 Input split: hdfs://aaalpha
+1136 Input split: hdfs://aaalpha
+1137 Input split: hdfs://aaalpha
+1138 Input split: hdfs://aaalpha
+1139 Input split: hdfs://aaalpha
+1140 Input split: hdfs://aaalpha
+1141 Input split: hdfs://aaalpha
+1142 Input split: hdfs://aaalpha
+1143 Input split: hdfs://aaalpha
+1144 Input split: hdfs://aaalpha
+1145 Input split: hdfs://aaalpha
+1146 Input split: hdfs://aaalpha
+1147 Input split: hdfs://aaalpha
+1148 Input split: hdfs://aaalpha
+1149 Input split: hdfs://aaalpha
+1150 Input split: hdfs://aaalpha
+1151 Input split: hdfs://aaalpha
+1152 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1153 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1154 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1155 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1156 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1157 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1158 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1159 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1160 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1161 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1162 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1163 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1164 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1165 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1166 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1167 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1168 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1169 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1170 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1171 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1172 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1173 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1174 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1175 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1176 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1177 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1178 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1179 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1180 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1181 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1182 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1183 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1184 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1185 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1186 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1187 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1188 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1189 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1190 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1191 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1192 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1193 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1194 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1195 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1196 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1197 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1198 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1199 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1200 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1201 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1202 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1203 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1204 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1205 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1206 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1207 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1208 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1209 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1210 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1211 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1212 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1213 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1214 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1215 Block aaalpha stored as bytes in memory (estimated size bbalpha, free ccalpha)
+1216 Changing view acls to: aaalpha
+1217 Changing view acls to: aaalpha
+1218 Changing view acls to: aaalpha
+1219 Changing view acls to: aaalpha
+1220 Changing view acls to: aaalpha
+1221 Changing view acls to: aaalpha
+1222 Changing view acls to: aaalpha
+1223 Changing view acls to: aaalpha
+1224 Changing view acls to: aaalpha
+1225 Changing view acls to: aaalpha
+1226 Changing view acls to: aaalpha
+1227 Changing view acls to: aaalpha
+1228 Changing view acls to: aaalpha
+1229 Changing view acls to: aaalpha
+1230 Changing view acls to: aaalpha
+1231 Changing view acls to: aaalpha
+1232 Changing view acls to: aaalpha
+1233 Changing view acls to: aaalpha
+1234 Changing view acls to: aaalpha
+1235 Changing view acls to: aaalpha
+1236 Changing view acls to: aaalpha
+1237 Changing view acls to: aaalpha
+1238 Changing view acls to: aaalpha
+1239 Changing view acls to: aaalpha
+1240 Changing view acls to: aaalpha
+1241 Changing view acls to: aaalpha
+1242 Changing view acls to: aaalpha
+1243 Changing view acls to: aaalpha
+1244 Changing view acls to: aaalpha
+1245 Changing view acls to: aaalpha
+1246 Changing view acls to: aaalpha
+1247 Changing view acls to: aaalpha
+1248 Changing view acls to: aaalpha
+1249 Changing view acls to: aaalpha
+1250 Changing view acls to: aaalpha
+1251 Changing view acls to: aaalpha
+1252 Changing view acls to: aaalpha
+1253 Changing view acls to: aaalpha
+1254 Changing view acls to: aaalpha
+1255 Changing view acls to: aaalpha
+1256 Changing view acls to: aaalpha
+1257 Changing view acls to: aaalpha
+1258 Changing view acls to: aaalpha
+1259 Changing view acls to: aaalpha
+1260 Changing view acls to: aaalpha
+1261 Changing view acls to: aaalpha
+1262 Changing view acls to: aaalpha
+1263 Changing view acls to: aaalpha
+1264 Changing view acls to: aaalpha
+1265 Changing view acls to: aaalpha
+1266 Changing view acls to: aaalpha
+1267 Changing view acls to: aaalpha
+1268 Changing view acls to: aaalpha
+1269 Changing view acls to: aaalpha
+1270 Changing view acls to: aaalpha
+1271 Changing view acls to: aaalpha
+1272 Changing view acls to: aaalpha
+1273 Changing view acls to: aaalpha
+1274 Changing view acls to: aaalpha
+1275 Changing view acls to: aaalpha
+1276 Changing view acls to: aaalpha
+1277 Changing view acls to: aaalpha
+1278 Changing view acls to: aaalpha
+1279 Changing view acls to: aaalpha
+1280 Saved output of task 'aaalpha' to hdfs://bbalpha
+1281 Saved output of task 'aaalpha' to hdfs://bbalpha
+1282 Saved output of task 'aaalpha' to hdfs://bbalpha
+1283 Saved output of task 'aaalpha' to hdfs://bbalpha
+1284 Saved output of task 'aaalpha' to hdfs://bbalpha
+1285 Saved output of task 'aaalpha' to hdfs://bbalpha
+1286 Saved output of task 'aaalpha' to hdfs://bbalpha
+1287 Saved output of task 'aaalpha' to hdfs://bbalpha
+1288 Saved output of task 'aaalpha' to hdfs://bbalpha
+1289 Saved output of task 'aaalpha' to hdfs://bbalpha
+1290 Saved output of task 'aaalpha' to hdfs://bbalpha
+1291 Saved output of task 'aaalpha' to hdfs://bbalpha
+1292 Saved output of task 'aaalpha' to hdfs://bbalpha
+1293 Saved output of task 'aaalpha' to hdfs://bbalpha
+1294 Saved output of task 'aaalpha' to hdfs://bbalpha
+1295 Saved output of task 'aaalpha' to hdfs://bbalpha
+1296 Saved output of task 'aaalpha' to hdfs://bbalpha
+1297 Saved output of task 'aaalpha' to hdfs://bbalpha
+1298 Saved output of task 'aaalpha' to hdfs://bbalpha
+1299 Saved output of task 'aaalpha' to hdfs://bbalpha
+1300 Saved output of task 'aaalpha' to hdfs://bbalpha
+1301 Saved output of task 'aaalpha' to hdfs://bbalpha
+1302 Saved output of task 'aaalpha' to hdfs://bbalpha
+1303 Saved output of task 'aaalpha' to hdfs://bbalpha
+1304 Saved output of task 'aaalpha' to hdfs://bbalpha
+1305 Saved output of task 'aaalpha' to hdfs://bbalpha
+1306 Saved output of task 'aaalpha' to hdfs://bbalpha
+1307 Saved output of task 'aaalpha' to hdfs://bbalpha
+1308 Saved output of task 'aaalpha' to hdfs://bbalpha
+1309 Saved output of task 'aaalpha' to hdfs://bbalpha
+1310 Saved output of task 'aaalpha' to hdfs://bbalpha
+1311 Saved output of task 'aaalpha' to hdfs://bbalpha
+1312 Saved output of task 'aaalpha' to hdfs://bbalpha
+1313 Saved output of task 'aaalpha' to hdfs://bbalpha
+1314 Saved output of task 'aaalpha' to hdfs://bbalpha
+1315 Saved output of task 'aaalpha' to hdfs://bbalpha
+1316 Saved output of task 'aaalpha' to hdfs://bbalpha
+1317 Saved output of task 'aaalpha' to hdfs://bbalpha
+1318 Saved output of task 'aaalpha' to hdfs://bbalpha
+1319 Saved output of task 'aaalpha' to hdfs://bbalpha
+1320 Saved output of task 'aaalpha' to hdfs://bbalpha
+1321 Saved output of task 'aaalpha' to hdfs://bbalpha
+1322 Saved output of task 'aaalpha' to hdfs://bbalpha
+1323 Saved output of task 'aaalpha' to hdfs://bbalpha
+1324 Saved output of task 'aaalpha' to hdfs://bbalpha
+1325 Saved output of task 'aaalpha' to hdfs://bbalpha
+1326 Saved output of task 'aaalpha' to hdfs://bbalpha
+1327 Saved output of task 'aaalpha' to hdfs://bbalpha
+1328 Saved output of task 'aaalpha' to hdfs://bbalpha
+1329 Saved output of task 'aaalpha' to hdfs://bbalpha
+1330 Saved output of task 'aaalpha' to hdfs://bbalpha
+1331 Saved output of task 'aaalpha' to hdfs://bbalpha
+1332 Saved output of task 'aaalpha' to hdfs://bbalpha
+1333 Saved output of task 'aaalpha' to hdfs://bbalpha
+1334 Saved output of task 'aaalpha' to hdfs://bbalpha
+1335 Saved output of task 'aaalpha' to hdfs://bbalpha
+1336 Saved output of task 'aaalpha' to hdfs://bbalpha
+1337 Saved output of task 'aaalpha' to hdfs://bbalpha
+1338 Saved output of task 'aaalpha' to hdfs://bbalpha
+1339 Saved output of task 'aaalpha' to hdfs://bbalpha
+1340 Saved output of task 'aaalpha' to hdfs://bbalpha
+1341 Saved output of task 'aaalpha' to hdfs://bbalpha
+1342 Saved output of task 'aaalpha' to hdfs://bbalpha
+1343 Saved output of task 'aaalpha' to hdfs://bbalpha
+1344 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1345 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1346 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1347 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1348 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1349 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1350 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1351 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1352 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1353 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1354 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1355 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1356 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1357 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1358 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1359 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1360 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1361 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1362 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1363 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1364 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1365 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1366 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1367 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1368 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1369 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1370 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1371 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1372 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1373 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1374 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1375 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1376 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1377 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1378 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1379 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1380 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1381 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1382 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1383 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1384 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1385 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1386 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1387 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1388 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1389 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1390 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1391 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1392 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1393 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1394 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1395 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1396 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1397 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1398 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1399 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1400 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1401 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1402 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1403 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1404 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1405 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1406 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1407 Finished task aaalpha in stage bbalpha (TID ccalpha). ddalpha bytes result sent to driver
+1408 Connecting to driver: spark://aaalpha
+1409 Connecting to driver: spark://aaalpha
+1410 Connecting to driver: spark://aaalpha
+1411 Connecting to driver: spark://aaalpha
+1412 Connecting to driver: spark://aaalpha
+1413 Connecting to driver: spark://aaalpha
+1414 Connecting to driver: spark://aaalpha
+1415 Connecting to driver: spark://aaalpha
+1416 Connecting to driver: spark://aaalpha
+1417 Connecting to driver: spark://aaalpha
+1418 Connecting to driver: spark://aaalpha
+1419 Connecting to driver: spark://aaalpha
+1420 Connecting to driver: spark://aaalpha
+1421 Connecting to driver: spark://aaalpha
+1422 Connecting to driver: spark://aaalpha
+1423 Connecting to driver: spark://aaalpha
+1424 Connecting to driver: spark://aaalpha
+1425 Connecting to driver: spark://aaalpha
+1426 Connecting to driver: spark://aaalpha
+1427 Connecting to driver: spark://aaalpha
+1428 Connecting to driver: spark://aaalpha
+1429 Connecting to driver: spark://aaalpha
+1430 Connecting to driver: spark://aaalpha
+1431 Connecting to driver: spark://aaalpha
+1432 Connecting to driver: spark://aaalpha
+1433 Connecting to driver: spark://aaalpha
+1434 Connecting to driver: spark://aaalpha
+1435 Connecting to driver: spark://aaalpha
+1436 Connecting to driver: spark://aaalpha
+1437 Connecting to driver: spark://aaalpha
+1438 Connecting to driver: spark://aaalpha
+1439 Connecting to driver: spark://aaalpha
+1440 Connecting to driver: spark://aaalpha
+1441 Connecting to driver: spark://aaalpha
+1442 Connecting to driver: spark://aaalpha
+1443 Connecting to driver: spark://aaalpha
+1444 Connecting to driver: spark://aaalpha
+1445 Connecting to driver: spark://aaalpha
+1446 Connecting to driver: spark://aaalpha
+1447 Connecting to driver: spark://aaalpha
+1448 Connecting to driver: spark://aaalpha
+1449 Connecting to driver: spark://aaalpha
+1450 Connecting to driver: spark://aaalpha
+1451 Connecting to driver: spark://aaalpha
+1452 Connecting to driver: spark://aaalpha
+1453 Connecting to driver: spark://aaalpha
+1454 Connecting to driver: spark://aaalpha
+1455 Connecting to driver: spark://aaalpha
+1456 Connecting to driver: spark://aaalpha
+1457 Connecting to driver: spark://aaalpha
+1458 Connecting to driver: spark://aaalpha
+1459 Connecting to driver: spark://aaalpha
+1460 Connecting to driver: spark://aaalpha
+1461 Connecting to driver: spark://aaalpha
+1462 Connecting to driver: spark://aaalpha
+1463 Connecting to driver: spark://aaalpha
+1464 Connecting to driver: spark://aaalpha
+1465 Connecting to driver: spark://aaalpha
+1466 Connecting to driver: spark://aaalpha
+1467 Connecting to driver: spark://aaalpha
+1468 Connecting to driver: spark://aaalpha
+1469 Connecting to driver: spark://aaalpha
+1470 Connecting to driver: spark://aaalpha
+1471 Connecting to driver: spark://aaalpha
+1472 Created local directory at aaalpha
+1473 Created local directory at aaalpha
+1474 Created local directory at aaalpha
+1475 Created local directory at aaalpha
+1476 Created local directory at aaalpha
+1477 Created local directory at aaalpha
+1478 Created local directory at aaalpha
+1479 Created local directory at aaalpha
+1480 Created local directory at aaalpha
+1481 Created local directory at aaalpha
+1482 Created local directory at aaalpha
+1483 Created local directory at aaalpha
+1484 Created local directory at aaalpha
+1485 Created local directory at aaalpha
+1486 Created local directory at aaalpha
+1487 Created local directory at aaalpha
+1488 Created local directory at aaalpha
+1489 Created local directory at aaalpha
+1490 Created local directory at aaalpha
+1491 Created local directory at aaalpha
+1492 Created local directory at aaalpha
+1493 Created local directory at aaalpha
+1494 Created local directory at aaalpha
+1495 Created local directory at aaalpha
+1496 Created local directory at aaalpha
+1497 Created local directory at aaalpha
+1498 Created local directory at aaalpha
+1499 Created local directory at aaalpha
+1500 Created local directory at aaalpha
+1501 Created local directory at aaalpha
+1502 Created local directory at aaalpha
+1503 Created local directory at aaalpha
+1504 Created local directory at aaalpha
+1505 Created local directory at aaalpha
+1506 Created local directory at aaalpha
+1507 Created local directory at aaalpha
+1508 Created local directory at aaalpha
+1509 Created local directory at aaalpha
+1510 Created local directory at aaalpha
+1511 Created local directory at aaalpha
+1512 Created local directory at aaalpha
+1513 Created local directory at aaalpha
+1514 Created local directory at aaalpha
+1515 Created local directory at aaalpha
+1516 Created local directory at aaalpha
+1517 Created local directory at aaalpha
+1518 Created local directory at aaalpha
+1519 Created local directory at aaalpha
+1520 Created local directory at aaalpha
+1521 Created local directory at aaalpha
+1522 Created local directory at aaalpha
+1523 Created local directory at aaalpha
+1524 Created local directory at aaalpha
+1525 Created local directory at aaalpha
+1526 Created local directory at aaalpha
+1527 Created local directory at aaalpha
+1528 Created local directory at aaalpha
+1529 Created local directory at aaalpha
+1530 Created local directory at aaalpha
+1531 Created local directory at aaalpha
+1532 Created local directory at aaalpha
+1533 Created local directory at aaalpha
+1534 Created local directory at aaalpha
+1535 Created local directory at aaalpha

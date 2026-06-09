@@ -1,0 +1,42 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Sensitive files
+.env
+*.key
+openai_key.txt
+*_key.txt
+*_api_key.txt
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large or generated experiment outputs
+results/parser_runs/
+results/diversity/
+results/ground_truth_diversity/generated_logs/
+results/paper_ld_check/
+results/paper_ld_check_current/
+**/_deepseek_cache/
+**/*_structured.csv
+data/diversity_0_*/
+external_dependencies/LILAC-main/result/
+external_dependencies/LILAC-main/deduplicated_data/
+external_dependencies/LILAC-main/2k_dataset/
+
+# Legacy generated folders that are not needed by the final reproduction path
+log_after_gpt/
+log_after_select/
+new_dataset/

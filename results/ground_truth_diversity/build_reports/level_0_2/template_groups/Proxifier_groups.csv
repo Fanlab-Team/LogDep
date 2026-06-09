@@ -1,0 +1,9 @@
+﻿dataset,target_score,construction_mode,selection_rank,requested_activation_ratio,activation_ratio,event_id,active,line_budget,start_line_id,end_line_id,requested_entropy_per_active_slot,target_entropy_per_active_slot,achieved_entropy_per_active_slot,ground_truth_group_ld,value_counts,placeholder_count,template
+Proxifier,0.2,ground-truth,1,0.4472135954999579,0.5,E4,1,64,1,64,0.4,0.4,0.39989957839128326,0.39989957839128326,32 5 5 5 5 4 4 4,5,<*>:<*> error : Could not connect to proxy <*>:<*> - connection attempt failed with error <*>
+Proxifier,0.2,ground-truth,2,0.4472135954999579,0.5,E2,1,64,65,128,0.4,0.4,0.39989957839128326,0.39989957839128326,32 5 5 5 5 4 4 4,4,<*>:<*> open through proxy <*>:<*> HTTPS
+Proxifier,0.2,ground-truth,3,0.4472135954999579,0.5,E8,1,64,129,192,0.4,0.4,0.39989957839128326,0.39989957839128326,32 5 5 5 5 4 4 4,4,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>"
+Proxifier,0.2,ground-truth,4,0.4472135954999579,0.5,E1,1,64,193,256,0.4,0.4,0.39989957839128326,0.39989957839128326,32 5 5 5 5 4 4 4,4,<*>:<*> open through proxy <*>:<*> SOCKS5
+Proxifier,0.2,ground-truth,5,0.4472135954999579,0.5,E6,0,64,257,320,0.4,0.4,0.39989957839128326,0.0,32 5 5 5 5 4 4 4,4,<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy closed the connection unexpectedly.
+Proxifier,0.2,ground-truth,6,0.4472135954999579,0.5,E3,0,64,321,384,0.4,0.4,0.39989957839128326,0.0,32 5 5 5 5 4 4 4,6,<*>:<*> error : Could not connect to proxy <*>:<*> - Could not resolve <*> error <*>
+Proxifier,0.2,ground-truth,7,0.4472135954999579,0.5,E5,0,64,385,448,0.4,0.4,0.39989957839128326,0.0,32 5 5 5 5 4 4 4,5,"<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+Proxifier,0.2,ground-truth,8,0.4472135954999579,0.5,E7,0,64,449,512,0.4,0.4,0.39989957839128326,0.0,32 5 5 5 5 4 4 4,2,<*>:<*> error : A connection request was canceled before the completion.

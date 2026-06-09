@@ -1,0 +1,896 @@
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100000
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100001
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100001
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100001
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100002
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100002
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100002
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100003
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100003
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100004
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100004
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100005
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100005
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100006
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100006
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100007
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100007
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100008
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100008
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100009
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100009
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100010
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100010
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100011
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100011
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100012
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100012
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100013
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100013
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100014
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100014
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100015
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100015
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100016
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100016
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100017
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100017
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100018
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100018
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100019
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100019
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100020
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100020
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100021
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100021
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100022
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100022
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100023
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100023
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100024
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100024
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100025
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100025
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100026
+081109 205931 13 INFO dfs.DataBlockScanner: Verification succeeded for blk_100026
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100000 of size blk_110000 from blk_120000
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100001 of size blk_110001 from blk_120001
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100001 of size blk_110001 from blk_120001
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100001 of size blk_110001 from blk_120001
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100002 of size blk_110002 from blk_120002
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100002 of size blk_110002 from blk_120002
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100002 of size blk_110002 from blk_120002
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100003 of size blk_110003 from blk_120003
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100003 of size blk_110003 from blk_120003
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100004 of size blk_110004 from blk_120004
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100004 of size blk_110004 from blk_120004
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100005 of size blk_110005 from blk_120005
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100005 of size blk_110005 from blk_120005
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100006 of size blk_110006 from blk_120006
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100006 of size blk_110006 from blk_120006
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100007 of size blk_110007 from blk_120007
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100007 of size blk_110007 from blk_120007
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100008 of size blk_110008 from blk_120008
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100008 of size blk_110008 from blk_120008
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100009 of size blk_110009 from blk_120009
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100009 of size blk_110009 from blk_120009
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100010 of size blk_110010 from blk_120010
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100010 of size blk_110010 from blk_120010
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100011 of size blk_110011 from blk_120011
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100011 of size blk_110011 from blk_120011
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100012 of size blk_110012 from blk_120012
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100012 of size blk_110012 from blk_120012
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100013 of size blk_110013 from blk_120013
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100013 of size blk_110013 from blk_120013
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100014 of size blk_110014 from blk_120014
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100014 of size blk_110014 from blk_120014
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100015 of size blk_110015 from blk_120015
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100015 of size blk_110015 from blk_120015
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100016 of size blk_110016 from blk_120016
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100016 of size blk_110016 from blk_120016
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100017 of size blk_110017 from blk_120017
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100017 of size blk_110017 from blk_120017
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100018 of size blk_110018 from blk_120018
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100018 of size blk_110018 from blk_120018
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100019 of size blk_110019 from blk_120019
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100019 of size blk_110019 from blk_120019
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100020 of size blk_110020 from blk_120020
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100020 of size blk_110020 from blk_120020
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100021 of size blk_110021 from blk_120021
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100021 of size blk_110021 from blk_120021
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100022 of size blk_110022 from blk_120022
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100022 of size blk_110022 from blk_120022
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100023 of size blk_110023 from blk_120023
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100023 of size blk_110023 from blk_120023
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100024 of size blk_110024 from blk_120024
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100024 of size blk_110024 from blk_120024
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100025 of size blk_110025 from blk_120025
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100025 of size blk_110025 from blk_120025
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100026 of size blk_110026 from blk_120026
+081109 204655 556 INFO dfs.DataNode$PacketResponder: Received block blk_100026 of size blk_110026 from blk_120026
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100006 src: blk_110006:blk_120006 dest: blk_130006:blk_140006
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100006 src: blk_110006:blk_120006 dest: blk_130006:blk_140006
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100007 src: blk_110007:blk_120007 dest: blk_130007:blk_140007
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100007 src: blk_110007:blk_120007 dest: blk_130007:blk_140007
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100008 src: blk_110008:blk_120008 dest: blk_130008:blk_140008
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100008 src: blk_110008:blk_120008 dest: blk_130008:blk_140008
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100009 src: blk_110009:blk_120009 dest: blk_130009:blk_140009
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100009 src: blk_110009:blk_120009 dest: blk_130009:blk_140009
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100010 src: blk_110010:blk_120010 dest: blk_130010:blk_140010
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100010 src: blk_110010:blk_120010 dest: blk_130010:blk_140010
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100011 src: blk_110011:blk_120011 dest: blk_130011:blk_140011
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100011 src: blk_110011:blk_120011 dest: blk_130011:blk_140011
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100012 src: blk_110012:blk_120012 dest: blk_130012:blk_140012
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100012 src: blk_110012:blk_120012 dest: blk_130012:blk_140012
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100013 src: blk_110013:blk_120013 dest: blk_130013:blk_140013
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100013 src: blk_110013:blk_120013 dest: blk_130013:blk_140013
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100014 src: blk_110014:blk_120014 dest: blk_130014:blk_140014
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100014 src: blk_110014:blk_120014 dest: blk_130014:blk_140014
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100015 src: blk_110015:blk_120015 dest: blk_130015:blk_140015
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100015 src: blk_110015:blk_120015 dest: blk_130015:blk_140015
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100016 src: blk_110016:blk_120016 dest: blk_130016:blk_140016
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100016 src: blk_110016:blk_120016 dest: blk_130016:blk_140016
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100017 src: blk_110017:blk_120017 dest: blk_130017:blk_140017
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100017 src: blk_110017:blk_120017 dest: blk_130017:blk_140017
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100018 src: blk_110018:blk_120018 dest: blk_130018:blk_140018
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100018 src: blk_110018:blk_120018 dest: blk_130018:blk_140018
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100019 src: blk_110019:blk_120019 dest: blk_130019:blk_140019
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100019 src: blk_110019:blk_120019 dest: blk_130019:blk_140019
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100020 src: blk_110020:blk_120020 dest: blk_130020:blk_140020
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100020 src: blk_110020:blk_120020 dest: blk_130020:blk_140020
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100021 src: blk_110021:blk_120021 dest: blk_130021:blk_140021
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100021 src: blk_110021:blk_120021 dest: blk_130021:blk_140021
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100022 src: blk_110022:blk_120022 dest: blk_130022:blk_140022
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100022 src: blk_110022:blk_120022 dest: blk_130022:blk_140022
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100023 src: blk_110023:blk_120023 dest: blk_130023:blk_140023
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100023 src: blk_110023:blk_120023 dest: blk_130023:blk_140023
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100024 src: blk_110024:blk_120024 dest: blk_130024:blk_140024
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100024 src: blk_110024:blk_120024 dest: blk_130024:blk_140024
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100025 src: blk_110025:blk_120025 dest: blk_130025:blk_140025
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100025 src: blk_110025:blk_120025 dest: blk_130025:blk_140025
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100026 src: blk_110026:blk_120026 dest: blk_130026:blk_140026
+081109 204815 653 INFO dfs.DataNode$DataXceiver: Receiving block blk_100026 src: blk_110026:blk_120026 dest: blk_130026:blk_140026
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100001:blk_110001 is added to blk_120001 size blk_130001
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100001:blk_110001 is added to blk_120001 size blk_130001
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100001:blk_110001 is added to blk_120001 size blk_130001
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100002:blk_110002 is added to blk_120002 size blk_130002
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100002:blk_110002 is added to blk_120002 size blk_130002
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100002:blk_110002 is added to blk_120002 size blk_130002
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100003:blk_110003 is added to blk_120003 size blk_130003
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100003:blk_110003 is added to blk_120003 size blk_130003
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100004:blk_110004 is added to blk_120004 size blk_130004
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100004:blk_110004 is added to blk_120004 size blk_130004
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100005:blk_110005 is added to blk_120005 size blk_130005
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100005:blk_110005 is added to blk_120005 size blk_130005
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100006:blk_110006 is added to blk_120006 size blk_130006
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100006:blk_110006 is added to blk_120006 size blk_130006
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100007:blk_110007 is added to blk_120007 size blk_130007
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100007:blk_110007 is added to blk_120007 size blk_130007
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100008:blk_110008 is added to blk_120008 size blk_130008
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100008:blk_110008 is added to blk_120008 size blk_130008
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100009:blk_110009 is added to blk_120009 size blk_130009
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100009:blk_110009 is added to blk_120009 size blk_130009
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100010:blk_110010 is added to blk_120010 size blk_130010
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100010:blk_110010 is added to blk_120010 size blk_130010
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100011:blk_110011 is added to blk_120011 size blk_130011
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100011:blk_110011 is added to blk_120011 size blk_130011
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100012:blk_110012 is added to blk_120012 size blk_130012
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100012:blk_110012 is added to blk_120012 size blk_130012
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100013:blk_110013 is added to blk_120013 size blk_130013
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100013:blk_110013 is added to blk_120013 size blk_130013
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100014:blk_110014 is added to blk_120014 size blk_130014
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100014:blk_110014 is added to blk_120014 size blk_130014
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100015:blk_110015 is added to blk_120015 size blk_130015
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100015:blk_110015 is added to blk_120015 size blk_130015
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100016:blk_110016 is added to blk_120016 size blk_130016
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100016:blk_110016 is added to blk_120016 size blk_130016
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100017:blk_110017 is added to blk_120017 size blk_130017
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100017:blk_110017 is added to blk_120017 size blk_130017
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100018:blk_110018 is added to blk_120018 size blk_130018
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100018:blk_110018 is added to blk_120018 size blk_130018
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100019:blk_110019 is added to blk_120019 size blk_130019
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100019:blk_110019 is added to blk_120019 size blk_130019
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100020:blk_110020 is added to blk_120020 size blk_130020
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100020:blk_110020 is added to blk_120020 size blk_130020
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100021:blk_110021 is added to blk_120021 size blk_130021
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100021:blk_110021 is added to blk_120021 size blk_130021
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100022:blk_110022 is added to blk_120022 size blk_130022
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100022:blk_110022 is added to blk_120022 size blk_130022
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100023:blk_110023 is added to blk_120023 size blk_130023
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100023:blk_110023 is added to blk_120023 size blk_130023
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100024:blk_110024 is added to blk_120024 size blk_130024
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100024:blk_110024 is added to blk_120024 size blk_130024
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100025:blk_110025 is added to blk_120025 size blk_130025
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100025:blk_110025 is added to blk_120025 size blk_130025
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100026:blk_110026 is added to blk_120026 size blk_130026
+081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100026:blk_110026 is added to blk_120026 size blk_130026
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001 of size blk_150001
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001 of size blk_150001
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001 of size blk_150001
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002 of size blk_150002
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002 of size blk_150002
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002 of size blk_150002
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003 of size blk_150003
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003 of size blk_150003
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004 of size blk_150004
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004 of size blk_150004
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005 of size blk_150005
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005 of size blk_150005
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100006 src: blk_110006:blk_120006 dest: blk_130006:blk_140006 of size blk_150006
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100006 src: blk_110006:blk_120006 dest: blk_130006:blk_140006 of size blk_150006
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100007 src: blk_110007:blk_120007 dest: blk_130007:blk_140007 of size blk_150007
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100007 src: blk_110007:blk_120007 dest: blk_130007:blk_140007 of size blk_150007
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100008 src: blk_110008:blk_120008 dest: blk_130008:blk_140008 of size blk_150008
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100008 src: blk_110008:blk_120008 dest: blk_130008:blk_140008 of size blk_150008
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100009 src: blk_110009:blk_120009 dest: blk_130009:blk_140009 of size blk_150009
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100009 src: blk_110009:blk_120009 dest: blk_130009:blk_140009 of size blk_150009
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100010 src: blk_110010:blk_120010 dest: blk_130010:blk_140010 of size blk_150010
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100010 src: blk_110010:blk_120010 dest: blk_130010:blk_140010 of size blk_150010
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100011 src: blk_110011:blk_120011 dest: blk_130011:blk_140011 of size blk_150011
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100011 src: blk_110011:blk_120011 dest: blk_130011:blk_140011 of size blk_150011
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100012 src: blk_110012:blk_120012 dest: blk_130012:blk_140012 of size blk_150012
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100012 src: blk_110012:blk_120012 dest: blk_130012:blk_140012 of size blk_150012
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100013 src: blk_110013:blk_120013 dest: blk_130013:blk_140013 of size blk_150013
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100013 src: blk_110013:blk_120013 dest: blk_130013:blk_140013 of size blk_150013
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100014 src: blk_110014:blk_120014 dest: blk_130014:blk_140014 of size blk_150014
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100014 src: blk_110014:blk_120014 dest: blk_130014:blk_140014 of size blk_150014
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100015 src: blk_110015:blk_120015 dest: blk_130015:blk_140015 of size blk_150015
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100015 src: blk_110015:blk_120015 dest: blk_130015:blk_140015 of size blk_150015
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100016 src: blk_110016:blk_120016 dest: blk_130016:blk_140016 of size blk_150016
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100016 src: blk_110016:blk_120016 dest: blk_130016:blk_140016 of size blk_150016
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100017 src: blk_110017:blk_120017 dest: blk_130017:blk_140017 of size blk_150017
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100017 src: blk_110017:blk_120017 dest: blk_130017:blk_140017 of size blk_150017
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100018 src: blk_110018:blk_120018 dest: blk_130018:blk_140018 of size blk_150018
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100018 src: blk_110018:blk_120018 dest: blk_130018:blk_140018 of size blk_150018
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100019 src: blk_110019:blk_120019 dest: blk_130019:blk_140019 of size blk_150019
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100019 src: blk_110019:blk_120019 dest: blk_130019:blk_140019 of size blk_150019
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100020 src: blk_110020:blk_120020 dest: blk_130020:blk_140020 of size blk_150020
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100020 src: blk_110020:blk_120020 dest: blk_130020:blk_140020 of size blk_150020
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100021 src: blk_110021:blk_120021 dest: blk_130021:blk_140021 of size blk_150021
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100021 src: blk_110021:blk_120021 dest: blk_130021:blk_140021 of size blk_150021
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100022 src: blk_110022:blk_120022 dest: blk_130022:blk_140022 of size blk_150022
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100022 src: blk_110022:blk_120022 dest: blk_130022:blk_140022 of size blk_150022
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100023 src: blk_110023:blk_120023 dest: blk_130023:blk_140023 of size blk_150023
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100023 src: blk_110023:blk_120023 dest: blk_130023:blk_140023 of size blk_150023
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100024 src: blk_110024:blk_120024 dest: blk_130024:blk_140024 of size blk_150024
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100024 src: blk_110024:blk_120024 dest: blk_130024:blk_140024 of size blk_150024
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100025 src: blk_110025:blk_120025 dest: blk_130025:blk_140025 of size blk_150025
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100025 src: blk_110025:blk_120025 dest: blk_130025:blk_140025 of size blk_150025
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100026 src: blk_110026:blk_120026 dest: blk_130026:blk_140026 of size blk_150026
+081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_100026 src: blk_110026:blk_120026 dest: blk_130026:blk_140026 of size blk_150026
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100001:blk_110001 to replicate blk_120001 to datanode(s) blk_130001:blk_140001
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100001:blk_110001 to replicate blk_120001 to datanode(s) blk_130001:blk_140001
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100001:blk_110001 to replicate blk_120001 to datanode(s) blk_130001:blk_140001
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100002:blk_110002 to replicate blk_120002 to datanode(s) blk_130002:blk_140002
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100002:blk_110002 to replicate blk_120002 to datanode(s) blk_130002:blk_140002
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100002:blk_110002 to replicate blk_120002 to datanode(s) blk_130002:blk_140002
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100003:blk_110003 to replicate blk_120003 to datanode(s) blk_130003:blk_140003
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100003:blk_110003 to replicate blk_120003 to datanode(s) blk_130003:blk_140003
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100004:blk_110004 to replicate blk_120004 to datanode(s) blk_130004:blk_140004
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100004:blk_110004 to replicate blk_120004 to datanode(s) blk_130004:blk_140004
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100005:blk_110005 to replicate blk_120005 to datanode(s) blk_130005:blk_140005
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100005:blk_110005 to replicate blk_120005 to datanode(s) blk_130005:blk_140005
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100006:blk_110006 to replicate blk_120006 to datanode(s) blk_130006:blk_140006
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100006:blk_110006 to replicate blk_120006 to datanode(s) blk_130006:blk_140006
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100007:blk_110007 to replicate blk_120007 to datanode(s) blk_130007:blk_140007
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100007:blk_110007 to replicate blk_120007 to datanode(s) blk_130007:blk_140007
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100008:blk_110008 to replicate blk_120008 to datanode(s) blk_130008:blk_140008
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100008:blk_110008 to replicate blk_120008 to datanode(s) blk_130008:blk_140008
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100009:blk_110009 to replicate blk_120009 to datanode(s) blk_130009:blk_140009
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100009:blk_110009 to replicate blk_120009 to datanode(s) blk_130009:blk_140009
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100010:blk_110010 to replicate blk_120010 to datanode(s) blk_130010:blk_140010
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100010:blk_110010 to replicate blk_120010 to datanode(s) blk_130010:blk_140010
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100011:blk_110011 to replicate blk_120011 to datanode(s) blk_130011:blk_140011
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100011:blk_110011 to replicate blk_120011 to datanode(s) blk_130011:blk_140011
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100012:blk_110012 to replicate blk_120012 to datanode(s) blk_130012:blk_140012
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100012:blk_110012 to replicate blk_120012 to datanode(s) blk_130012:blk_140012
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100013:blk_110013 to replicate blk_120013 to datanode(s) blk_130013:blk_140013
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100013:blk_110013 to replicate blk_120013 to datanode(s) blk_130013:blk_140013
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100014:blk_110014 to replicate blk_120014 to datanode(s) blk_130014:blk_140014
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100014:blk_110014 to replicate blk_120014 to datanode(s) blk_130014:blk_140014
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100015:blk_110015 to replicate blk_120015 to datanode(s) blk_130015:blk_140015
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100015:blk_110015 to replicate blk_120015 to datanode(s) blk_130015:blk_140015
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100016:blk_110016 to replicate blk_120016 to datanode(s) blk_130016:blk_140016
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100016:blk_110016 to replicate blk_120016 to datanode(s) blk_130016:blk_140016
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100017:blk_110017 to replicate blk_120017 to datanode(s) blk_130017:blk_140017
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100017:blk_110017 to replicate blk_120017 to datanode(s) blk_130017:blk_140017
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100018:blk_110018 to replicate blk_120018 to datanode(s) blk_130018:blk_140018
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100018:blk_110018 to replicate blk_120018 to datanode(s) blk_130018:blk_140018
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100019:blk_110019 to replicate blk_120019 to datanode(s) blk_130019:blk_140019
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100019:blk_110019 to replicate blk_120019 to datanode(s) blk_130019:blk_140019
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100020:blk_110020 to replicate blk_120020 to datanode(s) blk_130020:blk_140020
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100020:blk_110020 to replicate blk_120020 to datanode(s) blk_130020:blk_140020
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100021:blk_110021 to replicate blk_120021 to datanode(s) blk_130021:blk_140021
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100021:blk_110021 to replicate blk_120021 to datanode(s) blk_130021:blk_140021
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100022:blk_110022 to replicate blk_120022 to datanode(s) blk_130022:blk_140022
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100022:blk_110022 to replicate blk_120022 to datanode(s) blk_130022:blk_140022
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100023:blk_110023 to replicate blk_120023 to datanode(s) blk_130023:blk_140023
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100023:blk_110023 to replicate blk_120023 to datanode(s) blk_130023:blk_140023
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100024:blk_110024 to replicate blk_120024 to datanode(s) blk_130024:blk_140024
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100024:blk_110024 to replicate blk_120024 to datanode(s) blk_130024:blk_140024
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100025:blk_110025 to replicate blk_120025 to datanode(s) blk_130025:blk_140025
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100025:blk_110025 to replicate blk_120025 to datanode(s) blk_130025:blk_140025
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100026:blk_110026 to replicate blk_120026 to datanode(s) blk_130026:blk_140026
+081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask blk_100026:blk_110026 to replicate blk_120026 to datanode(s) blk_130026:blk_140026
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100001:blk_110001:Got exception while serving blk_120001 to blk_130001:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100001:blk_110001:Got exception while serving blk_120001 to blk_130001:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100001:blk_110001:Got exception while serving blk_120001 to blk_130001:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100002:blk_110002:Got exception while serving blk_120002 to blk_130002:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100002:blk_110002:Got exception while serving blk_120002 to blk_130002:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100002:blk_110002:Got exception while serving blk_120002 to blk_130002:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100003:blk_110003:Got exception while serving blk_120003 to blk_130003:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100003:blk_110003:Got exception while serving blk_120003 to blk_130003:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100004:blk_110004:Got exception while serving blk_120004 to blk_130004:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100004:blk_110004:Got exception while serving blk_120004 to blk_130004:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100005:blk_110005:Got exception while serving blk_120005 to blk_130005:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100005:blk_110005:Got exception while serving blk_120005 to blk_130005:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100006:blk_110006:Got exception while serving blk_120006 to blk_130006:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100006:blk_110006:Got exception while serving blk_120006 to blk_130006:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100007:blk_110007:Got exception while serving blk_120007 to blk_130007:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100007:blk_110007:Got exception while serving blk_120007 to blk_130007:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100008:blk_110008:Got exception while serving blk_120008 to blk_130008:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100008:blk_110008:Got exception while serving blk_120008 to blk_130008:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100009:blk_110009:Got exception while serving blk_120009 to blk_130009:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100009:blk_110009:Got exception while serving blk_120009 to blk_130009:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100010:blk_110010:Got exception while serving blk_120010 to blk_130010:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100010:blk_110010:Got exception while serving blk_120010 to blk_130010:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100011:blk_110011:Got exception while serving blk_120011 to blk_130011:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100011:blk_110011:Got exception while serving blk_120011 to blk_130011:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100012:blk_110012:Got exception while serving blk_120012 to blk_130012:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100012:blk_110012:Got exception while serving blk_120012 to blk_130012:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100013:blk_110013:Got exception while serving blk_120013 to blk_130013:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100013:blk_110013:Got exception while serving blk_120013 to blk_130013:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100014:blk_110014:Got exception while serving blk_120014 to blk_130014:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100014:blk_110014:Got exception while serving blk_120014 to blk_130014:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100015:blk_110015:Got exception while serving blk_120015 to blk_130015:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100015:blk_110015:Got exception while serving blk_120015 to blk_130015:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100016:blk_110016:Got exception while serving blk_120016 to blk_130016:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100016:blk_110016:Got exception while serving blk_120016 to blk_130016:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100017:blk_110017:Got exception while serving blk_120017 to blk_130017:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100017:blk_110017:Got exception while serving blk_120017 to blk_130017:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100018:blk_110018:Got exception while serving blk_120018 to blk_130018:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100018:blk_110018:Got exception while serving blk_120018 to blk_130018:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100019:blk_110019:Got exception while serving blk_120019 to blk_130019:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100019:blk_110019:Got exception while serving blk_120019 to blk_130019:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100020:blk_110020:Got exception while serving blk_120020 to blk_130020:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100020:blk_110020:Got exception while serving blk_120020 to blk_130020:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100021:blk_110021:Got exception while serving blk_120021 to blk_130021:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100021:blk_110021:Got exception while serving blk_120021 to blk_130021:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100022:blk_110022:Got exception while serving blk_120022 to blk_130022:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100022:blk_110022:Got exception while serving blk_120022 to blk_130022:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100023:blk_110023:Got exception while serving blk_120023 to blk_130023:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100023:blk_110023:Got exception while serving blk_120023 to blk_130023:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100024:blk_110024:Got exception while serving blk_120024 to blk_130024:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100024:blk_110024:Got exception while serving blk_120024 to blk_130024:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100025:blk_110025:Got exception while serving blk_120025 to blk_130025:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100025:blk_110025:Got exception while serving blk_120025 to blk_130025:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100026:blk_110026:Got exception while serving blk_120026 to blk_130026:
+081109 214043 2561 WARN dfs.DataNode$DataXceiver: blk_100026:blk_110026:Got exception while serving blk_120026 to blk_130026:
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+081110 211541 18 INFO dfs.DataNode: blk_100001:blk_110001 Starting thread to transfer block blk_120001 to blk_130001:blk_140001
+081110 211541 18 INFO dfs.DataNode: blk_100001:blk_110001 Starting thread to transfer block blk_120001 to blk_130001:blk_140001
+081110 211541 18 INFO dfs.DataNode: blk_100001:blk_110001 Starting thread to transfer block blk_120001 to blk_130001:blk_140001
+081110 211541 18 INFO dfs.DataNode: blk_100002:blk_110002 Starting thread to transfer block blk_120002 to blk_130002:blk_140002
+081110 211541 18 INFO dfs.DataNode: blk_100002:blk_110002 Starting thread to transfer block blk_120002 to blk_130002:blk_140002
+081110 211541 18 INFO dfs.DataNode: blk_100002:blk_110002 Starting thread to transfer block blk_120002 to blk_130002:blk_140002
+081110 211541 18 INFO dfs.DataNode: blk_100003:blk_110003 Starting thread to transfer block blk_120003 to blk_130003:blk_140003
+081110 211541 18 INFO dfs.DataNode: blk_100003:blk_110003 Starting thread to transfer block blk_120003 to blk_130003:blk_140003
+081110 211541 18 INFO dfs.DataNode: blk_100004:blk_110004 Starting thread to transfer block blk_120004 to blk_130004:blk_140004
+081110 211541 18 INFO dfs.DataNode: blk_100004:blk_110004 Starting thread to transfer block blk_120004 to blk_130004:blk_140004
+081110 211541 18 INFO dfs.DataNode: blk_100005:blk_110005 Starting thread to transfer block blk_120005 to blk_130005:blk_140005
+081110 211541 18 INFO dfs.DataNode: blk_100005:blk_110005 Starting thread to transfer block blk_120005 to blk_130005:blk_140005
+081110 211541 18 INFO dfs.DataNode: blk_100006:blk_110006 Starting thread to transfer block blk_120006 to blk_130006:blk_140006
+081110 211541 18 INFO dfs.DataNode: blk_100006:blk_110006 Starting thread to transfer block blk_120006 to blk_130006:blk_140006
+081110 211541 18 INFO dfs.DataNode: blk_100007:blk_110007 Starting thread to transfer block blk_120007 to blk_130007:blk_140007
+081110 211541 18 INFO dfs.DataNode: blk_100007:blk_110007 Starting thread to transfer block blk_120007 to blk_130007:blk_140007
+081110 211541 18 INFO dfs.DataNode: blk_100008:blk_110008 Starting thread to transfer block blk_120008 to blk_130008:blk_140008
+081110 211541 18 INFO dfs.DataNode: blk_100008:blk_110008 Starting thread to transfer block blk_120008 to blk_130008:blk_140008
+081110 211541 18 INFO dfs.DataNode: blk_100009:blk_110009 Starting thread to transfer block blk_120009 to blk_130009:blk_140009
+081110 211541 18 INFO dfs.DataNode: blk_100009:blk_110009 Starting thread to transfer block blk_120009 to blk_130009:blk_140009
+081110 211541 18 INFO dfs.DataNode: blk_100010:blk_110010 Starting thread to transfer block blk_120010 to blk_130010:blk_140010
+081110 211541 18 INFO dfs.DataNode: blk_100010:blk_110010 Starting thread to transfer block blk_120010 to blk_130010:blk_140010
+081110 211541 18 INFO dfs.DataNode: blk_100011:blk_110011 Starting thread to transfer block blk_120011 to blk_130011:blk_140011
+081110 211541 18 INFO dfs.DataNode: blk_100011:blk_110011 Starting thread to transfer block blk_120011 to blk_130011:blk_140011
+081110 211541 18 INFO dfs.DataNode: blk_100012:blk_110012 Starting thread to transfer block blk_120012 to blk_130012:blk_140012
+081110 211541 18 INFO dfs.DataNode: blk_100012:blk_110012 Starting thread to transfer block blk_120012 to blk_130012:blk_140012
+081110 211541 18 INFO dfs.DataNode: blk_100013:blk_110013 Starting thread to transfer block blk_120013 to blk_130013:blk_140013
+081110 211541 18 INFO dfs.DataNode: blk_100013:blk_110013 Starting thread to transfer block blk_120013 to blk_130013:blk_140013
+081110 211541 18 INFO dfs.DataNode: blk_100014:blk_110014 Starting thread to transfer block blk_120014 to blk_130014:blk_140014
+081110 211541 18 INFO dfs.DataNode: blk_100014:blk_110014 Starting thread to transfer block blk_120014 to blk_130014:blk_140014
+081110 211541 18 INFO dfs.DataNode: blk_100015:blk_110015 Starting thread to transfer block blk_120015 to blk_130015:blk_140015
+081110 211541 18 INFO dfs.DataNode: blk_100015:blk_110015 Starting thread to transfer block blk_120015 to blk_130015:blk_140015
+081110 211541 18 INFO dfs.DataNode: blk_100016:blk_110016 Starting thread to transfer block blk_120016 to blk_130016:blk_140016
+081110 211541 18 INFO dfs.DataNode: blk_100016:blk_110016 Starting thread to transfer block blk_120016 to blk_130016:blk_140016
+081110 211541 18 INFO dfs.DataNode: blk_100017:blk_110017 Starting thread to transfer block blk_120017 to blk_130017:blk_140017
+081110 211541 18 INFO dfs.DataNode: blk_100017:blk_110017 Starting thread to transfer block blk_120017 to blk_130017:blk_140017
+081110 211541 18 INFO dfs.DataNode: blk_100018:blk_110018 Starting thread to transfer block blk_120018 to blk_130018:blk_140018
+081110 211541 18 INFO dfs.DataNode: blk_100018:blk_110018 Starting thread to transfer block blk_120018 to blk_130018:blk_140018
+081110 211541 18 INFO dfs.DataNode: blk_100019:blk_110019 Starting thread to transfer block blk_120019 to blk_130019:blk_140019
+081110 211541 18 INFO dfs.DataNode: blk_100019:blk_110019 Starting thread to transfer block blk_120019 to blk_130019:blk_140019
+081110 211541 18 INFO dfs.DataNode: blk_100020:blk_110020 Starting thread to transfer block blk_120020 to blk_130020:blk_140020
+081110 211541 18 INFO dfs.DataNode: blk_100020:blk_110020 Starting thread to transfer block blk_120020 to blk_130020:blk_140020
+081110 211541 18 INFO dfs.DataNode: blk_100021:blk_110021 Starting thread to transfer block blk_120021 to blk_130021:blk_140021
+081110 211541 18 INFO dfs.DataNode: blk_100021:blk_110021 Starting thread to transfer block blk_120021 to blk_130021:blk_140021
+081110 211541 18 INFO dfs.DataNode: blk_100022:blk_110022 Starting thread to transfer block blk_120022 to blk_130022:blk_140022
+081110 211541 18 INFO dfs.DataNode: blk_100022:blk_110022 Starting thread to transfer block blk_120022 to blk_130022:blk_140022
+081110 211541 18 INFO dfs.DataNode: blk_100023:blk_110023 Starting thread to transfer block blk_120023 to blk_130023:blk_140023
+081110 211541 18 INFO dfs.DataNode: blk_100023:blk_110023 Starting thread to transfer block blk_120023 to blk_130023:blk_140023
+081110 211541 18 INFO dfs.DataNode: blk_100024:blk_110024 Starting thread to transfer block blk_120024 to blk_130024:blk_140024
+081110 211541 18 INFO dfs.DataNode: blk_100024:blk_110024 Starting thread to transfer block blk_120024 to blk_130024:blk_140024
+081110 211541 18 INFO dfs.DataNode: blk_100025:blk_110025 Starting thread to transfer block blk_120025 to blk_130025:blk_140025
+081110 211541 18 INFO dfs.DataNode: blk_100025:blk_110025 Starting thread to transfer block blk_120025 to blk_130025:blk_140025
+081110 211541 18 INFO dfs.DataNode: blk_100026:blk_110026 Starting thread to transfer block blk_120026 to blk_130026:blk_140026
+081110 211541 18 INFO dfs.DataNode: blk_100026:blk_110026 Starting thread to transfer block blk_120026 to blk_130026:blk_140026
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100000 for block blk_110000 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100001 for block blk_110001 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100001 for block blk_110001 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100001 for block blk_110001 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100002 for block blk_110002 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100002 for block blk_110002 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100002 for block blk_110002 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100003 for block blk_110003 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100003 for block blk_110003 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100004 for block blk_110004 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100004 for block blk_110004 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100005 for block blk_110005 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100005 for block blk_110005 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100006 for block blk_110006 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100006 for block blk_110006 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100007 for block blk_110007 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100007 for block blk_110007 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100008 for block blk_110008 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100008 for block blk_110008 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100009 for block blk_110009 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100009 for block blk_110009 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100010 for block blk_110010 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100010 for block blk_110010 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100011 for block blk_110011 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100011 for block blk_110011 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100012 for block blk_110012 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100012 for block blk_110012 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100013 for block blk_110013 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100013 for block blk_110013 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100014 for block blk_110014 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100014 for block blk_110014 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100015 for block blk_110015 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100015 for block blk_110015 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100016 for block blk_110016 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100016 for block blk_110016 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100017 for block blk_110017 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100017 for block blk_110017 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100018 for block blk_110018 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100018 for block blk_110018 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100019 for block blk_110019 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100019 for block blk_110019 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100020 for block blk_110020 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100020 for block blk_110020 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100021 for block blk_110021 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100021 for block blk_110021 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100022 for block blk_110022 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100022 for block blk_110022 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100023 for block blk_110023 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100023 for block blk_110023 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100024 for block blk_110024 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100024 for block blk_110024 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100025 for block blk_110025 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100025 for block blk_110025 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100026 for block blk_110026 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder blk_100026 for block blk_110026 terminating
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100001 blk_110001
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100001 blk_110001
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100001 blk_110001
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100002 blk_110002
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100002 blk_110002
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100002 blk_110002
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100003 blk_110003
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100003 blk_110003
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100004 blk_110004
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100004 blk_110004
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100005 blk_110005
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100005 blk_110005
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100006 blk_110006
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100006 blk_110006
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100007 blk_110007
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100007 blk_110007
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100008 blk_110008
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100008 blk_110008
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100009 blk_110009
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100009 blk_110009
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100010 blk_110010
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100010 blk_110010
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100011 blk_110011
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100011 blk_110011
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100012 blk_110012
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100012 blk_110012
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100013 blk_110013
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100013 blk_110013
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100014 blk_110014
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100014 blk_110014
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100015 blk_110015
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100015 blk_110015
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100016 blk_110016
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100016 blk_110016
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100017 blk_110017
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100017 blk_110017
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100018 blk_110018
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100018 blk_110018
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100019 blk_110019
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100019 blk_110019
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100020 blk_110020
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100020 blk_110020
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100021 blk_110021
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100021 blk_110021
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100022 blk_110022
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100022 blk_110022
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100023 blk_110023
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100023 blk_110023
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100024 blk_110024
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100024 blk_110024
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100025 blk_110025
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100025 blk_110025
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100026 blk_110026
+081109 205035 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: blk_100026 blk_110026
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100000 file blk_110000
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100001 file blk_110001
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100001 file blk_110001
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100001 file blk_110001
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100002 file blk_110002
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100002 file blk_110002
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100002 file blk_110002
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100003 file blk_110003
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100003 file blk_110003
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100004 file blk_110004
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100004 file blk_110004
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100005 file blk_110005
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100005 file blk_110005
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100006 file blk_110006
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100006 file blk_110006
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100007 file blk_110007
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100007 file blk_110007
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100008 file blk_110008
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100008 file blk_110008
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100009 file blk_110009
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100009 file blk_110009
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100010 file blk_110010
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100010 file blk_110010
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100011 file blk_110011
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100011 file blk_110011
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100012 file blk_110012
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100012 file blk_110012
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100013 file blk_110013
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100013 file blk_110013
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100014 file blk_110014
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100014 file blk_110014
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100015 file blk_110015
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100015 file blk_110015
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100016 file blk_110016
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100016 file blk_110016
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100017 file blk_110017
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100017 file blk_110017
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100018 file blk_110018
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100018 file blk_110018
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100019 file blk_110019
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100019 file blk_110019
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100020 file blk_110020
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100020 file blk_110020
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100021 file blk_110021
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100021 file blk_110021
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100022 file blk_110022
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100022 file blk_110022
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100023 file blk_110023
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100023 file blk_110023
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100024 file blk_110024
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100024 file blk_110024
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100025 file blk_110025
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100025 file blk_110025
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100026 file blk_110026
+081109 213837 19 INFO dfs.FSDataset: Deleting block blk_100026 file blk_110026
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 020724 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: aaalpha is added to invalidSet of bbalpha:ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask aaalpha:bbalpha to delete ccalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha
+081109 213847 2552 INFO dfs.DataNode$DataXceiver: aaalpha:bbalpha Served block ccalpha to ddalpha

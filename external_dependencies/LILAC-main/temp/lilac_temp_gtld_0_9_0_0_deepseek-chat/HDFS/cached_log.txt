@@ -1,0 +1,896 @@
+0 Verification succeeded for blk_100000
+1 Verification succeeded for blk_100000
+2 Verification succeeded for blk_100001
+3 Verification succeeded for blk_100001
+4 Verification succeeded for blk_100002
+5 Verification succeeded for blk_100002
+6 Verification succeeded for blk_100003
+7 Verification succeeded for blk_100003
+8 Verification succeeded for blk_100004
+9 Verification succeeded for blk_100004
+10 Verification succeeded for blk_100005
+11 Verification succeeded for blk_100005
+12 Verification succeeded for blk_100006
+13 Verification succeeded for blk_100007
+14 Verification succeeded for blk_100008
+15 Verification succeeded for blk_100009
+16 Verification succeeded for blk_100010
+17 Verification succeeded for blk_100011
+18 Verification succeeded for blk_100012
+19 Verification succeeded for blk_100013
+20 Verification succeeded for blk_100014
+21 Verification succeeded for blk_100015
+22 Verification succeeded for blk_100016
+23 Verification succeeded for blk_100017
+24 Verification succeeded for blk_100018
+25 Verification succeeded for blk_100019
+26 Verification succeeded for blk_100020
+27 Verification succeeded for blk_100021
+28 Verification succeeded for blk_100022
+29 Verification succeeded for blk_100023
+30 Verification succeeded for blk_100024
+31 Verification succeeded for blk_100025
+32 Verification succeeded for blk_100026
+33 Verification succeeded for blk_100027
+34 Verification succeeded for blk_100028
+35 Verification succeeded for blk_100029
+36 Verification succeeded for blk_100030
+37 Verification succeeded for blk_100031
+38 Verification succeeded for blk_100032
+39 Verification succeeded for blk_100033
+40 Verification succeeded for blk_100034
+41 Verification succeeded for blk_100035
+42 Verification succeeded for blk_100036
+43 Verification succeeded for blk_100037
+44 Verification succeeded for blk_100038
+45 Verification succeeded for blk_100039
+46 Verification succeeded for blk_100040
+47 Verification succeeded for blk_100041
+48 Verification succeeded for blk_100042
+49 Verification succeeded for blk_100043
+50 Verification succeeded for blk_100044
+51 Verification succeeded for blk_100045
+52 Verification succeeded for blk_100046
+53 Verification succeeded for blk_100047
+54 Verification succeeded for blk_100048
+55 Verification succeeded for blk_100049
+56 Verification succeeded for blk_100050
+57 Verification succeeded for blk_100051
+58 Verification succeeded for blk_100052
+59 Verification succeeded for blk_100053
+60 Verification succeeded for blk_100054
+61 Verification succeeded for blk_100055
+62 Verification succeeded for blk_100056
+63 Verification succeeded for blk_100057
+64 Received block blk_100000 of size blk_110000 from blk_120000
+65 Received block blk_100000 of size blk_110000 from blk_120000
+66 Received block blk_100001 of size blk_110001 from blk_120001
+67 Received block blk_100001 of size blk_110001 from blk_120001
+68 Received block blk_100002 of size blk_110002 from blk_120002
+69 Received block blk_100002 of size blk_110002 from blk_120002
+70 Received block blk_100003 of size blk_110003 from blk_120003
+71 Received block blk_100003 of size blk_110003 from blk_120003
+72 Received block blk_100004 of size blk_110004 from blk_120004
+73 Received block blk_100004 of size blk_110004 from blk_120004
+74 Received block blk_100005 of size blk_110005 from blk_120005
+75 Received block blk_100005 of size blk_110005 from blk_120005
+76 Received block blk_100006 of size blk_110006 from blk_120006
+77 Received block blk_100007 of size blk_110007 from blk_120007
+78 Received block blk_100008 of size blk_110008 from blk_120008
+79 Received block blk_100009 of size blk_110009 from blk_120009
+80 Received block blk_100010 of size blk_110010 from blk_120010
+81 Received block blk_100011 of size blk_110011 from blk_120011
+82 Received block blk_100012 of size blk_110012 from blk_120012
+83 Received block blk_100013 of size blk_110013 from blk_120013
+84 Received block blk_100014 of size blk_110014 from blk_120014
+85 Received block blk_100015 of size blk_110015 from blk_120015
+86 Received block blk_100016 of size blk_110016 from blk_120016
+87 Received block blk_100017 of size blk_110017 from blk_120017
+88 Received block blk_100018 of size blk_110018 from blk_120018
+89 Received block blk_100019 of size blk_110019 from blk_120019
+90 Received block blk_100020 of size blk_110020 from blk_120020
+91 Received block blk_100021 of size blk_110021 from blk_120021
+92 Received block blk_100022 of size blk_110022 from blk_120022
+93 Received block blk_100023 of size blk_110023 from blk_120023
+94 Received block blk_100024 of size blk_110024 from blk_120024
+95 Received block blk_100025 of size blk_110025 from blk_120025
+96 Received block blk_100026 of size blk_110026 from blk_120026
+97 Received block blk_100027 of size blk_110027 from blk_120027
+98 Received block blk_100028 of size blk_110028 from blk_120028
+99 Received block blk_100029 of size blk_110029 from blk_120029
+100 Received block blk_100030 of size blk_110030 from blk_120030
+101 Received block blk_100031 of size blk_110031 from blk_120031
+102 Received block blk_100032 of size blk_110032 from blk_120032
+103 Received block blk_100033 of size blk_110033 from blk_120033
+104 Received block blk_100034 of size blk_110034 from blk_120034
+105 Received block blk_100035 of size blk_110035 from blk_120035
+106 Received block blk_100036 of size blk_110036 from blk_120036
+107 Received block blk_100037 of size blk_110037 from blk_120037
+108 Received block blk_100038 of size blk_110038 from blk_120038
+109 Received block blk_100039 of size blk_110039 from blk_120039
+110 Received block blk_100040 of size blk_110040 from blk_120040
+111 Received block blk_100041 of size blk_110041 from blk_120041
+112 Received block blk_100042 of size blk_110042 from blk_120042
+113 Received block blk_100043 of size blk_110043 from blk_120043
+114 Received block blk_100044 of size blk_110044 from blk_120044
+115 Received block blk_100045 of size blk_110045 from blk_120045
+116 Received block blk_100046 of size blk_110046 from blk_120046
+117 Received block blk_100047 of size blk_110047 from blk_120047
+118 Received block blk_100048 of size blk_110048 from blk_120048
+119 Received block blk_100049 of size blk_110049 from blk_120049
+120 Received block blk_100050 of size blk_110050 from blk_120050
+121 Received block blk_100051 of size blk_110051 from blk_120051
+122 Received block blk_100052 of size blk_110052 from blk_120052
+123 Received block blk_100053 of size blk_110053 from blk_120053
+124 Received block blk_100054 of size blk_110054 from blk_120054
+125 Received block blk_100055 of size blk_110055 from blk_120055
+126 Received block blk_100056 of size blk_110056 from blk_120056
+127 Received block blk_100057 of size blk_110057 from blk_120057
+128 Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+129 Receiving block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000
+130 Receiving block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001
+131 Receiving block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001
+132 Receiving block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002
+133 Receiving block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002
+134 Receiving block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003
+135 Receiving block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003
+136 Receiving block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004
+137 Receiving block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004
+138 Receiving block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005
+139 Receiving block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005
+140 Receiving block blk_100006 src: blk_110006:blk_120006 dest: blk_130006:blk_140006
+141 Receiving block blk_100007 src: blk_110007:blk_120007 dest: blk_130007:blk_140007
+142 Receiving block blk_100008 src: blk_110008:blk_120008 dest: blk_130008:blk_140008
+143 Receiving block blk_100009 src: blk_110009:blk_120009 dest: blk_130009:blk_140009
+144 Receiving block blk_100010 src: blk_110010:blk_120010 dest: blk_130010:blk_140010
+145 Receiving block blk_100011 src: blk_110011:blk_120011 dest: blk_130011:blk_140011
+146 Receiving block blk_100012 src: blk_110012:blk_120012 dest: blk_130012:blk_140012
+147 Receiving block blk_100013 src: blk_110013:blk_120013 dest: blk_130013:blk_140013
+148 Receiving block blk_100014 src: blk_110014:blk_120014 dest: blk_130014:blk_140014
+149 Receiving block blk_100015 src: blk_110015:blk_120015 dest: blk_130015:blk_140015
+150 Receiving block blk_100016 src: blk_110016:blk_120016 dest: blk_130016:blk_140016
+151 Receiving block blk_100017 src: blk_110017:blk_120017 dest: blk_130017:blk_140017
+152 Receiving block blk_100018 src: blk_110018:blk_120018 dest: blk_130018:blk_140018
+153 Receiving block blk_100019 src: blk_110019:blk_120019 dest: blk_130019:blk_140019
+154 Receiving block blk_100020 src: blk_110020:blk_120020 dest: blk_130020:blk_140020
+155 Receiving block blk_100021 src: blk_110021:blk_120021 dest: blk_130021:blk_140021
+156 Receiving block blk_100022 src: blk_110022:blk_120022 dest: blk_130022:blk_140022
+157 Receiving block blk_100023 src: blk_110023:blk_120023 dest: blk_130023:blk_140023
+158 Receiving block blk_100024 src: blk_110024:blk_120024 dest: blk_130024:blk_140024
+159 Receiving block blk_100025 src: blk_110025:blk_120025 dest: blk_130025:blk_140025
+160 Receiving block blk_100026 src: blk_110026:blk_120026 dest: blk_130026:blk_140026
+161 Receiving block blk_100027 src: blk_110027:blk_120027 dest: blk_130027:blk_140027
+162 Receiving block blk_100028 src: blk_110028:blk_120028 dest: blk_130028:blk_140028
+163 Receiving block blk_100029 src: blk_110029:blk_120029 dest: blk_130029:blk_140029
+164 Receiving block blk_100030 src: blk_110030:blk_120030 dest: blk_130030:blk_140030
+165 Receiving block blk_100031 src: blk_110031:blk_120031 dest: blk_130031:blk_140031
+166 Receiving block blk_100032 src: blk_110032:blk_120032 dest: blk_130032:blk_140032
+167 Receiving block blk_100033 src: blk_110033:blk_120033 dest: blk_130033:blk_140033
+168 Receiving block blk_100034 src: blk_110034:blk_120034 dest: blk_130034:blk_140034
+169 Receiving block blk_100035 src: blk_110035:blk_120035 dest: blk_130035:blk_140035
+170 Receiving block blk_100036 src: blk_110036:blk_120036 dest: blk_130036:blk_140036
+171 Receiving block blk_100037 src: blk_110037:blk_120037 dest: blk_130037:blk_140037
+172 Receiving block blk_100038 src: blk_110038:blk_120038 dest: blk_130038:blk_140038
+173 Receiving block blk_100039 src: blk_110039:blk_120039 dest: blk_130039:blk_140039
+174 Receiving block blk_100040 src: blk_110040:blk_120040 dest: blk_130040:blk_140040
+175 Receiving block blk_100041 src: blk_110041:blk_120041 dest: blk_130041:blk_140041
+176 Receiving block blk_100042 src: blk_110042:blk_120042 dest: blk_130042:blk_140042
+177 Receiving block blk_100043 src: blk_110043:blk_120043 dest: blk_130043:blk_140043
+178 Receiving block blk_100044 src: blk_110044:blk_120044 dest: blk_130044:blk_140044
+179 Receiving block blk_100045 src: blk_110045:blk_120045 dest: blk_130045:blk_140045
+180 Receiving block blk_100046 src: blk_110046:blk_120046 dest: blk_130046:blk_140046
+181 Receiving block blk_100047 src: blk_110047:blk_120047 dest: blk_130047:blk_140047
+182 Receiving block blk_100048 src: blk_110048:blk_120048 dest: blk_130048:blk_140048
+183 Receiving block blk_100049 src: blk_110049:blk_120049 dest: blk_130049:blk_140049
+184 Receiving block blk_100050 src: blk_110050:blk_120050 dest: blk_130050:blk_140050
+185 Receiving block blk_100051 src: blk_110051:blk_120051 dest: blk_130051:blk_140051
+186 Receiving block blk_100052 src: blk_110052:blk_120052 dest: blk_130052:blk_140052
+187 Receiving block blk_100053 src: blk_110053:blk_120053 dest: blk_130053:blk_140053
+188 Receiving block blk_100054 src: blk_110054:blk_120054 dest: blk_130054:blk_140054
+189 Receiving block blk_100055 src: blk_110055:blk_120055 dest: blk_130055:blk_140055
+190 Receiving block blk_100056 src: blk_110056:blk_120056 dest: blk_130056:blk_140056
+191 Receiving block blk_100057 src: blk_110057:blk_120057 dest: blk_130057:blk_140057
+192 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+193 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100000:blk_110000 is added to blk_120000 size blk_130000
+194 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100001:blk_110001 is added to blk_120001 size blk_130001
+195 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100001:blk_110001 is added to blk_120001 size blk_130001
+196 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100002:blk_110002 is added to blk_120002 size blk_130002
+197 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100002:blk_110002 is added to blk_120002 size blk_130002
+198 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100003:blk_110003 is added to blk_120003 size blk_130003
+199 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100003:blk_110003 is added to blk_120003 size blk_130003
+200 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100004:blk_110004 is added to blk_120004 size blk_130004
+201 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100004:blk_110004 is added to blk_120004 size blk_130004
+202 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100005:blk_110005 is added to blk_120005 size blk_130005
+203 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100005:blk_110005 is added to blk_120005 size blk_130005
+204 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100006:blk_110006 is added to blk_120006 size blk_130006
+205 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100007:blk_110007 is added to blk_120007 size blk_130007
+206 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100008:blk_110008 is added to blk_120008 size blk_130008
+207 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100009:blk_110009 is added to blk_120009 size blk_130009
+208 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100010:blk_110010 is added to blk_120010 size blk_130010
+209 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100011:blk_110011 is added to blk_120011 size blk_130011
+210 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100012:blk_110012 is added to blk_120012 size blk_130012
+211 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100013:blk_110013 is added to blk_120013 size blk_130013
+212 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100014:blk_110014 is added to blk_120014 size blk_130014
+213 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100015:blk_110015 is added to blk_120015 size blk_130015
+214 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100016:blk_110016 is added to blk_120016 size blk_130016
+215 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100017:blk_110017 is added to blk_120017 size blk_130017
+216 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100018:blk_110018 is added to blk_120018 size blk_130018
+217 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100019:blk_110019 is added to blk_120019 size blk_130019
+218 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100020:blk_110020 is added to blk_120020 size blk_130020
+219 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100021:blk_110021 is added to blk_120021 size blk_130021
+220 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100022:blk_110022 is added to blk_120022 size blk_130022
+221 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100023:blk_110023 is added to blk_120023 size blk_130023
+222 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100024:blk_110024 is added to blk_120024 size blk_130024
+223 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100025:blk_110025 is added to blk_120025 size blk_130025
+224 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100026:blk_110026 is added to blk_120026 size blk_130026
+225 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100027:blk_110027 is added to blk_120027 size blk_130027
+226 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100028:blk_110028 is added to blk_120028 size blk_130028
+227 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100029:blk_110029 is added to blk_120029 size blk_130029
+228 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100030:blk_110030 is added to blk_120030 size blk_130030
+229 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100031:blk_110031 is added to blk_120031 size blk_130031
+230 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100032:blk_110032 is added to blk_120032 size blk_130032
+231 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100033:blk_110033 is added to blk_120033 size blk_130033
+232 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100034:blk_110034 is added to blk_120034 size blk_130034
+233 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100035:blk_110035 is added to blk_120035 size blk_130035
+234 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100036:blk_110036 is added to blk_120036 size blk_130036
+235 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100037:blk_110037 is added to blk_120037 size blk_130037
+236 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100038:blk_110038 is added to blk_120038 size blk_130038
+237 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100039:blk_110039 is added to blk_120039 size blk_130039
+238 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100040:blk_110040 is added to blk_120040 size blk_130040
+239 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100041:blk_110041 is added to blk_120041 size blk_130041
+240 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100042:blk_110042 is added to blk_120042 size blk_130042
+241 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100043:blk_110043 is added to blk_120043 size blk_130043
+242 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100044:blk_110044 is added to blk_120044 size blk_130044
+243 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100045:blk_110045 is added to blk_120045 size blk_130045
+244 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100046:blk_110046 is added to blk_120046 size blk_130046
+245 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100047:blk_110047 is added to blk_120047 size blk_130047
+246 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100048:blk_110048 is added to blk_120048 size blk_130048
+247 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100049:blk_110049 is added to blk_120049 size blk_130049
+248 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100050:blk_110050 is added to blk_120050 size blk_130050
+249 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100051:blk_110051 is added to blk_120051 size blk_130051
+250 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100052:blk_110052 is added to blk_120052 size blk_130052
+251 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100053:blk_110053 is added to blk_120053 size blk_130053
+252 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100054:blk_110054 is added to blk_120054 size blk_130054
+253 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100055:blk_110055 is added to blk_120055 size blk_130055
+254 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100056:blk_110056 is added to blk_120056 size blk_130056
+255 BLOCK* NameSystem.addStoredBlock: blockMap updated: blk_100057:blk_110057 is added to blk_120057 size blk_130057
+256 Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+257 Received block blk_100000 src: blk_110000:blk_120000 dest: blk_130000:blk_140000 of size blk_150000
+258 Received block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001 of size blk_150001
+259 Received block blk_100001 src: blk_110001:blk_120001 dest: blk_130001:blk_140001 of size blk_150001
+260 Received block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002 of size blk_150002
+261 Received block blk_100002 src: blk_110002:blk_120002 dest: blk_130002:blk_140002 of size blk_150002
+262 Received block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003 of size blk_150003
+263 Received block blk_100003 src: blk_110003:blk_120003 dest: blk_130003:blk_140003 of size blk_150003
+264 Received block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004 of size blk_150004
+265 Received block blk_100004 src: blk_110004:blk_120004 dest: blk_130004:blk_140004 of size blk_150004
+266 Received block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005 of size blk_150005
+267 Received block blk_100005 src: blk_110005:blk_120005 dest: blk_130005:blk_140005 of size blk_150005
+268 Received block blk_100006 src: blk_110006:blk_120006 dest: blk_130006:blk_140006 of size blk_150006
+269 Received block blk_100007 src: blk_110007:blk_120007 dest: blk_130007:blk_140007 of size blk_150007
+270 Received block blk_100008 src: blk_110008:blk_120008 dest: blk_130008:blk_140008 of size blk_150008
+271 Received block blk_100009 src: blk_110009:blk_120009 dest: blk_130009:blk_140009 of size blk_150009
+272 Received block blk_100010 src: blk_110010:blk_120010 dest: blk_130010:blk_140010 of size blk_150010
+273 Received block blk_100011 src: blk_110011:blk_120011 dest: blk_130011:blk_140011 of size blk_150011
+274 Received block blk_100012 src: blk_110012:blk_120012 dest: blk_130012:blk_140012 of size blk_150012
+275 Received block blk_100013 src: blk_110013:blk_120013 dest: blk_130013:blk_140013 of size blk_150013
+276 Received block blk_100014 src: blk_110014:blk_120014 dest: blk_130014:blk_140014 of size blk_150014
+277 Received block blk_100015 src: blk_110015:blk_120015 dest: blk_130015:blk_140015 of size blk_150015
+278 Received block blk_100016 src: blk_110016:blk_120016 dest: blk_130016:blk_140016 of size blk_150016
+279 Received block blk_100017 src: blk_110017:blk_120017 dest: blk_130017:blk_140017 of size blk_150017
+280 Received block blk_100018 src: blk_110018:blk_120018 dest: blk_130018:blk_140018 of size blk_150018
+281 Received block blk_100019 src: blk_110019:blk_120019 dest: blk_130019:blk_140019 of size blk_150019
+282 Received block blk_100020 src: blk_110020:blk_120020 dest: blk_130020:blk_140020 of size blk_150020
+283 Received block blk_100021 src: blk_110021:blk_120021 dest: blk_130021:blk_140021 of size blk_150021
+284 Received block blk_100022 src: blk_110022:blk_120022 dest: blk_130022:blk_140022 of size blk_150022
+285 Received block blk_100023 src: blk_110023:blk_120023 dest: blk_130023:blk_140023 of size blk_150023
+286 Received block blk_100024 src: blk_110024:blk_120024 dest: blk_130024:blk_140024 of size blk_150024
+287 Received block blk_100025 src: blk_110025:blk_120025 dest: blk_130025:blk_140025 of size blk_150025
+288 Received block blk_100026 src: blk_110026:blk_120026 dest: blk_130026:blk_140026 of size blk_150026
+289 Received block blk_100027 src: blk_110027:blk_120027 dest: blk_130027:blk_140027 of size blk_150027
+290 Received block blk_100028 src: blk_110028:blk_120028 dest: blk_130028:blk_140028 of size blk_150028
+291 Received block blk_100029 src: blk_110029:blk_120029 dest: blk_130029:blk_140029 of size blk_150029
+292 Received block blk_100030 src: blk_110030:blk_120030 dest: blk_130030:blk_140030 of size blk_150030
+293 Received block blk_100031 src: blk_110031:blk_120031 dest: blk_130031:blk_140031 of size blk_150031
+294 Received block blk_100032 src: blk_110032:blk_120032 dest: blk_130032:blk_140032 of size blk_150032
+295 Received block blk_100033 src: blk_110033:blk_120033 dest: blk_130033:blk_140033 of size blk_150033
+296 Received block blk_100034 src: blk_110034:blk_120034 dest: blk_130034:blk_140034 of size blk_150034
+297 Received block blk_100035 src: blk_110035:blk_120035 dest: blk_130035:blk_140035 of size blk_150035
+298 Received block blk_100036 src: blk_110036:blk_120036 dest: blk_130036:blk_140036 of size blk_150036
+299 Received block blk_100037 src: blk_110037:blk_120037 dest: blk_130037:blk_140037 of size blk_150037
+300 Received block blk_100038 src: blk_110038:blk_120038 dest: blk_130038:blk_140038 of size blk_150038
+301 Received block blk_100039 src: blk_110039:blk_120039 dest: blk_130039:blk_140039 of size blk_150039
+302 Received block blk_100040 src: blk_110040:blk_120040 dest: blk_130040:blk_140040 of size blk_150040
+303 Received block blk_100041 src: blk_110041:blk_120041 dest: blk_130041:blk_140041 of size blk_150041
+304 Received block blk_100042 src: blk_110042:blk_120042 dest: blk_130042:blk_140042 of size blk_150042
+305 Received block blk_100043 src: blk_110043:blk_120043 dest: blk_130043:blk_140043 of size blk_150043
+306 Received block blk_100044 src: blk_110044:blk_120044 dest: blk_130044:blk_140044 of size blk_150044
+307 Received block blk_100045 src: blk_110045:blk_120045 dest: blk_130045:blk_140045 of size blk_150045
+308 Received block blk_100046 src: blk_110046:blk_120046 dest: blk_130046:blk_140046 of size blk_150046
+309 Received block blk_100047 src: blk_110047:blk_120047 dest: blk_130047:blk_140047 of size blk_150047
+310 Received block blk_100048 src: blk_110048:blk_120048 dest: blk_130048:blk_140048 of size blk_150048
+311 Received block blk_100049 src: blk_110049:blk_120049 dest: blk_130049:blk_140049 of size blk_150049
+312 Received block blk_100050 src: blk_110050:blk_120050 dest: blk_130050:blk_140050 of size blk_150050
+313 Received block blk_100051 src: blk_110051:blk_120051 dest: blk_130051:blk_140051 of size blk_150051
+314 Received block blk_100052 src: blk_110052:blk_120052 dest: blk_130052:blk_140052 of size blk_150052
+315 Received block blk_100053 src: blk_110053:blk_120053 dest: blk_130053:blk_140053 of size blk_150053
+316 Received block blk_100054 src: blk_110054:blk_120054 dest: blk_130054:blk_140054 of size blk_150054
+317 Received block blk_100055 src: blk_110055:blk_120055 dest: blk_130055:blk_140055 of size blk_150055
+318 Received block blk_100056 src: blk_110056:blk_120056 dest: blk_130056:blk_140056 of size blk_150056
+319 Received block blk_100057 src: blk_110057:blk_120057 dest: blk_130057:blk_140057 of size blk_150057
+320 BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+321 BLOCK* ask blk_100000:blk_110000 to replicate blk_120000 to datanode(s) blk_130000:blk_140000
+322 BLOCK* ask blk_100001:blk_110001 to replicate blk_120001 to datanode(s) blk_130001:blk_140001
+323 BLOCK* ask blk_100001:blk_110001 to replicate blk_120001 to datanode(s) blk_130001:blk_140001
+324 BLOCK* ask blk_100002:blk_110002 to replicate blk_120002 to datanode(s) blk_130002:blk_140002
+325 BLOCK* ask blk_100002:blk_110002 to replicate blk_120002 to datanode(s) blk_130002:blk_140002
+326 BLOCK* ask blk_100003:blk_110003 to replicate blk_120003 to datanode(s) blk_130003:blk_140003
+327 BLOCK* ask blk_100003:blk_110003 to replicate blk_120003 to datanode(s) blk_130003:blk_140003
+328 BLOCK* ask blk_100004:blk_110004 to replicate blk_120004 to datanode(s) blk_130004:blk_140004
+329 BLOCK* ask blk_100004:blk_110004 to replicate blk_120004 to datanode(s) blk_130004:blk_140004
+330 BLOCK* ask blk_100005:blk_110005 to replicate blk_120005 to datanode(s) blk_130005:blk_140005
+331 BLOCK* ask blk_100005:blk_110005 to replicate blk_120005 to datanode(s) blk_130005:blk_140005
+332 BLOCK* ask blk_100006:blk_110006 to replicate blk_120006 to datanode(s) blk_130006:blk_140006
+333 BLOCK* ask blk_100007:blk_110007 to replicate blk_120007 to datanode(s) blk_130007:blk_140007
+334 BLOCK* ask blk_100008:blk_110008 to replicate blk_120008 to datanode(s) blk_130008:blk_140008
+335 BLOCK* ask blk_100009:blk_110009 to replicate blk_120009 to datanode(s) blk_130009:blk_140009
+336 BLOCK* ask blk_100010:blk_110010 to replicate blk_120010 to datanode(s) blk_130010:blk_140010
+337 BLOCK* ask blk_100011:blk_110011 to replicate blk_120011 to datanode(s) blk_130011:blk_140011
+338 BLOCK* ask blk_100012:blk_110012 to replicate blk_120012 to datanode(s) blk_130012:blk_140012
+339 BLOCK* ask blk_100013:blk_110013 to replicate blk_120013 to datanode(s) blk_130013:blk_140013
+340 BLOCK* ask blk_100014:blk_110014 to replicate blk_120014 to datanode(s) blk_130014:blk_140014
+341 BLOCK* ask blk_100015:blk_110015 to replicate blk_120015 to datanode(s) blk_130015:blk_140015
+342 BLOCK* ask blk_100016:blk_110016 to replicate blk_120016 to datanode(s) blk_130016:blk_140016
+343 BLOCK* ask blk_100017:blk_110017 to replicate blk_120017 to datanode(s) blk_130017:blk_140017
+344 BLOCK* ask blk_100018:blk_110018 to replicate blk_120018 to datanode(s) blk_130018:blk_140018
+345 BLOCK* ask blk_100019:blk_110019 to replicate blk_120019 to datanode(s) blk_130019:blk_140019
+346 BLOCK* ask blk_100020:blk_110020 to replicate blk_120020 to datanode(s) blk_130020:blk_140020
+347 BLOCK* ask blk_100021:blk_110021 to replicate blk_120021 to datanode(s) blk_130021:blk_140021
+348 BLOCK* ask blk_100022:blk_110022 to replicate blk_120022 to datanode(s) blk_130022:blk_140022
+349 BLOCK* ask blk_100023:blk_110023 to replicate blk_120023 to datanode(s) blk_130023:blk_140023
+350 BLOCK* ask blk_100024:blk_110024 to replicate blk_120024 to datanode(s) blk_130024:blk_140024
+351 BLOCK* ask blk_100025:blk_110025 to replicate blk_120025 to datanode(s) blk_130025:blk_140025
+352 BLOCK* ask blk_100026:blk_110026 to replicate blk_120026 to datanode(s) blk_130026:blk_140026
+353 BLOCK* ask blk_100027:blk_110027 to replicate blk_120027 to datanode(s) blk_130027:blk_140027
+354 BLOCK* ask blk_100028:blk_110028 to replicate blk_120028 to datanode(s) blk_130028:blk_140028
+355 BLOCK* ask blk_100029:blk_110029 to replicate blk_120029 to datanode(s) blk_130029:blk_140029
+356 BLOCK* ask blk_100030:blk_110030 to replicate blk_120030 to datanode(s) blk_130030:blk_140030
+357 BLOCK* ask blk_100031:blk_110031 to replicate blk_120031 to datanode(s) blk_130031:blk_140031
+358 BLOCK* ask blk_100032:blk_110032 to replicate blk_120032 to datanode(s) blk_130032:blk_140032
+359 BLOCK* ask blk_100033:blk_110033 to replicate blk_120033 to datanode(s) blk_130033:blk_140033
+360 BLOCK* ask blk_100034:blk_110034 to replicate blk_120034 to datanode(s) blk_130034:blk_140034
+361 BLOCK* ask blk_100035:blk_110035 to replicate blk_120035 to datanode(s) blk_130035:blk_140035
+362 BLOCK* ask blk_100036:blk_110036 to replicate blk_120036 to datanode(s) blk_130036:blk_140036
+363 BLOCK* ask blk_100037:blk_110037 to replicate blk_120037 to datanode(s) blk_130037:blk_140037
+364 BLOCK* ask blk_100038:blk_110038 to replicate blk_120038 to datanode(s) blk_130038:blk_140038
+365 BLOCK* ask blk_100039:blk_110039 to replicate blk_120039 to datanode(s) blk_130039:blk_140039
+366 BLOCK* ask blk_100040:blk_110040 to replicate blk_120040 to datanode(s) blk_130040:blk_140040
+367 BLOCK* ask blk_100041:blk_110041 to replicate blk_120041 to datanode(s) blk_130041:blk_140041
+368 BLOCK* ask blk_100042:blk_110042 to replicate blk_120042 to datanode(s) blk_130042:blk_140042
+369 BLOCK* ask blk_100043:blk_110043 to replicate blk_120043 to datanode(s) blk_130043:blk_140043
+370 BLOCK* ask blk_100044:blk_110044 to replicate blk_120044 to datanode(s) blk_130044:blk_140044
+371 BLOCK* ask blk_100045:blk_110045 to replicate blk_120045 to datanode(s) blk_130045:blk_140045
+372 BLOCK* ask blk_100046:blk_110046 to replicate blk_120046 to datanode(s) blk_130046:blk_140046
+373 BLOCK* ask blk_100047:blk_110047 to replicate blk_120047 to datanode(s) blk_130047:blk_140047
+374 BLOCK* ask blk_100048:blk_110048 to replicate blk_120048 to datanode(s) blk_130048:blk_140048
+375 BLOCK* ask blk_100049:blk_110049 to replicate blk_120049 to datanode(s) blk_130049:blk_140049
+376 BLOCK* ask blk_100050:blk_110050 to replicate blk_120050 to datanode(s) blk_130050:blk_140050
+377 BLOCK* ask blk_100051:blk_110051 to replicate blk_120051 to datanode(s) blk_130051:blk_140051
+378 BLOCK* ask blk_100052:blk_110052 to replicate blk_120052 to datanode(s) blk_130052:blk_140052
+379 BLOCK* ask blk_100053:blk_110053 to replicate blk_120053 to datanode(s) blk_130053:blk_140053
+380 BLOCK* ask blk_100054:blk_110054 to replicate blk_120054 to datanode(s) blk_130054:blk_140054
+381 BLOCK* ask blk_100055:blk_110055 to replicate blk_120055 to datanode(s) blk_130055:blk_140055
+382 BLOCK* ask blk_100056:blk_110056 to replicate blk_120056 to datanode(s) blk_130056:blk_140056
+383 BLOCK* ask blk_100057:blk_110057 to replicate blk_120057 to datanode(s) blk_130057:blk_140057
+384 blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+385 blk_100000:blk_110000:Got exception while serving blk_120000 to blk_130000:
+386 blk_100001:blk_110001:Got exception while serving blk_120001 to blk_130001:
+387 blk_100001:blk_110001:Got exception while serving blk_120001 to blk_130001:
+388 blk_100002:blk_110002:Got exception while serving blk_120002 to blk_130002:
+389 blk_100002:blk_110002:Got exception while serving blk_120002 to blk_130002:
+390 blk_100003:blk_110003:Got exception while serving blk_120003 to blk_130003:
+391 blk_100003:blk_110003:Got exception while serving blk_120003 to blk_130003:
+392 blk_100004:blk_110004:Got exception while serving blk_120004 to blk_130004:
+393 blk_100004:blk_110004:Got exception while serving blk_120004 to blk_130004:
+394 blk_100005:blk_110005:Got exception while serving blk_120005 to blk_130005:
+395 blk_100005:blk_110005:Got exception while serving blk_120005 to blk_130005:
+396 blk_100006:blk_110006:Got exception while serving blk_120006 to blk_130006:
+397 blk_100007:blk_110007:Got exception while serving blk_120007 to blk_130007:
+398 blk_100008:blk_110008:Got exception while serving blk_120008 to blk_130008:
+399 blk_100009:blk_110009:Got exception while serving blk_120009 to blk_130009:
+400 blk_100010:blk_110010:Got exception while serving blk_120010 to blk_130010:
+401 blk_100011:blk_110011:Got exception while serving blk_120011 to blk_130011:
+402 blk_100012:blk_110012:Got exception while serving blk_120012 to blk_130012:
+403 blk_100013:blk_110013:Got exception while serving blk_120013 to blk_130013:
+404 blk_100014:blk_110014:Got exception while serving blk_120014 to blk_130014:
+405 blk_100015:blk_110015:Got exception while serving blk_120015 to blk_130015:
+406 blk_100016:blk_110016:Got exception while serving blk_120016 to blk_130016:
+407 blk_100017:blk_110017:Got exception while serving blk_120017 to blk_130017:
+408 blk_100018:blk_110018:Got exception while serving blk_120018 to blk_130018:
+409 blk_100019:blk_110019:Got exception while serving blk_120019 to blk_130019:
+410 blk_100020:blk_110020:Got exception while serving blk_120020 to blk_130020:
+411 blk_100021:blk_110021:Got exception while serving blk_120021 to blk_130021:
+412 blk_100022:blk_110022:Got exception while serving blk_120022 to blk_130022:
+413 blk_100023:blk_110023:Got exception while serving blk_120023 to blk_130023:
+414 blk_100024:blk_110024:Got exception while serving blk_120024 to blk_130024:
+415 blk_100025:blk_110025:Got exception while serving blk_120025 to blk_130025:
+416 blk_100026:blk_110026:Got exception while serving blk_120026 to blk_130026:
+417 blk_100027:blk_110027:Got exception while serving blk_120027 to blk_130027:
+418 blk_100028:blk_110028:Got exception while serving blk_120028 to blk_130028:
+419 blk_100029:blk_110029:Got exception while serving blk_120029 to blk_130029:
+420 blk_100030:blk_110030:Got exception while serving blk_120030 to blk_130030:
+421 blk_100031:blk_110031:Got exception while serving blk_120031 to blk_130031:
+422 blk_100032:blk_110032:Got exception while serving blk_120032 to blk_130032:
+423 blk_100033:blk_110033:Got exception while serving blk_120033 to blk_130033:
+424 blk_100034:blk_110034:Got exception while serving blk_120034 to blk_130034:
+425 blk_100035:blk_110035:Got exception while serving blk_120035 to blk_130035:
+426 blk_100036:blk_110036:Got exception while serving blk_120036 to blk_130036:
+427 blk_100037:blk_110037:Got exception while serving blk_120037 to blk_130037:
+428 blk_100038:blk_110038:Got exception while serving blk_120038 to blk_130038:
+429 blk_100039:blk_110039:Got exception while serving blk_120039 to blk_130039:
+430 blk_100040:blk_110040:Got exception while serving blk_120040 to blk_130040:
+431 blk_100041:blk_110041:Got exception while serving blk_120041 to blk_130041:
+432 blk_100042:blk_110042:Got exception while serving blk_120042 to blk_130042:
+433 blk_100043:blk_110043:Got exception while serving blk_120043 to blk_130043:
+434 blk_100044:blk_110044:Got exception while serving blk_120044 to blk_130044:
+435 blk_100045:blk_110045:Got exception while serving blk_120045 to blk_130045:
+436 blk_100046:blk_110046:Got exception while serving blk_120046 to blk_130046:
+437 blk_100047:blk_110047:Got exception while serving blk_120047 to blk_130047:
+438 blk_100048:blk_110048:Got exception while serving blk_120048 to blk_130048:
+439 blk_100049:blk_110049:Got exception while serving blk_120049 to blk_130049:
+440 blk_100050:blk_110050:Got exception while serving blk_120050 to blk_130050:
+441 blk_100051:blk_110051:Got exception while serving blk_120051 to blk_130051:
+442 blk_100052:blk_110052:Got exception while serving blk_120052 to blk_130052:
+443 blk_100053:blk_110053:Got exception while serving blk_120053 to blk_130053:
+444 blk_100054:blk_110054:Got exception while serving blk_120054 to blk_130054:
+445 blk_100055:blk_110055:Got exception while serving blk_120055 to blk_130055:
+446 blk_100056:blk_110056:Got exception while serving blk_120056 to blk_130056:
+447 blk_100057:blk_110057:Got exception while serving blk_120057 to blk_130057:
+448 blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+449 blk_100000:blk_110000 Starting thread to transfer block blk_120000 to blk_130000:blk_140000
+450 blk_100001:blk_110001 Starting thread to transfer block blk_120001 to blk_130001:blk_140001
+451 blk_100001:blk_110001 Starting thread to transfer block blk_120001 to blk_130001:blk_140001
+452 blk_100002:blk_110002 Starting thread to transfer block blk_120002 to blk_130002:blk_140002
+453 blk_100002:blk_110002 Starting thread to transfer block blk_120002 to blk_130002:blk_140002
+454 blk_100003:blk_110003 Starting thread to transfer block blk_120003 to blk_130003:blk_140003
+455 blk_100003:blk_110003 Starting thread to transfer block blk_120003 to blk_130003:blk_140003
+456 blk_100004:blk_110004 Starting thread to transfer block blk_120004 to blk_130004:blk_140004
+457 blk_100004:blk_110004 Starting thread to transfer block blk_120004 to blk_130004:blk_140004
+458 blk_100005:blk_110005 Starting thread to transfer block blk_120005 to blk_130005:blk_140005
+459 blk_100005:blk_110005 Starting thread to transfer block blk_120005 to blk_130005:blk_140005
+460 blk_100006:blk_110006 Starting thread to transfer block blk_120006 to blk_130006:blk_140006
+461 blk_100007:blk_110007 Starting thread to transfer block blk_120007 to blk_130007:blk_140007
+462 blk_100008:blk_110008 Starting thread to transfer block blk_120008 to blk_130008:blk_140008
+463 blk_100009:blk_110009 Starting thread to transfer block blk_120009 to blk_130009:blk_140009
+464 blk_100010:blk_110010 Starting thread to transfer block blk_120010 to blk_130010:blk_140010
+465 blk_100011:blk_110011 Starting thread to transfer block blk_120011 to blk_130011:blk_140011
+466 blk_100012:blk_110012 Starting thread to transfer block blk_120012 to blk_130012:blk_140012
+467 blk_100013:blk_110013 Starting thread to transfer block blk_120013 to blk_130013:blk_140013
+468 blk_100014:blk_110014 Starting thread to transfer block blk_120014 to blk_130014:blk_140014
+469 blk_100015:blk_110015 Starting thread to transfer block blk_120015 to blk_130015:blk_140015
+470 blk_100016:blk_110016 Starting thread to transfer block blk_120016 to blk_130016:blk_140016
+471 blk_100017:blk_110017 Starting thread to transfer block blk_120017 to blk_130017:blk_140017
+472 blk_100018:blk_110018 Starting thread to transfer block blk_120018 to blk_130018:blk_140018
+473 blk_100019:blk_110019 Starting thread to transfer block blk_120019 to blk_130019:blk_140019
+474 blk_100020:blk_110020 Starting thread to transfer block blk_120020 to blk_130020:blk_140020
+475 blk_100021:blk_110021 Starting thread to transfer block blk_120021 to blk_130021:blk_140021
+476 blk_100022:blk_110022 Starting thread to transfer block blk_120022 to blk_130022:blk_140022
+477 blk_100023:blk_110023 Starting thread to transfer block blk_120023 to blk_130023:blk_140023
+478 blk_100024:blk_110024 Starting thread to transfer block blk_120024 to blk_130024:blk_140024
+479 blk_100025:blk_110025 Starting thread to transfer block blk_120025 to blk_130025:blk_140025
+480 blk_100026:blk_110026 Starting thread to transfer block blk_120026 to blk_130026:blk_140026
+481 blk_100027:blk_110027 Starting thread to transfer block blk_120027 to blk_130027:blk_140027
+482 blk_100028:blk_110028 Starting thread to transfer block blk_120028 to blk_130028:blk_140028
+483 blk_100029:blk_110029 Starting thread to transfer block blk_120029 to blk_130029:blk_140029
+484 blk_100030:blk_110030 Starting thread to transfer block blk_120030 to blk_130030:blk_140030
+485 blk_100031:blk_110031 Starting thread to transfer block blk_120031 to blk_130031:blk_140031
+486 blk_100032:blk_110032 Starting thread to transfer block blk_120032 to blk_130032:blk_140032
+487 blk_100033:blk_110033 Starting thread to transfer block blk_120033 to blk_130033:blk_140033
+488 blk_100034:blk_110034 Starting thread to transfer block blk_120034 to blk_130034:blk_140034
+489 blk_100035:blk_110035 Starting thread to transfer block blk_120035 to blk_130035:blk_140035
+490 blk_100036:blk_110036 Starting thread to transfer block blk_120036 to blk_130036:blk_140036
+491 blk_100037:blk_110037 Starting thread to transfer block blk_120037 to blk_130037:blk_140037
+492 blk_100038:blk_110038 Starting thread to transfer block blk_120038 to blk_130038:blk_140038
+493 blk_100039:blk_110039 Starting thread to transfer block blk_120039 to blk_130039:blk_140039
+494 blk_100040:blk_110040 Starting thread to transfer block blk_120040 to blk_130040:blk_140040
+495 blk_100041:blk_110041 Starting thread to transfer block blk_120041 to blk_130041:blk_140041
+496 blk_100042:blk_110042 Starting thread to transfer block blk_120042 to blk_130042:blk_140042
+497 blk_100043:blk_110043 Starting thread to transfer block blk_120043 to blk_130043:blk_140043
+498 blk_100044:blk_110044 Starting thread to transfer block blk_120044 to blk_130044:blk_140044
+499 blk_100045:blk_110045 Starting thread to transfer block blk_120045 to blk_130045:blk_140045
+500 blk_100046:blk_110046 Starting thread to transfer block blk_120046 to blk_130046:blk_140046
+501 blk_100047:blk_110047 Starting thread to transfer block blk_120047 to blk_130047:blk_140047
+502 blk_100048:blk_110048 Starting thread to transfer block blk_120048 to blk_130048:blk_140048
+503 blk_100049:blk_110049 Starting thread to transfer block blk_120049 to blk_130049:blk_140049
+504 blk_100050:blk_110050 Starting thread to transfer block blk_120050 to blk_130050:blk_140050
+505 blk_100051:blk_110051 Starting thread to transfer block blk_120051 to blk_130051:blk_140051
+506 blk_100052:blk_110052 Starting thread to transfer block blk_120052 to blk_130052:blk_140052
+507 blk_100053:blk_110053 Starting thread to transfer block blk_120053 to blk_130053:blk_140053
+508 blk_100054:blk_110054 Starting thread to transfer block blk_120054 to blk_130054:blk_140054
+509 blk_100055:blk_110055 Starting thread to transfer block blk_120055 to blk_130055:blk_140055
+510 blk_100056:blk_110056 Starting thread to transfer block blk_120056 to blk_130056:blk_140056
+511 blk_100057:blk_110057 Starting thread to transfer block blk_120057 to blk_130057:blk_140057
+512 PacketResponder blk_100000 for block blk_110000 terminating
+513 PacketResponder blk_100000 for block blk_110000 terminating
+514 PacketResponder blk_100001 for block blk_110001 terminating
+515 PacketResponder blk_100001 for block blk_110001 terminating
+516 PacketResponder blk_100002 for block blk_110002 terminating
+517 PacketResponder blk_100002 for block blk_110002 terminating
+518 PacketResponder blk_100003 for block blk_110003 terminating
+519 PacketResponder blk_100003 for block blk_110003 terminating
+520 PacketResponder blk_100004 for block blk_110004 terminating
+521 PacketResponder blk_100004 for block blk_110004 terminating
+522 PacketResponder blk_100005 for block blk_110005 terminating
+523 PacketResponder blk_100005 for block blk_110005 terminating
+524 PacketResponder blk_100006 for block blk_110006 terminating
+525 PacketResponder blk_100007 for block blk_110007 terminating
+526 PacketResponder blk_100008 for block blk_110008 terminating
+527 PacketResponder blk_100009 for block blk_110009 terminating
+528 PacketResponder blk_100010 for block blk_110010 terminating
+529 PacketResponder blk_100011 for block blk_110011 terminating
+530 PacketResponder blk_100012 for block blk_110012 terminating
+531 PacketResponder blk_100013 for block blk_110013 terminating
+532 PacketResponder blk_100014 for block blk_110014 terminating
+533 PacketResponder blk_100015 for block blk_110015 terminating
+534 PacketResponder blk_100016 for block blk_110016 terminating
+535 PacketResponder blk_100017 for block blk_110017 terminating
+536 PacketResponder blk_100018 for block blk_110018 terminating
+537 PacketResponder blk_100019 for block blk_110019 terminating
+538 PacketResponder blk_100020 for block blk_110020 terminating
+539 PacketResponder blk_100021 for block blk_110021 terminating
+540 PacketResponder blk_100022 for block blk_110022 terminating
+541 PacketResponder blk_100023 for block blk_110023 terminating
+542 PacketResponder blk_100024 for block blk_110024 terminating
+543 PacketResponder blk_100025 for block blk_110025 terminating
+544 PacketResponder blk_100026 for block blk_110026 terminating
+545 PacketResponder blk_100027 for block blk_110027 terminating
+546 PacketResponder blk_100028 for block blk_110028 terminating
+547 PacketResponder blk_100029 for block blk_110029 terminating
+548 PacketResponder blk_100030 for block blk_110030 terminating
+549 PacketResponder blk_100031 for block blk_110031 terminating
+550 PacketResponder blk_100032 for block blk_110032 terminating
+551 PacketResponder blk_100033 for block blk_110033 terminating
+552 PacketResponder blk_100034 for block blk_110034 terminating
+553 PacketResponder blk_100035 for block blk_110035 terminating
+554 PacketResponder blk_100036 for block blk_110036 terminating
+555 PacketResponder blk_100037 for block blk_110037 terminating
+556 PacketResponder blk_100038 for block blk_110038 terminating
+557 PacketResponder blk_100039 for block blk_110039 terminating
+558 PacketResponder blk_100040 for block blk_110040 terminating
+559 PacketResponder blk_100041 for block blk_110041 terminating
+560 PacketResponder blk_100042 for block blk_110042 terminating
+561 PacketResponder blk_100043 for block blk_110043 terminating
+562 PacketResponder blk_100044 for block blk_110044 terminating
+563 PacketResponder blk_100045 for block blk_110045 terminating
+564 PacketResponder blk_100046 for block blk_110046 terminating
+565 PacketResponder blk_100047 for block blk_110047 terminating
+566 PacketResponder blk_100048 for block blk_110048 terminating
+567 PacketResponder blk_100049 for block blk_110049 terminating
+568 PacketResponder blk_100050 for block blk_110050 terminating
+569 PacketResponder blk_100051 for block blk_110051 terminating
+570 PacketResponder blk_100052 for block blk_110052 terminating
+571 PacketResponder blk_100053 for block blk_110053 terminating
+572 PacketResponder blk_100054 for block blk_110054 terminating
+573 PacketResponder blk_100055 for block blk_110055 terminating
+574 PacketResponder blk_100056 for block blk_110056 terminating
+575 PacketResponder blk_100057 for block blk_110057 terminating
+576 BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+577 BLOCK* NameSystem.allocateBlock: blk_100000 blk_110000
+578 BLOCK* NameSystem.allocateBlock: blk_100001 blk_110001
+579 BLOCK* NameSystem.allocateBlock: blk_100001 blk_110001
+580 BLOCK* NameSystem.allocateBlock: blk_100002 blk_110002
+581 BLOCK* NameSystem.allocateBlock: blk_100002 blk_110002
+582 BLOCK* NameSystem.allocateBlock: blk_100003 blk_110003
+583 BLOCK* NameSystem.allocateBlock: blk_100003 blk_110003
+584 BLOCK* NameSystem.allocateBlock: blk_100004 blk_110004
+585 BLOCK* NameSystem.allocateBlock: blk_100004 blk_110004
+586 BLOCK* NameSystem.allocateBlock: blk_100005 blk_110005
+587 BLOCK* NameSystem.allocateBlock: blk_100005 blk_110005
+588 BLOCK* NameSystem.allocateBlock: blk_100006 blk_110006
+589 BLOCK* NameSystem.allocateBlock: blk_100007 blk_110007
+590 BLOCK* NameSystem.allocateBlock: blk_100008 blk_110008
+591 BLOCK* NameSystem.allocateBlock: blk_100009 blk_110009
+592 BLOCK* NameSystem.allocateBlock: blk_100010 blk_110010
+593 BLOCK* NameSystem.allocateBlock: blk_100011 blk_110011
+594 BLOCK* NameSystem.allocateBlock: blk_100012 blk_110012
+595 BLOCK* NameSystem.allocateBlock: blk_100013 blk_110013
+596 BLOCK* NameSystem.allocateBlock: blk_100014 blk_110014
+597 BLOCK* NameSystem.allocateBlock: blk_100015 blk_110015
+598 BLOCK* NameSystem.allocateBlock: blk_100016 blk_110016
+599 BLOCK* NameSystem.allocateBlock: blk_100017 blk_110017
+600 BLOCK* NameSystem.allocateBlock: blk_100018 blk_110018
+601 BLOCK* NameSystem.allocateBlock: blk_100019 blk_110019
+602 BLOCK* NameSystem.allocateBlock: blk_100020 blk_110020
+603 BLOCK* NameSystem.allocateBlock: blk_100021 blk_110021
+604 BLOCK* NameSystem.allocateBlock: blk_100022 blk_110022
+605 BLOCK* NameSystem.allocateBlock: blk_100023 blk_110023
+606 BLOCK* NameSystem.allocateBlock: blk_100024 blk_110024
+607 BLOCK* NameSystem.allocateBlock: blk_100025 blk_110025
+608 BLOCK* NameSystem.allocateBlock: blk_100026 blk_110026
+609 BLOCK* NameSystem.allocateBlock: blk_100027 blk_110027
+610 BLOCK* NameSystem.allocateBlock: blk_100028 blk_110028
+611 BLOCK* NameSystem.allocateBlock: blk_100029 blk_110029
+612 BLOCK* NameSystem.allocateBlock: blk_100030 blk_110030
+613 BLOCK* NameSystem.allocateBlock: blk_100031 blk_110031
+614 BLOCK* NameSystem.allocateBlock: blk_100032 blk_110032
+615 BLOCK* NameSystem.allocateBlock: blk_100033 blk_110033
+616 BLOCK* NameSystem.allocateBlock: blk_100034 blk_110034
+617 BLOCK* NameSystem.allocateBlock: blk_100035 blk_110035
+618 BLOCK* NameSystem.allocateBlock: blk_100036 blk_110036
+619 BLOCK* NameSystem.allocateBlock: blk_100037 blk_110037
+620 BLOCK* NameSystem.allocateBlock: blk_100038 blk_110038
+621 BLOCK* NameSystem.allocateBlock: blk_100039 blk_110039
+622 BLOCK* NameSystem.allocateBlock: blk_100040 blk_110040
+623 BLOCK* NameSystem.allocateBlock: blk_100041 blk_110041
+624 BLOCK* NameSystem.allocateBlock: blk_100042 blk_110042
+625 BLOCK* NameSystem.allocateBlock: blk_100043 blk_110043
+626 BLOCK* NameSystem.allocateBlock: blk_100044 blk_110044
+627 BLOCK* NameSystem.allocateBlock: blk_100045 blk_110045
+628 BLOCK* NameSystem.allocateBlock: blk_100046 blk_110046
+629 BLOCK* NameSystem.allocateBlock: blk_100047 blk_110047
+630 BLOCK* NameSystem.allocateBlock: blk_100048 blk_110048
+631 BLOCK* NameSystem.allocateBlock: blk_100049 blk_110049
+632 BLOCK* NameSystem.allocateBlock: blk_100050 blk_110050
+633 BLOCK* NameSystem.allocateBlock: blk_100051 blk_110051
+634 BLOCK* NameSystem.allocateBlock: blk_100052 blk_110052
+635 BLOCK* NameSystem.allocateBlock: blk_100053 blk_110053
+636 BLOCK* NameSystem.allocateBlock: blk_100054 blk_110054
+637 BLOCK* NameSystem.allocateBlock: blk_100055 blk_110055
+638 BLOCK* NameSystem.allocateBlock: blk_100056 blk_110056
+639 BLOCK* NameSystem.allocateBlock: blk_100057 blk_110057
+640 Deleting block blk_100000 file blk_110000
+641 Deleting block blk_100000 file blk_110000
+642 Deleting block blk_100001 file blk_110001
+643 Deleting block blk_100001 file blk_110001
+644 Deleting block blk_100002 file blk_110002
+645 Deleting block blk_100002 file blk_110002
+646 Deleting block blk_100003 file blk_110003
+647 Deleting block blk_100003 file blk_110003
+648 Deleting block blk_100004 file blk_110004
+649 Deleting block blk_100004 file blk_110004
+650 Deleting block blk_100005 file blk_110005
+651 Deleting block blk_100005 file blk_110005
+652 Deleting block blk_100006 file blk_110006
+653 Deleting block blk_100007 file blk_110007
+654 Deleting block blk_100008 file blk_110008
+655 Deleting block blk_100009 file blk_110009
+656 Deleting block blk_100010 file blk_110010
+657 Deleting block blk_100011 file blk_110011
+658 Deleting block blk_100012 file blk_110012
+659 Deleting block blk_100013 file blk_110013
+660 Deleting block blk_100014 file blk_110014
+661 Deleting block blk_100015 file blk_110015
+662 Deleting block blk_100016 file blk_110016
+663 Deleting block blk_100017 file blk_110017
+664 Deleting block blk_100018 file blk_110018
+665 Deleting block blk_100019 file blk_110019
+666 Deleting block blk_100020 file blk_110020
+667 Deleting block blk_100021 file blk_110021
+668 Deleting block blk_100022 file blk_110022
+669 Deleting block blk_100023 file blk_110023
+670 Deleting block blk_100024 file blk_110024
+671 Deleting block blk_100025 file blk_110025
+672 Deleting block blk_100026 file blk_110026
+673 Deleting block blk_100027 file blk_110027
+674 Deleting block blk_100028 file blk_110028
+675 Deleting block blk_100029 file blk_110029
+676 Deleting block blk_100030 file blk_110030
+677 Deleting block blk_100031 file blk_110031
+678 Deleting block blk_100032 file blk_110032
+679 Deleting block blk_100033 file blk_110033
+680 Deleting block blk_100034 file blk_110034
+681 Deleting block blk_100035 file blk_110035
+682 Deleting block blk_100036 file blk_110036
+683 Deleting block blk_100037 file blk_110037
+684 Deleting block blk_100038 file blk_110038
+685 Deleting block blk_100039 file blk_110039
+686 Deleting block blk_100040 file blk_110040
+687 Deleting block blk_100041 file blk_110041
+688 Deleting block blk_100042 file blk_110042
+689 Deleting block blk_100043 file blk_110043
+690 Deleting block blk_100044 file blk_110044
+691 Deleting block blk_100045 file blk_110045
+692 Deleting block blk_100046 file blk_110046
+693 Deleting block blk_100047 file blk_110047
+694 Deleting block blk_100048 file blk_110048
+695 Deleting block blk_100049 file blk_110049
+696 Deleting block blk_100050 file blk_110050
+697 Deleting block blk_100051 file blk_110051
+698 Deleting block blk_100052 file blk_110052
+699 Deleting block blk_100053 file blk_110053
+700 Deleting block blk_100054 file blk_110054
+701 Deleting block blk_100055 file blk_110055
+702 Deleting block blk_100056 file blk_110056
+703 Deleting block blk_100057 file blk_110057
+704 BLOCK* NameSystem.delete: blk_100000 is added to invalidSet of blk_110000:blk_120000
+705 BLOCK* NameSystem.delete: blk_100000 is added to invalidSet of blk_110000:blk_120000
+706 BLOCK* NameSystem.delete: blk_100001 is added to invalidSet of blk_110001:blk_120001
+707 BLOCK* NameSystem.delete: blk_100001 is added to invalidSet of blk_110001:blk_120001
+708 BLOCK* NameSystem.delete: blk_100002 is added to invalidSet of blk_110002:blk_120002
+709 BLOCK* NameSystem.delete: blk_100002 is added to invalidSet of blk_110002:blk_120002
+710 BLOCK* NameSystem.delete: blk_100003 is added to invalidSet of blk_110003:blk_120003
+711 BLOCK* NameSystem.delete: blk_100003 is added to invalidSet of blk_110003:blk_120003
+712 BLOCK* NameSystem.delete: blk_100004 is added to invalidSet of blk_110004:blk_120004
+713 BLOCK* NameSystem.delete: blk_100004 is added to invalidSet of blk_110004:blk_120004
+714 BLOCK* NameSystem.delete: blk_100005 is added to invalidSet of blk_110005:blk_120005
+715 BLOCK* NameSystem.delete: blk_100005 is added to invalidSet of blk_110005:blk_120005
+716 BLOCK* NameSystem.delete: blk_100006 is added to invalidSet of blk_110006:blk_120006
+717 BLOCK* NameSystem.delete: blk_100007 is added to invalidSet of blk_110007:blk_120007
+718 BLOCK* NameSystem.delete: blk_100008 is added to invalidSet of blk_110008:blk_120008
+719 BLOCK* NameSystem.delete: blk_100009 is added to invalidSet of blk_110009:blk_120009
+720 BLOCK* NameSystem.delete: blk_100010 is added to invalidSet of blk_110010:blk_120010
+721 BLOCK* NameSystem.delete: blk_100011 is added to invalidSet of blk_110011:blk_120011
+722 BLOCK* NameSystem.delete: blk_100012 is added to invalidSet of blk_110012:blk_120012
+723 BLOCK* NameSystem.delete: blk_100013 is added to invalidSet of blk_110013:blk_120013
+724 BLOCK* NameSystem.delete: blk_100014 is added to invalidSet of blk_110014:blk_120014
+725 BLOCK* NameSystem.delete: blk_100015 is added to invalidSet of blk_110015:blk_120015
+726 BLOCK* NameSystem.delete: blk_100016 is added to invalidSet of blk_110016:blk_120016
+727 BLOCK* NameSystem.delete: blk_100017 is added to invalidSet of blk_110017:blk_120017
+728 BLOCK* NameSystem.delete: blk_100018 is added to invalidSet of blk_110018:blk_120018
+729 BLOCK* NameSystem.delete: blk_100019 is added to invalidSet of blk_110019:blk_120019
+730 BLOCK* NameSystem.delete: blk_100020 is added to invalidSet of blk_110020:blk_120020
+731 BLOCK* NameSystem.delete: blk_100021 is added to invalidSet of blk_110021:blk_120021
+732 BLOCK* NameSystem.delete: blk_100022 is added to invalidSet of blk_110022:blk_120022
+733 BLOCK* NameSystem.delete: blk_100023 is added to invalidSet of blk_110023:blk_120023
+734 BLOCK* NameSystem.delete: blk_100024 is added to invalidSet of blk_110024:blk_120024
+735 BLOCK* NameSystem.delete: blk_100025 is added to invalidSet of blk_110025:blk_120025
+736 BLOCK* NameSystem.delete: blk_100026 is added to invalidSet of blk_110026:blk_120026
+737 BLOCK* NameSystem.delete: blk_100027 is added to invalidSet of blk_110027:blk_120027
+738 BLOCK* NameSystem.delete: blk_100028 is added to invalidSet of blk_110028:blk_120028
+739 BLOCK* NameSystem.delete: blk_100029 is added to invalidSet of blk_110029:blk_120029
+740 BLOCK* NameSystem.delete: blk_100030 is added to invalidSet of blk_110030:blk_120030
+741 BLOCK* NameSystem.delete: blk_100031 is added to invalidSet of blk_110031:blk_120031
+742 BLOCK* NameSystem.delete: blk_100032 is added to invalidSet of blk_110032:blk_120032
+743 BLOCK* NameSystem.delete: blk_100033 is added to invalidSet of blk_110033:blk_120033
+744 BLOCK* NameSystem.delete: blk_100034 is added to invalidSet of blk_110034:blk_120034
+745 BLOCK* NameSystem.delete: blk_100035 is added to invalidSet of blk_110035:blk_120035
+746 BLOCK* NameSystem.delete: blk_100036 is added to invalidSet of blk_110036:blk_120036
+747 BLOCK* NameSystem.delete: blk_100037 is added to invalidSet of blk_110037:blk_120037
+748 BLOCK* NameSystem.delete: blk_100038 is added to invalidSet of blk_110038:blk_120038
+749 BLOCK* NameSystem.delete: blk_100039 is added to invalidSet of blk_110039:blk_120039
+750 BLOCK* NameSystem.delete: blk_100040 is added to invalidSet of blk_110040:blk_120040
+751 BLOCK* NameSystem.delete: blk_100041 is added to invalidSet of blk_110041:blk_120041
+752 BLOCK* NameSystem.delete: blk_100042 is added to invalidSet of blk_110042:blk_120042
+753 BLOCK* NameSystem.delete: blk_100043 is added to invalidSet of blk_110043:blk_120043
+754 BLOCK* NameSystem.delete: blk_100044 is added to invalidSet of blk_110044:blk_120044
+755 BLOCK* NameSystem.delete: blk_100045 is added to invalidSet of blk_110045:blk_120045
+756 BLOCK* NameSystem.delete: blk_100046 is added to invalidSet of blk_110046:blk_120046
+757 BLOCK* NameSystem.delete: blk_100047 is added to invalidSet of blk_110047:blk_120047
+758 BLOCK* NameSystem.delete: blk_100048 is added to invalidSet of blk_110048:blk_120048
+759 BLOCK* NameSystem.delete: blk_100049 is added to invalidSet of blk_110049:blk_120049
+760 BLOCK* NameSystem.delete: blk_100050 is added to invalidSet of blk_110050:blk_120050
+761 BLOCK* NameSystem.delete: blk_100051 is added to invalidSet of blk_110051:blk_120051
+762 BLOCK* NameSystem.delete: blk_100052 is added to invalidSet of blk_110052:blk_120052
+763 BLOCK* NameSystem.delete: blk_100053 is added to invalidSet of blk_110053:blk_120053
+764 BLOCK* NameSystem.delete: blk_100054 is added to invalidSet of blk_110054:blk_120054
+765 BLOCK* NameSystem.delete: blk_100055 is added to invalidSet of blk_110055:blk_120055
+766 BLOCK* NameSystem.delete: blk_100056 is added to invalidSet of blk_110056:blk_120056
+767 BLOCK* NameSystem.delete: blk_100057 is added to invalidSet of blk_110057:blk_120057
+768 BLOCK* ask blk_100000:blk_110000 to delete blk_120000
+769 BLOCK* ask blk_100000:blk_110000 to delete blk_120000
+770 BLOCK* ask blk_100001:blk_110001 to delete blk_120001
+771 BLOCK* ask blk_100001:blk_110001 to delete blk_120001
+772 BLOCK* ask blk_100002:blk_110002 to delete blk_120002
+773 BLOCK* ask blk_100002:blk_110002 to delete blk_120002
+774 BLOCK* ask blk_100003:blk_110003 to delete blk_120003
+775 BLOCK* ask blk_100003:blk_110003 to delete blk_120003
+776 BLOCK* ask blk_100004:blk_110004 to delete blk_120004
+777 BLOCK* ask blk_100004:blk_110004 to delete blk_120004
+778 BLOCK* ask blk_100005:blk_110005 to delete blk_120005
+779 BLOCK* ask blk_100005:blk_110005 to delete blk_120005
+780 BLOCK* ask blk_100006:blk_110006 to delete blk_120006
+781 BLOCK* ask blk_100007:blk_110007 to delete blk_120007
+782 BLOCK* ask blk_100008:blk_110008 to delete blk_120008
+783 BLOCK* ask blk_100009:blk_110009 to delete blk_120009
+784 BLOCK* ask blk_100010:blk_110010 to delete blk_120010
+785 BLOCK* ask blk_100011:blk_110011 to delete blk_120011
+786 BLOCK* ask blk_100012:blk_110012 to delete blk_120012
+787 BLOCK* ask blk_100013:blk_110013 to delete blk_120013
+788 BLOCK* ask blk_100014:blk_110014 to delete blk_120014
+789 BLOCK* ask blk_100015:blk_110015 to delete blk_120015
+790 BLOCK* ask blk_100016:blk_110016 to delete blk_120016
+791 BLOCK* ask blk_100017:blk_110017 to delete blk_120017
+792 BLOCK* ask blk_100018:blk_110018 to delete blk_120018
+793 BLOCK* ask blk_100019:blk_110019 to delete blk_120019
+794 BLOCK* ask blk_100020:blk_110020 to delete blk_120020
+795 BLOCK* ask blk_100021:blk_110021 to delete blk_120021
+796 BLOCK* ask blk_100022:blk_110022 to delete blk_120022
+797 BLOCK* ask blk_100023:blk_110023 to delete blk_120023
+798 BLOCK* ask blk_100024:blk_110024 to delete blk_120024
+799 BLOCK* ask blk_100025:blk_110025 to delete blk_120025
+800 BLOCK* ask blk_100026:blk_110026 to delete blk_120026
+801 BLOCK* ask blk_100027:blk_110027 to delete blk_120027
+802 BLOCK* ask blk_100028:blk_110028 to delete blk_120028
+803 BLOCK* ask blk_100029:blk_110029 to delete blk_120029
+804 BLOCK* ask blk_100030:blk_110030 to delete blk_120030
+805 BLOCK* ask blk_100031:blk_110031 to delete blk_120031
+806 BLOCK* ask blk_100032:blk_110032 to delete blk_120032
+807 BLOCK* ask blk_100033:blk_110033 to delete blk_120033
+808 BLOCK* ask blk_100034:blk_110034 to delete blk_120034
+809 BLOCK* ask blk_100035:blk_110035 to delete blk_120035
+810 BLOCK* ask blk_100036:blk_110036 to delete blk_120036
+811 BLOCK* ask blk_100037:blk_110037 to delete blk_120037
+812 BLOCK* ask blk_100038:blk_110038 to delete blk_120038
+813 BLOCK* ask blk_100039:blk_110039 to delete blk_120039
+814 BLOCK* ask blk_100040:blk_110040 to delete blk_120040
+815 BLOCK* ask blk_100041:blk_110041 to delete blk_120041
+816 BLOCK* ask blk_100042:blk_110042 to delete blk_120042
+817 BLOCK* ask blk_100043:blk_110043 to delete blk_120043
+818 BLOCK* ask blk_100044:blk_110044 to delete blk_120044
+819 BLOCK* ask blk_100045:blk_110045 to delete blk_120045
+820 BLOCK* ask blk_100046:blk_110046 to delete blk_120046
+821 BLOCK* ask blk_100047:blk_110047 to delete blk_120047
+822 BLOCK* ask blk_100048:blk_110048 to delete blk_120048
+823 BLOCK* ask blk_100049:blk_110049 to delete blk_120049
+824 BLOCK* ask blk_100050:blk_110050 to delete blk_120050
+825 BLOCK* ask blk_100051:blk_110051 to delete blk_120051
+826 BLOCK* ask blk_100052:blk_110052 to delete blk_120052
+827 BLOCK* ask blk_100053:blk_110053 to delete blk_120053
+828 BLOCK* ask blk_100054:blk_110054 to delete blk_120054
+829 BLOCK* ask blk_100055:blk_110055 to delete blk_120055
+830 BLOCK* ask blk_100056:blk_110056 to delete blk_120056
+831 BLOCK* ask blk_100057:blk_110057 to delete blk_120057
+832 aaalpha:bbalpha Served block ccalpha to ddalpha
+833 aaalpha:bbalpha Served block ccalpha to ddalpha
+834 aaalpha:bbalpha Served block ccalpha to ddalpha
+835 aaalpha:bbalpha Served block ccalpha to ddalpha
+836 aaalpha:bbalpha Served block ccalpha to ddalpha
+837 aaalpha:bbalpha Served block ccalpha to ddalpha
+838 aaalpha:bbalpha Served block ccalpha to ddalpha
+839 aaalpha:bbalpha Served block ccalpha to ddalpha
+840 aaalpha:bbalpha Served block ccalpha to ddalpha
+841 aaalpha:bbalpha Served block ccalpha to ddalpha
+842 aaalpha:bbalpha Served block ccalpha to ddalpha
+843 aaalpha:bbalpha Served block ccalpha to ddalpha
+844 aaalpha:bbalpha Served block ccalpha to ddalpha
+845 aaalpha:bbalpha Served block ccalpha to ddalpha
+846 aaalpha:bbalpha Served block ccalpha to ddalpha
+847 aaalpha:bbalpha Served block ccalpha to ddalpha
+848 aaalpha:bbalpha Served block ccalpha to ddalpha
+849 aaalpha:bbalpha Served block ccalpha to ddalpha
+850 aaalpha:bbalpha Served block ccalpha to ddalpha
+851 aaalpha:bbalpha Served block ccalpha to ddalpha
+852 aaalpha:bbalpha Served block ccalpha to ddalpha
+853 aaalpha:bbalpha Served block ccalpha to ddalpha
+854 aaalpha:bbalpha Served block ccalpha to ddalpha
+855 aaalpha:bbalpha Served block ccalpha to ddalpha
+856 aaalpha:bbalpha Served block ccalpha to ddalpha
+857 aaalpha:bbalpha Served block ccalpha to ddalpha
+858 aaalpha:bbalpha Served block ccalpha to ddalpha
+859 aaalpha:bbalpha Served block ccalpha to ddalpha
+860 aaalpha:bbalpha Served block ccalpha to ddalpha
+861 aaalpha:bbalpha Served block ccalpha to ddalpha
+862 aaalpha:bbalpha Served block ccalpha to ddalpha
+863 aaalpha:bbalpha Served block ccalpha to ddalpha
+864 aaalpha:bbalpha Served block ccalpha to ddalpha
+865 aaalpha:bbalpha Served block ccalpha to ddalpha
+866 aaalpha:bbalpha Served block ccalpha to ddalpha
+867 aaalpha:bbalpha Served block ccalpha to ddalpha
+868 aaalpha:bbalpha Served block ccalpha to ddalpha
+869 aaalpha:bbalpha Served block ccalpha to ddalpha
+870 aaalpha:bbalpha Served block ccalpha to ddalpha
+871 aaalpha:bbalpha Served block ccalpha to ddalpha
+872 aaalpha:bbalpha Served block ccalpha to ddalpha
+873 aaalpha:bbalpha Served block ccalpha to ddalpha
+874 aaalpha:bbalpha Served block ccalpha to ddalpha
+875 aaalpha:bbalpha Served block ccalpha to ddalpha
+876 aaalpha:bbalpha Served block ccalpha to ddalpha
+877 aaalpha:bbalpha Served block ccalpha to ddalpha
+878 aaalpha:bbalpha Served block ccalpha to ddalpha
+879 aaalpha:bbalpha Served block ccalpha to ddalpha
+880 aaalpha:bbalpha Served block ccalpha to ddalpha
+881 aaalpha:bbalpha Served block ccalpha to ddalpha
+882 aaalpha:bbalpha Served block ccalpha to ddalpha
+883 aaalpha:bbalpha Served block ccalpha to ddalpha
+884 aaalpha:bbalpha Served block ccalpha to ddalpha
+885 aaalpha:bbalpha Served block ccalpha to ddalpha
+886 aaalpha:bbalpha Served block ccalpha to ddalpha
+887 aaalpha:bbalpha Served block ccalpha to ddalpha
+888 aaalpha:bbalpha Served block ccalpha to ddalpha
+889 aaalpha:bbalpha Served block ccalpha to ddalpha
+890 aaalpha:bbalpha Served block ccalpha to ddalpha
+891 aaalpha:bbalpha Served block ccalpha to ddalpha
+892 aaalpha:bbalpha Served block ccalpha to ddalpha
+893 aaalpha:bbalpha Served block ccalpha to ddalpha
+894 aaalpha:bbalpha Served block ccalpha to ddalpha
+895 aaalpha:bbalpha Served block ccalpha to ddalpha

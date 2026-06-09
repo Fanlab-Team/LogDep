@@ -1,0 +1,10 @@
+﻿target_score,actual_ground_truth_ld,target_error,mean_absolute_dataset_error,minimum_dataset_ld,maximum_dataset_ld,datasets,alpha,formula,dataset_report,data_dir
+0.1,0.0999435904,-0.0000564096,0.0001248052,0.0995330078,0.1002013509,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_1.csv,data\gtld\diversity_0_1
+0.2,0.2000412641,0.0000412641,0.0001137513,0.1998831546,0.2003648490,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_2.csv,data\gtld\diversity_0_2
+0.3,0.3000261158,0.0000261158,0.0000711318,0.2998738427,0.3001641350,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_3.csv,data\gtld\diversity_0_3
+0.4,0.3999880538,-0.0000119462,0.0000705605,0.3997558747,0.4001402530,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_4.csv,data\gtld\diversity_0_4
+0.5,0.4999787567,-0.0000212433,0.0000845094,0.4997477961,0.5001675091,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_5.csv,data\gtld\diversity_0_5
+0.6,0.6000210202,0.0000210202,0.0001313821,0.5996685606,0.6003840646,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_6.csv,data\gtld\diversity_0_6
+0.7,0.6999071930,-0.0000928070,0.0001771759,0.6995547726,0.7004480753,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_7.csv,data\gtld\diversity_0_7
+0.8,0.8000559447,0.0000559447,0.0002139119,0.7996749674,0.8004068369,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_8.csv,data\gtld\diversity_0_8
+0.9,0.8999413953,-0.0000586047,0.0003507035,0.8992357525,0.9006594037,16,0.5000,"sum_G(|G|^alpha * mean_p(H(X_G,p)/log|G|)) / sum_G(|G|^alpha)",results\ground_truth_diversity\level_0_9.csv,data\gtld\diversity_0_9

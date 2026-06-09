@@ -1,0 +1,3264 @@
+0 new date =100000, type=110000,120000,old=130000
+1 new date =100000, type=110000,120000,old=130000
+2 new date =100000, type=110000,120000,old=130000
+3 new date =100000, type=110000,120000,old=130000
+4 new date =100000, type=110000,120000,old=130000
+5 new date =100000, type=110000,120000,old=130000
+6 new date =100000, type=110000,120000,old=130000
+7 new date =100000, type=110000,120000,old=130000
+8 new date =100000, type=110000,120000,old=130000
+9 new date =100000, type=110000,120000,old=130000
+10 new date =100000, type=110000,120000,old=130000
+11 new date =100000, type=110000,120000,old=130000
+12 new date =100000, type=110000,120000,old=130000
+13 new date =100001, type=110001,120001,old=130001
+14 new date =100001, type=110001,120001,old=130001
+15 new date =100002, type=110002,120002,old=130002
+16 new date =100002, type=110002,120002,old=130002
+17 new date =100003, type=110003,120003,old=130003
+18 new date =100003, type=110003,120003,old=130003
+19 new date =100004, type=110004,120004,old=130004
+20 new date =100004, type=110004,120004,old=130004
+21 new date =100005, type=110005,120005,old=130005
+22 new date =100005, type=110005,120005,old=130005
+23 new date =100006, type=110006,120006,old=130006
+24 new date =100006, type=110006,120006,old=130006
+25 new date =100007, type=110007,120007,old=130007
+26 new date =100007, type=110007,120007,old=130007
+27 new date =100008, type=110008,120008,old=130008
+28 new date =100008, type=110008,120008,old=130008
+29 new date =100009, type=110009,120009,old=130009
+30 new date =100009, type=110009,120009,old=130009
+31 new date =100010, type=110010,120010,old=130010
+32 new date =100010, type=110010,120010,old=130010
+33 new date =100011, type=110011,120011,old=130011
+34 new date =100011, type=110011,120011,old=130011
+35 new date =100012, type=110012,120012,old=130012
+36 new date =100012, type=110012,120012,old=130012
+37 new date =100013, type=110013,120013,old=130013
+38 new date =100013, type=110013,120013,old=130013
+39 new date =100014, type=110014,120014,old=130014
+40 new date =100014, type=110014,120014,old=130014
+41 new date =100015, type=110015,120015,old=130015
+42 new date =100015, type=110015,120015,old=130015
+43 new date =100016, type=110016,120016,old=130016
+44 new date =100016, type=110016,120016,old=130016
+45 new date =100017, type=110017,120017,old=130017
+46 new date =100017, type=110017,120017,old=130017
+47 new date =100018, type=110018,120018,old=130018
+48 new date =100018, type=110018,120018,old=130018
+49 new date =100019, type=110019,120019,old=130019
+50 new date =100019, type=110019,120019,old=130019
+51 new date =100020, type=110020,120020,old=130020
+52 new date =100020, type=110020,120020,old=130020
+53 new date =100021, type=110021,120021,old=130021
+54 new date =100021, type=110021,120021,old=130021
+55 new date =100022, type=110022,120022,old=130022
+56 new date =100023, type=110023,120023,old=130023
+57 new date =100024, type=110024,120024,old=130024
+58 new date =100025, type=110025,120025,old=130025
+59 new date =100026, type=110026,120026,old=130026
+60 new date =100027, type=110027,120027,old=130027
+61 new date =100028, type=110028,120028,old=130028
+62 new date =100029, type=110029,120029,old=130029
+63 new date =100030, type=110030,120030,old=130030
+64 InsertEvent success begin:100000 end:110000
+65 InsertEvent success begin:100000 end:110000
+66 InsertEvent success begin:100000 end:110000
+67 InsertEvent success begin:100000 end:110000
+68 InsertEvent success begin:100000 end:110000
+69 InsertEvent success begin:100000 end:110000
+70 InsertEvent success begin:100000 end:110000
+71 InsertEvent success begin:100000 end:110000
+72 InsertEvent success begin:100000 end:110000
+73 InsertEvent success begin:100000 end:110000
+74 InsertEvent success begin:100000 end:110000
+75 InsertEvent success begin:100000 end:110000
+76 InsertEvent success begin:100000 end:110000
+77 InsertEvent success begin:100001 end:110001
+78 InsertEvent success begin:100001 end:110001
+79 InsertEvent success begin:100002 end:110002
+80 InsertEvent success begin:100002 end:110002
+81 InsertEvent success begin:100003 end:110003
+82 InsertEvent success begin:100003 end:110003
+83 InsertEvent success begin:100004 end:110004
+84 InsertEvent success begin:100004 end:110004
+85 InsertEvent success begin:100005 end:110005
+86 InsertEvent success begin:100005 end:110005
+87 InsertEvent success begin:100006 end:110006
+88 InsertEvent success begin:100006 end:110006
+89 InsertEvent success begin:100007 end:110007
+90 InsertEvent success begin:100007 end:110007
+91 InsertEvent success begin:100008 end:110008
+92 InsertEvent success begin:100008 end:110008
+93 InsertEvent success begin:100009 end:110009
+94 InsertEvent success begin:100009 end:110009
+95 InsertEvent success begin:100010 end:110010
+96 InsertEvent success begin:100010 end:110010
+97 InsertEvent success begin:100011 end:110011
+98 InsertEvent success begin:100011 end:110011
+99 InsertEvent success begin:100012 end:110012
+100 InsertEvent success begin:100012 end:110012
+101 InsertEvent success begin:100013 end:110013
+102 InsertEvent success begin:100013 end:110013
+103 InsertEvent success begin:100014 end:110014
+104 InsertEvent success begin:100014 end:110014
+105 InsertEvent success begin:100015 end:110015
+106 InsertEvent success begin:100015 end:110015
+107 InsertEvent success begin:100016 end:110016
+108 InsertEvent success begin:100016 end:110016
+109 InsertEvent success begin:100017 end:110017
+110 InsertEvent success begin:100017 end:110017
+111 InsertEvent success begin:100018 end:110018
+112 InsertEvent success begin:100018 end:110018
+113 InsertEvent success begin:100019 end:110019
+114 InsertEvent success begin:100019 end:110019
+115 InsertEvent success begin:100020 end:110020
+116 InsertEvent success begin:100020 end:110020
+117 InsertEvent success begin:100021 end:110021
+118 InsertEvent success begin:100021 end:110021
+119 InsertEvent success begin:100022 end:110022
+120 InsertEvent success begin:100023 end:110023
+121 InsertEvent success begin:100024 end:110024
+122 InsertEvent success begin:100025 end:110025
+123 InsertEvent success begin:100026 end:110026
+124 InsertEvent success begin:100027 end:110027
+125 InsertEvent success begin:100028 end:110028
+126 InsertEvent success begin:100029 end:110029
+127 InsertEvent success begin:100030 end:110030
+128 setDiffTotalSteps=100000
+129 setDiffTotalSteps=100000
+130 setDiffTotalSteps=100000
+131 setDiffTotalSteps=100000
+132 setDiffTotalSteps=100000
+133 setDiffTotalSteps=100000
+134 setDiffTotalSteps=100000
+135 setDiffTotalSteps=100000
+136 setDiffTotalSteps=100000
+137 setDiffTotalSteps=100000
+138 setDiffTotalSteps=100000
+139 setDiffTotalSteps=100000
+140 setDiffTotalSteps=100000
+141 setDiffTotalSteps=100001
+142 setDiffTotalSteps=100001
+143 setDiffTotalSteps=100002
+144 setDiffTotalSteps=100002
+145 setDiffTotalSteps=100003
+146 setDiffTotalSteps=100003
+147 setDiffTotalSteps=100004
+148 setDiffTotalSteps=100004
+149 setDiffTotalSteps=100005
+150 setDiffTotalSteps=100005
+151 setDiffTotalSteps=100006
+152 setDiffTotalSteps=100006
+153 setDiffTotalSteps=100007
+154 setDiffTotalSteps=100007
+155 setDiffTotalSteps=100008
+156 setDiffTotalSteps=100008
+157 setDiffTotalSteps=100009
+158 setDiffTotalSteps=100009
+159 setDiffTotalSteps=100010
+160 setDiffTotalSteps=100010
+161 setDiffTotalSteps=100011
+162 setDiffTotalSteps=100011
+163 setDiffTotalSteps=100012
+164 setDiffTotalSteps=100012
+165 setDiffTotalSteps=100013
+166 setDiffTotalSteps=100013
+167 setDiffTotalSteps=100014
+168 setDiffTotalSteps=100014
+169 setDiffTotalSteps=100015
+170 setDiffTotalSteps=100015
+171 setDiffTotalSteps=100016
+172 setDiffTotalSteps=100016
+173 setDiffTotalSteps=100017
+174 setDiffTotalSteps=100017
+175 setDiffTotalSteps=100018
+176 setDiffTotalSteps=100018
+177 setDiffTotalSteps=100019
+178 setDiffTotalSteps=100019
+179 setDiffTotalSteps=100020
+180 setDiffTotalSteps=100020
+181 setDiffTotalSteps=100021
+182 setDiffTotalSteps=100021
+183 setDiffTotalSteps=100022
+184 setDiffTotalSteps=100023
+185 setDiffTotalSteps=100024
+186 setDiffTotalSteps=100025
+187 setDiffTotalSteps=100026
+188 setDiffTotalSteps=100027
+189 setDiffTotalSteps=100028
+190 setDiffTotalSteps=100029
+191 setDiffTotalSteps=100030
+192 startInsertSportSync first 100000 steps sync,do all sync
+193 startInsertSportSync first 100000 steps sync,do all sync
+194 startInsertSportSync first 100000 steps sync,do all sync
+195 startInsertSportSync first 100000 steps sync,do all sync
+196 startInsertSportSync first 100000 steps sync,do all sync
+197 startInsertSportSync first 100000 steps sync,do all sync
+198 startInsertSportSync first 100000 steps sync,do all sync
+199 startInsertSportSync first 100000 steps sync,do all sync
+200 startInsertSportSync first 100000 steps sync,do all sync
+201 startInsertSportSync first 100000 steps sync,do all sync
+202 startInsertSportSync first 100000 steps sync,do all sync
+203 startInsertSportSync first 100000 steps sync,do all sync
+204 startInsertSportSync first 100000 steps sync,do all sync
+205 startInsertSportSync first 100001 steps sync,do all sync
+206 startInsertSportSync first 100001 steps sync,do all sync
+207 startInsertSportSync first 100002 steps sync,do all sync
+208 startInsertSportSync first 100002 steps sync,do all sync
+209 startInsertSportSync first 100003 steps sync,do all sync
+210 startInsertSportSync first 100003 steps sync,do all sync
+211 startInsertSportSync first 100004 steps sync,do all sync
+212 startInsertSportSync first 100004 steps sync,do all sync
+213 startInsertSportSync first 100005 steps sync,do all sync
+214 startInsertSportSync first 100005 steps sync,do all sync
+215 startInsertSportSync first 100006 steps sync,do all sync
+216 startInsertSportSync first 100006 steps sync,do all sync
+217 startInsertSportSync first 100007 steps sync,do all sync
+218 startInsertSportSync first 100007 steps sync,do all sync
+219 startInsertSportSync first 100008 steps sync,do all sync
+220 startInsertSportSync first 100008 steps sync,do all sync
+221 startInsertSportSync first 100009 steps sync,do all sync
+222 startInsertSportSync first 100009 steps sync,do all sync
+223 startInsertSportSync first 100010 steps sync,do all sync
+224 startInsertSportSync first 100010 steps sync,do all sync
+225 startInsertSportSync first 100011 steps sync,do all sync
+226 startInsertSportSync first 100011 steps sync,do all sync
+227 startInsertSportSync first 100012 steps sync,do all sync
+228 startInsertSportSync first 100012 steps sync,do all sync
+229 startInsertSportSync first 100013 steps sync,do all sync
+230 startInsertSportSync first 100013 steps sync,do all sync
+231 startInsertSportSync first 100014 steps sync,do all sync
+232 startInsertSportSync first 100014 steps sync,do all sync
+233 startInsertSportSync first 100015 steps sync,do all sync
+234 startInsertSportSync first 100015 steps sync,do all sync
+235 startInsertSportSync first 100016 steps sync,do all sync
+236 startInsertSportSync first 100016 steps sync,do all sync
+237 startInsertSportSync first 100017 steps sync,do all sync
+238 startInsertSportSync first 100017 steps sync,do all sync
+239 startInsertSportSync first 100018 steps sync,do all sync
+240 startInsertSportSync first 100018 steps sync,do all sync
+241 startInsertSportSync first 100019 steps sync,do all sync
+242 startInsertSportSync first 100019 steps sync,do all sync
+243 startInsertSportSync first 100020 steps sync,do all sync
+244 startInsertSportSync first 100020 steps sync,do all sync
+245 startInsertSportSync first 100021 steps sync,do all sync
+246 startInsertSportSync first 100021 steps sync,do all sync
+247 startInsertSportSync first 100022 steps sync,do all sync
+248 startInsertSportSync first 100023 steps sync,do all sync
+249 startInsertSportSync first 100024 steps sync,do all sync
+250 startInsertSportSync first 100025 steps sync,do all sync
+251 startInsertSportSync first 100026 steps sync,do all sync
+252 startInsertSportSync first 100027 steps sync,do all sync
+253 startInsertSportSync first 100028 steps sync,do all sync
+254 startInsertSportSync first 100029 steps sync,do all sync
+255 startInsertSportSync first 100030 steps sync,do all sync
+256 getAppContext() isAppValid health or wear, packageName = 100000
+257 getAppContext() isAppValid health or wear, packageName = 100000
+258 getAppContext() isAppValid health or wear, packageName = 100000
+259 getAppContext() isAppValid health or wear, packageName = 100000
+260 getAppContext() isAppValid health or wear, packageName = 100000
+261 getAppContext() isAppValid health or wear, packageName = 100000
+262 getAppContext() isAppValid health or wear, packageName = 100000
+263 getAppContext() isAppValid health or wear, packageName = 100000
+264 getAppContext() isAppValid health or wear, packageName = 100000
+265 getAppContext() isAppValid health or wear, packageName = 100000
+266 getAppContext() isAppValid health or wear, packageName = 100000
+267 getAppContext() isAppValid health or wear, packageName = 100000
+268 getAppContext() isAppValid health or wear, packageName = 100000
+269 getAppContext() isAppValid health or wear, packageName = 100001
+270 getAppContext() isAppValid health or wear, packageName = 100001
+271 getAppContext() isAppValid health or wear, packageName = 100002
+272 getAppContext() isAppValid health or wear, packageName = 100002
+273 getAppContext() isAppValid health or wear, packageName = 100003
+274 getAppContext() isAppValid health or wear, packageName = 100003
+275 getAppContext() isAppValid health or wear, packageName = 100004
+276 getAppContext() isAppValid health or wear, packageName = 100004
+277 getAppContext() isAppValid health or wear, packageName = 100005
+278 getAppContext() isAppValid health or wear, packageName = 100005
+279 getAppContext() isAppValid health or wear, packageName = 100006
+280 getAppContext() isAppValid health or wear, packageName = 100006
+281 getAppContext() isAppValid health or wear, packageName = 100007
+282 getAppContext() isAppValid health or wear, packageName = 100007
+283 getAppContext() isAppValid health or wear, packageName = 100008
+284 getAppContext() isAppValid health or wear, packageName = 100008
+285 getAppContext() isAppValid health or wear, packageName = 100009
+286 getAppContext() isAppValid health or wear, packageName = 100009
+287 getAppContext() isAppValid health or wear, packageName = 100010
+288 getAppContext() isAppValid health or wear, packageName = 100010
+289 getAppContext() isAppValid health or wear, packageName = 100011
+290 getAppContext() isAppValid health or wear, packageName = 100011
+291 getAppContext() isAppValid health or wear, packageName = 100012
+292 getAppContext() isAppValid health or wear, packageName = 100012
+293 getAppContext() isAppValid health or wear, packageName = 100013
+294 getAppContext() isAppValid health or wear, packageName = 100013
+295 getAppContext() isAppValid health or wear, packageName = 100014
+296 getAppContext() isAppValid health or wear, packageName = 100014
+297 getAppContext() isAppValid health or wear, packageName = 100015
+298 getAppContext() isAppValid health or wear, packageName = 100015
+299 getAppContext() isAppValid health or wear, packageName = 100016
+300 getAppContext() isAppValid health or wear, packageName = 100016
+301 getAppContext() isAppValid health or wear, packageName = 100017
+302 getAppContext() isAppValid health or wear, packageName = 100017
+303 getAppContext() isAppValid health or wear, packageName = 100018
+304 getAppContext() isAppValid health or wear, packageName = 100018
+305 getAppContext() isAppValid health or wear, packageName = 100019
+306 getAppContext() isAppValid health or wear, packageName = 100019
+307 getAppContext() isAppValid health or wear, packageName = 100020
+308 getAppContext() isAppValid health or wear, packageName = 100020
+309 getAppContext() isAppValid health or wear, packageName = 100021
+310 getAppContext() isAppValid health or wear, packageName = 100021
+311 getAppContext() isAppValid health or wear, packageName = 100022
+312 getAppContext() isAppValid health or wear, packageName = 100023
+313 getAppContext() isAppValid health or wear, packageName = 100024
+314 getAppContext() isAppValid health or wear, packageName = 100025
+315 getAppContext() isAppValid health or wear, packageName = 100026
+316 getAppContext() isAppValid health or wear, packageName = 100027
+317 getAppContext() isAppValid health or wear, packageName = 100028
+318 getAppContext() isAppValid health or wear, packageName = 100029
+319 getAppContext() isAppValid health or wear, packageName = 100030
+320 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+321 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+322 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+323 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+324 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+325 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+326 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+327 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+328 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+329 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+330 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+331 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+332 saveRealTimeHealthDatasStat() size = 100000,totalTime = 110000
+333 saveRealTimeHealthDatasStat() size = 100001,totalTime = 110001
+334 saveRealTimeHealthDatasStat() size = 100001,totalTime = 110001
+335 saveRealTimeHealthDatasStat() size = 100002,totalTime = 110002
+336 saveRealTimeHealthDatasStat() size = 100002,totalTime = 110002
+337 saveRealTimeHealthDatasStat() size = 100003,totalTime = 110003
+338 saveRealTimeHealthDatasStat() size = 100003,totalTime = 110003
+339 saveRealTimeHealthDatasStat() size = 100004,totalTime = 110004
+340 saveRealTimeHealthDatasStat() size = 100004,totalTime = 110004
+341 saveRealTimeHealthDatasStat() size = 100005,totalTime = 110005
+342 saveRealTimeHealthDatasStat() size = 100005,totalTime = 110005
+343 saveRealTimeHealthDatasStat() size = 100006,totalTime = 110006
+344 saveRealTimeHealthDatasStat() size = 100006,totalTime = 110006
+345 saveRealTimeHealthDatasStat() size = 100007,totalTime = 110007
+346 saveRealTimeHealthDatasStat() size = 100007,totalTime = 110007
+347 saveRealTimeHealthDatasStat() size = 100008,totalTime = 110008
+348 saveRealTimeHealthDatasStat() size = 100008,totalTime = 110008
+349 saveRealTimeHealthDatasStat() size = 100009,totalTime = 110009
+350 saveRealTimeHealthDatasStat() size = 100009,totalTime = 110009
+351 saveRealTimeHealthDatasStat() size = 100010,totalTime = 110010
+352 saveRealTimeHealthDatasStat() size = 100010,totalTime = 110010
+353 saveRealTimeHealthDatasStat() size = 100011,totalTime = 110011
+354 saveRealTimeHealthDatasStat() size = 100011,totalTime = 110011
+355 saveRealTimeHealthDatasStat() size = 100012,totalTime = 110012
+356 saveRealTimeHealthDatasStat() size = 100012,totalTime = 110012
+357 saveRealTimeHealthDatasStat() size = 100013,totalTime = 110013
+358 saveRealTimeHealthDatasStat() size = 100013,totalTime = 110013
+359 saveRealTimeHealthDatasStat() size = 100014,totalTime = 110014
+360 saveRealTimeHealthDatasStat() size = 100014,totalTime = 110014
+361 saveRealTimeHealthDatasStat() size = 100015,totalTime = 110015
+362 saveRealTimeHealthDatasStat() size = 100015,totalTime = 110015
+363 saveRealTimeHealthDatasStat() size = 100016,totalTime = 110016
+364 saveRealTimeHealthDatasStat() size = 100016,totalTime = 110016
+365 saveRealTimeHealthDatasStat() size = 100017,totalTime = 110017
+366 saveRealTimeHealthDatasStat() size = 100017,totalTime = 110017
+367 saveRealTimeHealthDatasStat() size = 100018,totalTime = 110018
+368 saveRealTimeHealthDatasStat() size = 100018,totalTime = 110018
+369 saveRealTimeHealthDatasStat() size = 100019,totalTime = 110019
+370 saveRealTimeHealthDatasStat() size = 100019,totalTime = 110019
+371 saveRealTimeHealthDatasStat() size = 100020,totalTime = 110020
+372 saveRealTimeHealthDatasStat() size = 100020,totalTime = 110020
+373 saveRealTimeHealthDatasStat() size = 100021,totalTime = 110021
+374 saveRealTimeHealthDatasStat() size = 100021,totalTime = 110021
+375 saveRealTimeHealthDatasStat() size = 100022,totalTime = 110022
+376 saveRealTimeHealthDatasStat() size = 100023,totalTime = 110023
+377 saveRealTimeHealthDatasStat() size = 100024,totalTime = 110024
+378 saveRealTimeHealthDatasStat() size = 100025,totalTime = 110025
+379 saveRealTimeHealthDatasStat() size = 100026,totalTime = 110026
+380 saveRealTimeHealthDatasStat() size = 100027,totalTime = 110027
+381 saveRealTimeHealthDatasStat() size = 100028,totalTime = 110028
+382 saveRealTimeHealthDatasStat() size = 100029,totalTime = 110029
+383 saveRealTimeHealthDatasStat() size = 100030,totalTime = 110030
+384 reload : 100000 restar 110000
+385 reload : 100000 restar 110000
+386 reload : 100000 restar 110000
+387 reload : 100000 restar 110000
+388 reload : 100000 restar 110000
+389 reload : 100000 restar 110000
+390 reload : 100000 restar 110000
+391 reload : 100000 restar 110000
+392 reload : 100000 restar 110000
+393 reload : 100000 restar 110000
+394 reload : 100000 restar 110000
+395 reload : 100000 restar 110000
+396 reload : 100000 restar 110000
+397 reload : 100001 restar 110001
+398 reload : 100001 restar 110001
+399 reload : 100002 restar 110002
+400 reload : 100002 restar 110002
+401 reload : 100003 restar 110003
+402 reload : 100003 restar 110003
+403 reload : 100004 restar 110004
+404 reload : 100004 restar 110004
+405 reload : 100005 restar 110005
+406 reload : 100005 restar 110005
+407 reload : 100006 restar 110006
+408 reload : 100006 restar 110006
+409 reload : 100007 restar 110007
+410 reload : 100007 restar 110007
+411 reload : 100008 restar 110008
+412 reload : 100008 restar 110008
+413 reload : 100009 restar 110009
+414 reload : 100009 restar 110009
+415 reload : 100010 restar 110010
+416 reload : 100010 restar 110010
+417 reload : 100011 restar 110011
+418 reload : 100011 restar 110011
+419 reload : 100012 restar 110012
+420 reload : 100012 restar 110012
+421 reload : 100013 restar 110013
+422 reload : 100013 restar 110013
+423 reload : 100014 restar 110014
+424 reload : 100014 restar 110014
+425 reload : 100015 restar 110015
+426 reload : 100015 restar 110015
+427 reload : 100016 restar 110016
+428 reload : 100016 restar 110016
+429 reload : 100017 restar 110017
+430 reload : 100017 restar 110017
+431 reload : 100018 restar 110018
+432 reload : 100018 restar 110018
+433 reload : 100019 restar 110019
+434 reload : 100019 restar 110019
+435 reload : 100020 restar 110020
+436 reload : 100020 restar 110020
+437 reload : 100021 restar 110021
+438 reload : 100021 restar 110021
+439 reload : 100022 restar 110022
+440 reload : 100023 restar 110023
+441 reload : 100024 restar 110024
+442 reload : 100025 restar 110025
+443 reload : 100026 restar 110026
+444 reload : 100027 restar 110027
+445 reload : 100028 restar 110028
+446 reload : 100029 restar 110029
+447 reload : 100030 restar 110030
+448 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+449 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+450 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+451 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+452 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+453 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+454 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+455 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+456 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+457 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+458 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+459 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+460 setBasicStandardSteps basicStandardStep=100000 restartSteps=110000
+461 setBasicStandardSteps basicStandardStep=100001 restartSteps=110001
+462 setBasicStandardSteps basicStandardStep=100001 restartSteps=110001
+463 setBasicStandardSteps basicStandardStep=100002 restartSteps=110002
+464 setBasicStandardSteps basicStandardStep=100002 restartSteps=110002
+465 setBasicStandardSteps basicStandardStep=100003 restartSteps=110003
+466 setBasicStandardSteps basicStandardStep=100003 restartSteps=110003
+467 setBasicStandardSteps basicStandardStep=100004 restartSteps=110004
+468 setBasicStandardSteps basicStandardStep=100004 restartSteps=110004
+469 setBasicStandardSteps basicStandardStep=100005 restartSteps=110005
+470 setBasicStandardSteps basicStandardStep=100005 restartSteps=110005
+471 setBasicStandardSteps basicStandardStep=100006 restartSteps=110006
+472 setBasicStandardSteps basicStandardStep=100006 restartSteps=110006
+473 setBasicStandardSteps basicStandardStep=100007 restartSteps=110007
+474 setBasicStandardSteps basicStandardStep=100007 restartSteps=110007
+475 setBasicStandardSteps basicStandardStep=100008 restartSteps=110008
+476 setBasicStandardSteps basicStandardStep=100008 restartSteps=110008
+477 setBasicStandardSteps basicStandardStep=100009 restartSteps=110009
+478 setBasicStandardSteps basicStandardStep=100009 restartSteps=110009
+479 setBasicStandardSteps basicStandardStep=100010 restartSteps=110010
+480 setBasicStandardSteps basicStandardStep=100010 restartSteps=110010
+481 setBasicStandardSteps basicStandardStep=100011 restartSteps=110011
+482 setBasicStandardSteps basicStandardStep=100011 restartSteps=110011
+483 setBasicStandardSteps basicStandardStep=100012 restartSteps=110012
+484 setBasicStandardSteps basicStandardStep=100012 restartSteps=110012
+485 setBasicStandardSteps basicStandardStep=100013 restartSteps=110013
+486 setBasicStandardSteps basicStandardStep=100013 restartSteps=110013
+487 setBasicStandardSteps basicStandardStep=100014 restartSteps=110014
+488 setBasicStandardSteps basicStandardStep=100014 restartSteps=110014
+489 setBasicStandardSteps basicStandardStep=100015 restartSteps=110015
+490 setBasicStandardSteps basicStandardStep=100015 restartSteps=110015
+491 setBasicStandardSteps basicStandardStep=100016 restartSteps=110016
+492 setBasicStandardSteps basicStandardStep=100016 restartSteps=110016
+493 setBasicStandardSteps basicStandardStep=100017 restartSteps=110017
+494 setBasicStandardSteps basicStandardStep=100017 restartSteps=110017
+495 setBasicStandardSteps basicStandardStep=100018 restartSteps=110018
+496 setBasicStandardSteps basicStandardStep=100018 restartSteps=110018
+497 setBasicStandardSteps basicStandardStep=100019 restartSteps=110019
+498 setBasicStandardSteps basicStandardStep=100019 restartSteps=110019
+499 setBasicStandardSteps basicStandardStep=100020 restartSteps=110020
+500 setBasicStandardSteps basicStandardStep=100020 restartSteps=110020
+501 setBasicStandardSteps basicStandardStep=100021 restartSteps=110021
+502 setBasicStandardSteps basicStandardStep=100021 restartSteps=110021
+503 setBasicStandardSteps basicStandardStep=100022 restartSteps=110022
+504 setBasicStandardSteps basicStandardStep=100023 restartSteps=110023
+505 setBasicStandardSteps basicStandardStep=100024 restartSteps=110024
+506 setBasicStandardSteps basicStandardStep=100025 restartSteps=110025
+507 setBasicStandardSteps basicStandardStep=100026 restartSteps=110026
+508 setBasicStandardSteps basicStandardStep=100027 restartSteps=110027
+509 setBasicStandardSteps basicStandardStep=100028 restartSteps=110028
+510 setBasicStandardSteps basicStandardStep=100029 restartSteps=110029
+511 setBasicStandardSteps basicStandardStep=100030 restartSteps=110030
+512 100000|110000|120000|130000
+513 100000|110000|120000|130000
+514 100000|110000|120000|130000
+515 100000|110000|120000|130000
+516 100000|110000|120000|130000
+517 100000|110000|120000|130000
+518 100000|110000|120000|130000
+519 100000|110000|120000|130000
+520 100000|110000|120000|130000
+521 100000|110000|120000|130000
+522 100000|110000|120000|130000
+523 100000|110000|120000|130000
+524 100000|110000|120000|130000
+525 100001|110001|120001|130001
+526 100001|110001|120001|130001
+527 100002|110002|120002|130002
+528 100002|110002|120002|130002
+529 100003|110003|120003|130003
+530 100003|110003|120003|130003
+531 100004|110004|120004|130004
+532 100004|110004|120004|130004
+533 100005|110005|120005|130005
+534 100005|110005|120005|130005
+535 100006|110006|120006|130006
+536 100006|110006|120006|130006
+537 100007|110007|120007|130007
+538 100007|110007|120007|130007
+539 100008|110008|120008|130008
+540 100008|110008|120008|130008
+541 100009|110009|120009|130009
+542 100009|110009|120009|130009
+543 100010|110010|120010|130010
+544 100010|110010|120010|130010
+545 100011|110011|120011|130011
+546 100011|110011|120011|130011
+547 100012|110012|120012|130012
+548 100012|110012|120012|130012
+549 100013|110013|120013|130013
+550 100013|110013|120013|130013
+551 100014|110014|120014|130014
+552 100014|110014|120014|130014
+553 100015|110015|120015|130015
+554 100015|110015|120015|130015
+555 100016|110016|120016|130016
+556 100016|110016|120016|130016
+557 100017|110017|120017|130017
+558 100017|110017|120017|130017
+559 100018|110018|120018|130018
+560 100018|110018|120018|130018
+561 100019|110019|120019|130019
+562 100019|110019|120019|130019
+563 100020|110020|120020|130020
+564 100020|110020|120020|130020
+565 100021|110021|120021|130021
+566 100021|110021|120021|130021
+567 100022|110022|120022|130022
+568 100023|110023|120023|130023
+569 100024|110024|120024|130024
+570 100025|110025|120025|130025
+571 100026|110026|120026|130026
+572 100027|110027|120027|130027
+573 100028|110028|120028|130028
+574 100029|110029|120029|130029
+575 100030|110030|120030|130030
+576 startListenerChange subscribeList = [100000]
+577 startListenerChange subscribeList = [100000]
+578 startListenerChange subscribeList = [100000]
+579 startListenerChange subscribeList = [100000]
+580 startListenerChange subscribeList = [100000]
+581 startListenerChange subscribeList = [100000]
+582 startListenerChange subscribeList = [100000]
+583 startListenerChange subscribeList = [100000]
+584 startListenerChange subscribeList = [100000]
+585 startListenerChange subscribeList = [100000]
+586 startListenerChange subscribeList = [100000]
+587 startListenerChange subscribeList = [100000]
+588 startListenerChange subscribeList = [100000]
+589 startListenerChange subscribeList = [100001]
+590 startListenerChange subscribeList = [100001]
+591 startListenerChange subscribeList = [100002]
+592 startListenerChange subscribeList = [100002]
+593 startListenerChange subscribeList = [100003]
+594 startListenerChange subscribeList = [100003]
+595 startListenerChange subscribeList = [100004]
+596 startListenerChange subscribeList = [100004]
+597 startListenerChange subscribeList = [100005]
+598 startListenerChange subscribeList = [100005]
+599 startListenerChange subscribeList = [100006]
+600 startListenerChange subscribeList = [100006]
+601 startListenerChange subscribeList = [100007]
+602 startListenerChange subscribeList = [100007]
+603 startListenerChange subscribeList = [100008]
+604 startListenerChange subscribeList = [100008]
+605 startListenerChange subscribeList = [100009]
+606 startListenerChange subscribeList = [100009]
+607 startListenerChange subscribeList = [100010]
+608 startListenerChange subscribeList = [100010]
+609 startListenerChange subscribeList = [100011]
+610 startListenerChange subscribeList = [100011]
+611 startListenerChange subscribeList = [100012]
+612 startListenerChange subscribeList = [100012]
+613 startListenerChange subscribeList = [100013]
+614 startListenerChange subscribeList = [100013]
+615 startListenerChange subscribeList = [100014]
+616 startListenerChange subscribeList = [100014]
+617 startListenerChange subscribeList = [100015]
+618 startListenerChange subscribeList = [100015]
+619 startListenerChange subscribeList = [100016]
+620 startListenerChange subscribeList = [100016]
+621 startListenerChange subscribeList = [100017]
+622 startListenerChange subscribeList = [100017]
+623 startListenerChange subscribeList = [100018]
+624 startListenerChange subscribeList = [100018]
+625 startListenerChange subscribeList = [100019]
+626 startListenerChange subscribeList = [100019]
+627 startListenerChange subscribeList = [100020]
+628 startListenerChange subscribeList = [100020]
+629 startListenerChange subscribeList = [100021]
+630 startListenerChange subscribeList = [100021]
+631 startListenerChange subscribeList = [100022]
+632 startListenerChange subscribeList = [100023]
+633 startListenerChange subscribeList = [100024]
+634 startListenerChange subscribeList = [100025]
+635 startListenerChange subscribeList = [100026]
+636 startListenerChange subscribeList = [100027]
+637 startListenerChange subscribeList = [100028]
+638 startListenerChange subscribeList = [100029]
+639 startListenerChange subscribeList = [100030]
+640 setGoalNotifiShownRecord 100000 110000
+641 setGoalNotifiShownRecord 100000 110000
+642 setGoalNotifiShownRecord 100000 110000
+643 setGoalNotifiShownRecord 100000 110000
+644 setGoalNotifiShownRecord 100000 110000
+645 setGoalNotifiShownRecord 100000 110000
+646 setGoalNotifiShownRecord 100000 110000
+647 setGoalNotifiShownRecord 100000 110000
+648 setGoalNotifiShownRecord 100000 110000
+649 setGoalNotifiShownRecord 100000 110000
+650 setGoalNotifiShownRecord 100000 110000
+651 setGoalNotifiShownRecord 100000 110000
+652 setGoalNotifiShownRecord 100000 110000
+653 setGoalNotifiShownRecord 100001 110001
+654 setGoalNotifiShownRecord 100001 110001
+655 setGoalNotifiShownRecord 100002 110002
+656 setGoalNotifiShownRecord 100002 110002
+657 setGoalNotifiShownRecord 100003 110003
+658 setGoalNotifiShownRecord 100003 110003
+659 setGoalNotifiShownRecord 100004 110004
+660 setGoalNotifiShownRecord 100004 110004
+661 setGoalNotifiShownRecord 100005 110005
+662 setGoalNotifiShownRecord 100005 110005
+663 setGoalNotifiShownRecord 100006 110006
+664 setGoalNotifiShownRecord 100006 110006
+665 setGoalNotifiShownRecord 100007 110007
+666 setGoalNotifiShownRecord 100007 110007
+667 setGoalNotifiShownRecord 100008 110008
+668 setGoalNotifiShownRecord 100008 110008
+669 setGoalNotifiShownRecord 100009 110009
+670 setGoalNotifiShownRecord 100009 110009
+671 setGoalNotifiShownRecord 100010 110010
+672 setGoalNotifiShownRecord 100010 110010
+673 setGoalNotifiShownRecord 100011 110011
+674 setGoalNotifiShownRecord 100011 110011
+675 setGoalNotifiShownRecord 100012 110012
+676 setGoalNotifiShownRecord 100012 110012
+677 setGoalNotifiShownRecord 100013 110013
+678 setGoalNotifiShownRecord 100013 110013
+679 setGoalNotifiShownRecord 100014 110014
+680 setGoalNotifiShownRecord 100014 110014
+681 setGoalNotifiShownRecord 100015 110015
+682 setGoalNotifiShownRecord 100015 110015
+683 setGoalNotifiShownRecord 100016 110016
+684 setGoalNotifiShownRecord 100016 110016
+685 setGoalNotifiShownRecord 100017 110017
+686 setGoalNotifiShownRecord 100017 110017
+687 setGoalNotifiShownRecord 100018 110018
+688 setGoalNotifiShownRecord 100018 110018
+689 setGoalNotifiShownRecord 100019 110019
+690 setGoalNotifiShownRecord 100019 110019
+691 setGoalNotifiShownRecord 100020 110020
+692 setGoalNotifiShownRecord 100020 110020
+693 setGoalNotifiShownRecord 100021 110021
+694 setGoalNotifiShownRecord 100021 110021
+695 setGoalNotifiShownRecord 100022 110022
+696 setGoalNotifiShownRecord 100023 110023
+697 setGoalNotifiShownRecord 100024 110024
+698 setGoalNotifiShownRecord 100025 110025
+699 setGoalNotifiShownRecord 100026 110026
+700 setGoalNotifiShownRecord 100027 110027
+701 setGoalNotifiShownRecord 100028 110028
+702 setGoalNotifiShownRecord 100029 110029
+703 setGoalNotifiShownRecord 100030 110030
+704 uploadStaticsToDB failed message=100000
+705 uploadStaticsToDB failed message=100000
+706 uploadStaticsToDB failed message=100000
+707 uploadStaticsToDB failed message=100000
+708 uploadStaticsToDB failed message=100000
+709 uploadStaticsToDB failed message=100000
+710 uploadStaticsToDB failed message=100000
+711 uploadStaticsToDB failed message=100000
+712 uploadStaticsToDB failed message=100000
+713 uploadStaticsToDB failed message=100000
+714 uploadStaticsToDB failed message=100000
+715 uploadStaticsToDB failed message=100000
+716 uploadStaticsToDB failed message=100000
+717 uploadStaticsToDB failed message=100001
+718 uploadStaticsToDB failed message=100001
+719 uploadStaticsToDB failed message=100002
+720 uploadStaticsToDB failed message=100002
+721 uploadStaticsToDB failed message=100003
+722 uploadStaticsToDB failed message=100003
+723 uploadStaticsToDB failed message=100004
+724 uploadStaticsToDB failed message=100004
+725 uploadStaticsToDB failed message=100005
+726 uploadStaticsToDB failed message=100005
+727 uploadStaticsToDB failed message=100006
+728 uploadStaticsToDB failed message=100006
+729 uploadStaticsToDB failed message=100007
+730 uploadStaticsToDB failed message=100007
+731 uploadStaticsToDB failed message=100008
+732 uploadStaticsToDB failed message=100008
+733 uploadStaticsToDB failed message=100009
+734 uploadStaticsToDB failed message=100009
+735 uploadStaticsToDB failed message=100010
+736 uploadStaticsToDB failed message=100010
+737 uploadStaticsToDB failed message=100011
+738 uploadStaticsToDB failed message=100011
+739 uploadStaticsToDB failed message=100012
+740 uploadStaticsToDB failed message=100012
+741 uploadStaticsToDB failed message=100013
+742 uploadStaticsToDB failed message=100013
+743 uploadStaticsToDB failed message=100014
+744 uploadStaticsToDB failed message=100014
+745 uploadStaticsToDB failed message=100015
+746 uploadStaticsToDB failed message=100015
+747 uploadStaticsToDB failed message=100016
+748 uploadStaticsToDB failed message=100016
+749 uploadStaticsToDB failed message=100017
+750 uploadStaticsToDB failed message=100017
+751 uploadStaticsToDB failed message=100018
+752 uploadStaticsToDB failed message=100018
+753 uploadStaticsToDB failed message=100019
+754 uploadStaticsToDB failed message=100019
+755 uploadStaticsToDB failed message=100020
+756 uploadStaticsToDB failed message=100020
+757 uploadStaticsToDB failed message=100021
+758 uploadStaticsToDB failed message=100021
+759 uploadStaticsToDB failed message=100022
+760 uploadStaticsToDB failed message=100023
+761 uploadStaticsToDB failed message=100024
+762 uploadStaticsToDB failed message=100025
+763 uploadStaticsToDB failed message=100026
+764 uploadStaticsToDB failed message=100027
+765 uploadStaticsToDB failed message=100028
+766 uploadStaticsToDB failed message=100029
+767 uploadStaticsToDB failed message=100030
+768 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+769 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+770 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+771 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+772 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+773 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+774 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+775 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+776 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+777 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+778 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+779 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+780 stepSyncOrNot appSynTimes is 100000, statsyncTimes is 110000
+781 stepSyncOrNot appSynTimes is 100001, statsyncTimes is 110001
+782 stepSyncOrNot appSynTimes is 100001, statsyncTimes is 110001
+783 stepSyncOrNot appSynTimes is 100002, statsyncTimes is 110002
+784 stepSyncOrNot appSynTimes is 100002, statsyncTimes is 110002
+785 stepSyncOrNot appSynTimes is 100003, statsyncTimes is 110003
+786 stepSyncOrNot appSynTimes is 100003, statsyncTimes is 110003
+787 stepSyncOrNot appSynTimes is 100004, statsyncTimes is 110004
+788 stepSyncOrNot appSynTimes is 100004, statsyncTimes is 110004
+789 stepSyncOrNot appSynTimes is 100005, statsyncTimes is 110005
+790 stepSyncOrNot appSynTimes is 100005, statsyncTimes is 110005
+791 stepSyncOrNot appSynTimes is 100006, statsyncTimes is 110006
+792 stepSyncOrNot appSynTimes is 100006, statsyncTimes is 110006
+793 stepSyncOrNot appSynTimes is 100007, statsyncTimes is 110007
+794 stepSyncOrNot appSynTimes is 100007, statsyncTimes is 110007
+795 stepSyncOrNot appSynTimes is 100008, statsyncTimes is 110008
+796 stepSyncOrNot appSynTimes is 100008, statsyncTimes is 110008
+797 stepSyncOrNot appSynTimes is 100009, statsyncTimes is 110009
+798 stepSyncOrNot appSynTimes is 100009, statsyncTimes is 110009
+799 stepSyncOrNot appSynTimes is 100010, statsyncTimes is 110010
+800 stepSyncOrNot appSynTimes is 100010, statsyncTimes is 110010
+801 stepSyncOrNot appSynTimes is 100011, statsyncTimes is 110011
+802 stepSyncOrNot appSynTimes is 100011, statsyncTimes is 110011
+803 stepSyncOrNot appSynTimes is 100012, statsyncTimes is 110012
+804 stepSyncOrNot appSynTimes is 100012, statsyncTimes is 110012
+805 stepSyncOrNot appSynTimes is 100013, statsyncTimes is 110013
+806 stepSyncOrNot appSynTimes is 100013, statsyncTimes is 110013
+807 stepSyncOrNot appSynTimes is 100014, statsyncTimes is 110014
+808 stepSyncOrNot appSynTimes is 100014, statsyncTimes is 110014
+809 stepSyncOrNot appSynTimes is 100015, statsyncTimes is 110015
+810 stepSyncOrNot appSynTimes is 100015, statsyncTimes is 110015
+811 stepSyncOrNot appSynTimes is 100016, statsyncTimes is 110016
+812 stepSyncOrNot appSynTimes is 100016, statsyncTimes is 110016
+813 stepSyncOrNot appSynTimes is 100017, statsyncTimes is 110017
+814 stepSyncOrNot appSynTimes is 100017, statsyncTimes is 110017
+815 stepSyncOrNot appSynTimes is 100018, statsyncTimes is 110018
+816 stepSyncOrNot appSynTimes is 100018, statsyncTimes is 110018
+817 stepSyncOrNot appSynTimes is 100019, statsyncTimes is 110019
+818 stepSyncOrNot appSynTimes is 100019, statsyncTimes is 110019
+819 stepSyncOrNot appSynTimes is 100020, statsyncTimes is 110020
+820 stepSyncOrNot appSynTimes is 100020, statsyncTimes is 110020
+821 stepSyncOrNot appSynTimes is 100021, statsyncTimes is 110021
+822 stepSyncOrNot appSynTimes is 100021, statsyncTimes is 110021
+823 stepSyncOrNot appSynTimes is 100022, statsyncTimes is 110022
+824 stepSyncOrNot appSynTimes is 100023, statsyncTimes is 110023
+825 stepSyncOrNot appSynTimes is 100024, statsyncTimes is 110024
+826 stepSyncOrNot appSynTimes is 100025, statsyncTimes is 110025
+827 stepSyncOrNot appSynTimes is 100026, statsyncTimes is 110026
+828 stepSyncOrNot appSynTimes is 100027, statsyncTimes is 110027
+829 stepSyncOrNot appSynTimes is 100028, statsyncTimes is 110028
+830 stepSyncOrNot appSynTimes is 100029, statsyncTimes is 110029
+831 stepSyncOrNot appSynTimes is 100030, statsyncTimes is 110030
+832 timeStamp back,extendReportTimeStamp=100000
+833 timeStamp back,extendReportTimeStamp=100000
+834 timeStamp back,extendReportTimeStamp=100000
+835 timeStamp back,extendReportTimeStamp=100000
+836 timeStamp back,extendReportTimeStamp=100000
+837 timeStamp back,extendReportTimeStamp=100000
+838 timeStamp back,extendReportTimeStamp=100000
+839 timeStamp back,extendReportTimeStamp=100000
+840 timeStamp back,extendReportTimeStamp=100000
+841 timeStamp back,extendReportTimeStamp=100000
+842 timeStamp back,extendReportTimeStamp=100000
+843 timeStamp back,extendReportTimeStamp=100000
+844 timeStamp back,extendReportTimeStamp=100000
+845 timeStamp back,extendReportTimeStamp=100001
+846 timeStamp back,extendReportTimeStamp=100001
+847 timeStamp back,extendReportTimeStamp=100002
+848 timeStamp back,extendReportTimeStamp=100002
+849 timeStamp back,extendReportTimeStamp=100003
+850 timeStamp back,extendReportTimeStamp=100003
+851 timeStamp back,extendReportTimeStamp=100004
+852 timeStamp back,extendReportTimeStamp=100004
+853 timeStamp back,extendReportTimeStamp=100005
+854 timeStamp back,extendReportTimeStamp=100005
+855 timeStamp back,extendReportTimeStamp=100006
+856 timeStamp back,extendReportTimeStamp=100006
+857 timeStamp back,extendReportTimeStamp=100007
+858 timeStamp back,extendReportTimeStamp=100007
+859 timeStamp back,extendReportTimeStamp=100008
+860 timeStamp back,extendReportTimeStamp=100008
+861 timeStamp back,extendReportTimeStamp=100009
+862 timeStamp back,extendReportTimeStamp=100009
+863 timeStamp back,extendReportTimeStamp=100010
+864 timeStamp back,extendReportTimeStamp=100010
+865 timeStamp back,extendReportTimeStamp=100011
+866 timeStamp back,extendReportTimeStamp=100011
+867 timeStamp back,extendReportTimeStamp=100012
+868 timeStamp back,extendReportTimeStamp=100012
+869 timeStamp back,extendReportTimeStamp=100013
+870 timeStamp back,extendReportTimeStamp=100013
+871 timeStamp back,extendReportTimeStamp=100014
+872 timeStamp back,extendReportTimeStamp=100014
+873 timeStamp back,extendReportTimeStamp=100015
+874 timeStamp back,extendReportTimeStamp=100015
+875 timeStamp back,extendReportTimeStamp=100016
+876 timeStamp back,extendReportTimeStamp=100016
+877 timeStamp back,extendReportTimeStamp=100017
+878 timeStamp back,extendReportTimeStamp=100017
+879 timeStamp back,extendReportTimeStamp=100018
+880 timeStamp back,extendReportTimeStamp=100018
+881 timeStamp back,extendReportTimeStamp=100019
+882 timeStamp back,extendReportTimeStamp=100019
+883 timeStamp back,extendReportTimeStamp=100020
+884 timeStamp back,extendReportTimeStamp=100020
+885 timeStamp back,extendReportTimeStamp=100021
+886 timeStamp back,extendReportTimeStamp=100021
+887 timeStamp back,extendReportTimeStamp=100022
+888 timeStamp back,extendReportTimeStamp=100023
+889 timeStamp back,extendReportTimeStamp=100024
+890 timeStamp back,extendReportTimeStamp=100025
+891 timeStamp back,extendReportTimeStamp=100026
+892 timeStamp back,extendReportTimeStamp=100027
+893 timeStamp back,extendReportTimeStamp=100028
+894 timeStamp back,extendReportTimeStamp=100029
+895 timeStamp back,extendReportTimeStamp=100030
+896 InsertCallBack() onSuccess type = 100000 data=110000
+897 InsertCallBack() onSuccess type = 100000 data=110000
+898 InsertCallBack() onSuccess type = 100000 data=110000
+899 InsertCallBack() onSuccess type = 100000 data=110000
+900 InsertCallBack() onSuccess type = 100000 data=110000
+901 InsertCallBack() onSuccess type = 100000 data=110000
+902 InsertCallBack() onSuccess type = 100000 data=110000
+903 InsertCallBack() onSuccess type = 100000 data=110000
+904 InsertCallBack() onSuccess type = 100000 data=110000
+905 InsertCallBack() onSuccess type = 100000 data=110000
+906 InsertCallBack() onSuccess type = 100000 data=110000
+907 InsertCallBack() onSuccess type = 100000 data=110000
+908 InsertCallBack() onSuccess type = 100000 data=110000
+909 InsertCallBack() onSuccess type = 100001 data=110001
+910 InsertCallBack() onSuccess type = 100001 data=110001
+911 InsertCallBack() onSuccess type = 100002 data=110002
+912 InsertCallBack() onSuccess type = 100002 data=110002
+913 InsertCallBack() onSuccess type = 100003 data=110003
+914 InsertCallBack() onSuccess type = 100003 data=110003
+915 InsertCallBack() onSuccess type = 100004 data=110004
+916 InsertCallBack() onSuccess type = 100004 data=110004
+917 InsertCallBack() onSuccess type = 100005 data=110005
+918 InsertCallBack() onSuccess type = 100005 data=110005
+919 InsertCallBack() onSuccess type = 100006 data=110006
+920 InsertCallBack() onSuccess type = 100006 data=110006
+921 InsertCallBack() onSuccess type = 100007 data=110007
+922 InsertCallBack() onSuccess type = 100007 data=110007
+923 InsertCallBack() onSuccess type = 100008 data=110008
+924 InsertCallBack() onSuccess type = 100008 data=110008
+925 InsertCallBack() onSuccess type = 100009 data=110009
+926 InsertCallBack() onSuccess type = 100009 data=110009
+927 InsertCallBack() onSuccess type = 100010 data=110010
+928 InsertCallBack() onSuccess type = 100010 data=110010
+929 InsertCallBack() onSuccess type = 100011 data=110011
+930 InsertCallBack() onSuccess type = 100011 data=110011
+931 InsertCallBack() onSuccess type = 100012 data=110012
+932 InsertCallBack() onSuccess type = 100012 data=110012
+933 InsertCallBack() onSuccess type = 100013 data=110013
+934 InsertCallBack() onSuccess type = 100013 data=110013
+935 InsertCallBack() onSuccess type = 100014 data=110014
+936 InsertCallBack() onSuccess type = 100014 data=110014
+937 InsertCallBack() onSuccess type = 100015 data=110015
+938 InsertCallBack() onSuccess type = 100015 data=110015
+939 InsertCallBack() onSuccess type = 100016 data=110016
+940 InsertCallBack() onSuccess type = 100016 data=110016
+941 InsertCallBack() onSuccess type = 100017 data=110017
+942 InsertCallBack() onSuccess type = 100017 data=110017
+943 InsertCallBack() onSuccess type = 100018 data=110018
+944 InsertCallBack() onSuccess type = 100018 data=110018
+945 InsertCallBack() onSuccess type = 100019 data=110019
+946 InsertCallBack() onSuccess type = 100019 data=110019
+947 InsertCallBack() onSuccess type = 100020 data=110020
+948 InsertCallBack() onSuccess type = 100020 data=110020
+949 InsertCallBack() onSuccess type = 100021 data=110021
+950 InsertCallBack() onSuccess type = 100021 data=110021
+951 InsertCallBack() onSuccess type = 100022 data=110022
+952 InsertCallBack() onSuccess type = 100023 data=110023
+953 InsertCallBack() onSuccess type = 100024 data=110024
+954 InsertCallBack() onSuccess type = 100025 data=110025
+955 InsertCallBack() onSuccess type = 100026 data=110026
+956 InsertCallBack() onSuccess type = 100027 data=110027
+957 InsertCallBack() onSuccess type = 100028 data=110028
+958 InsertCallBack() onSuccess type = 100029 data=110029
+959 InsertCallBack() onSuccess type = 100030 data=110030
+960 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+961 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+962 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+963 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+964 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+965 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+966 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+967 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+968 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+969 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+970 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+971 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+972 Alarm uploadStaticsToDB totalSteps=100000:110000:120000:130000
+973 Alarm uploadStaticsToDB totalSteps=100001:110001:120001:130001
+974 Alarm uploadStaticsToDB totalSteps=100001:110001:120001:130001
+975 Alarm uploadStaticsToDB totalSteps=100002:110002:120002:130002
+976 Alarm uploadStaticsToDB totalSteps=100002:110002:120002:130002
+977 Alarm uploadStaticsToDB totalSteps=100003:110003:120003:130003
+978 Alarm uploadStaticsToDB totalSteps=100003:110003:120003:130003
+979 Alarm uploadStaticsToDB totalSteps=100004:110004:120004:130004
+980 Alarm uploadStaticsToDB totalSteps=100004:110004:120004:130004
+981 Alarm uploadStaticsToDB totalSteps=100005:110005:120005:130005
+982 Alarm uploadStaticsToDB totalSteps=100005:110005:120005:130005
+983 Alarm uploadStaticsToDB totalSteps=100006:110006:120006:130006
+984 Alarm uploadStaticsToDB totalSteps=100006:110006:120006:130006
+985 Alarm uploadStaticsToDB totalSteps=100007:110007:120007:130007
+986 Alarm uploadStaticsToDB totalSteps=100007:110007:120007:130007
+987 Alarm uploadStaticsToDB totalSteps=100008:110008:120008:130008
+988 Alarm uploadStaticsToDB totalSteps=100008:110008:120008:130008
+989 Alarm uploadStaticsToDB totalSteps=100009:110009:120009:130009
+990 Alarm uploadStaticsToDB totalSteps=100009:110009:120009:130009
+991 Alarm uploadStaticsToDB totalSteps=100010:110010:120010:130010
+992 Alarm uploadStaticsToDB totalSteps=100010:110010:120010:130010
+993 Alarm uploadStaticsToDB totalSteps=100011:110011:120011:130011
+994 Alarm uploadStaticsToDB totalSteps=100011:110011:120011:130011
+995 Alarm uploadStaticsToDB totalSteps=100012:110012:120012:130012
+996 Alarm uploadStaticsToDB totalSteps=100012:110012:120012:130012
+997 Alarm uploadStaticsToDB totalSteps=100013:110013:120013:130013
+998 Alarm uploadStaticsToDB totalSteps=100013:110013:120013:130013
+999 Alarm uploadStaticsToDB totalSteps=100014:110014:120014:130014
+1000 Alarm uploadStaticsToDB totalSteps=100014:110014:120014:130014
+1001 Alarm uploadStaticsToDB totalSteps=100015:110015:120015:130015
+1002 Alarm uploadStaticsToDB totalSteps=100015:110015:120015:130015
+1003 Alarm uploadStaticsToDB totalSteps=100016:110016:120016:130016
+1004 Alarm uploadStaticsToDB totalSteps=100016:110016:120016:130016
+1005 Alarm uploadStaticsToDB totalSteps=100017:110017:120017:130017
+1006 Alarm uploadStaticsToDB totalSteps=100017:110017:120017:130017
+1007 Alarm uploadStaticsToDB totalSteps=100018:110018:120018:130018
+1008 Alarm uploadStaticsToDB totalSteps=100018:110018:120018:130018
+1009 Alarm uploadStaticsToDB totalSteps=100019:110019:120019:130019
+1010 Alarm uploadStaticsToDB totalSteps=100019:110019:120019:130019
+1011 Alarm uploadStaticsToDB totalSteps=100020:110020:120020:130020
+1012 Alarm uploadStaticsToDB totalSteps=100020:110020:120020:130020
+1013 Alarm uploadStaticsToDB totalSteps=100021:110021:120021:130021
+1014 Alarm uploadStaticsToDB totalSteps=100021:110021:120021:130021
+1015 Alarm uploadStaticsToDB totalSteps=100022:110022:120022:130022
+1016 Alarm uploadStaticsToDB totalSteps=100023:110023:120023:130023
+1017 Alarm uploadStaticsToDB totalSteps=100024:110024:120024:130024
+1018 Alarm uploadStaticsToDB totalSteps=100025:110025:120025:130025
+1019 Alarm uploadStaticsToDB totalSteps=100026:110026:120026:130026
+1020 Alarm uploadStaticsToDB totalSteps=100027:110027:120027:130027
+1021 Alarm uploadStaticsToDB totalSteps=100028:110028:120028:130028
+1022 Alarm uploadStaticsToDB totalSteps=100029:110029:120029:130029
+1023 Alarm uploadStaticsToDB totalSteps=100030:110030:120030:130030
+1024 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1025 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1026 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1027 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1028 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1029 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1030 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1031 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1032 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1033 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1034 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1035 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1036 bulkSaveDetailHiHealthData() size = 100000,totalTime = 110000
+1037 bulkSaveDetailHiHealthData() size = 100001,totalTime = 110001
+1038 bulkSaveDetailHiHealthData() size = 100001,totalTime = 110001
+1039 bulkSaveDetailHiHealthData() size = 100002,totalTime = 110002
+1040 bulkSaveDetailHiHealthData() size = 100002,totalTime = 110002
+1041 bulkSaveDetailHiHealthData() size = 100003,totalTime = 110003
+1042 bulkSaveDetailHiHealthData() size = 100003,totalTime = 110003
+1043 bulkSaveDetailHiHealthData() size = 100004,totalTime = 110004
+1044 bulkSaveDetailHiHealthData() size = 100004,totalTime = 110004
+1045 bulkSaveDetailHiHealthData() size = 100005,totalTime = 110005
+1046 bulkSaveDetailHiHealthData() size = 100005,totalTime = 110005
+1047 bulkSaveDetailHiHealthData() size = 100006,totalTime = 110006
+1048 bulkSaveDetailHiHealthData() size = 100006,totalTime = 110006
+1049 bulkSaveDetailHiHealthData() size = 100007,totalTime = 110007
+1050 bulkSaveDetailHiHealthData() size = 100007,totalTime = 110007
+1051 bulkSaveDetailHiHealthData() size = 100008,totalTime = 110008
+1052 bulkSaveDetailHiHealthData() size = 100008,totalTime = 110008
+1053 bulkSaveDetailHiHealthData() size = 100009,totalTime = 110009
+1054 bulkSaveDetailHiHealthData() size = 100009,totalTime = 110009
+1055 bulkSaveDetailHiHealthData() size = 100010,totalTime = 110010
+1056 bulkSaveDetailHiHealthData() size = 100010,totalTime = 110010
+1057 bulkSaveDetailHiHealthData() size = 100011,totalTime = 110011
+1058 bulkSaveDetailHiHealthData() size = 100011,totalTime = 110011
+1059 bulkSaveDetailHiHealthData() size = 100012,totalTime = 110012
+1060 bulkSaveDetailHiHealthData() size = 100012,totalTime = 110012
+1061 bulkSaveDetailHiHealthData() size = 100013,totalTime = 110013
+1062 bulkSaveDetailHiHealthData() size = 100013,totalTime = 110013
+1063 bulkSaveDetailHiHealthData() size = 100014,totalTime = 110014
+1064 bulkSaveDetailHiHealthData() size = 100014,totalTime = 110014
+1065 bulkSaveDetailHiHealthData() size = 100015,totalTime = 110015
+1066 bulkSaveDetailHiHealthData() size = 100015,totalTime = 110015
+1067 bulkSaveDetailHiHealthData() size = 100016,totalTime = 110016
+1068 bulkSaveDetailHiHealthData() size = 100016,totalTime = 110016
+1069 bulkSaveDetailHiHealthData() size = 100017,totalTime = 110017
+1070 bulkSaveDetailHiHealthData() size = 100017,totalTime = 110017
+1071 bulkSaveDetailHiHealthData() size = 100018,totalTime = 110018
+1072 bulkSaveDetailHiHealthData() size = 100018,totalTime = 110018
+1073 bulkSaveDetailHiHealthData() size = 100019,totalTime = 110019
+1074 bulkSaveDetailHiHealthData() size = 100019,totalTime = 110019
+1075 bulkSaveDetailHiHealthData() size = 100020,totalTime = 110020
+1076 bulkSaveDetailHiHealthData() size = 100020,totalTime = 110020
+1077 bulkSaveDetailHiHealthData() size = 100021,totalTime = 110021
+1078 bulkSaveDetailHiHealthData() size = 100021,totalTime = 110021
+1079 bulkSaveDetailHiHealthData() size = 100022,totalTime = 110022
+1080 bulkSaveDetailHiHealthData() size = 100023,totalTime = 110023
+1081 bulkSaveDetailHiHealthData() size = 100024,totalTime = 110024
+1082 bulkSaveDetailHiHealthData() size = 100025,totalTime = 110025
+1083 bulkSaveDetailHiHealthData() size = 100026,totalTime = 110026
+1084 bulkSaveDetailHiHealthData() size = 100027,totalTime = 110027
+1085 bulkSaveDetailHiHealthData() size = 100028,totalTime = 110028
+1086 bulkSaveDetailHiHealthData() size = 100029,totalTime = 110029
+1087 bulkSaveDetailHiHealthData() size = 100030,totalTime = 110030
+1088 next day:100000
+1089 next day:100000
+1090 next day:100000
+1091 next day:100000
+1092 next day:100000
+1093 next day:100000
+1094 next day:100000
+1095 next day:100000
+1096 next day:100000
+1097 next day:100000
+1098 next day:100000
+1099 next day:100000
+1100 next day:100000
+1101 next day:100001
+1102 next day:100001
+1103 next day:100002
+1104 next day:100002
+1105 next day:100003
+1106 next day:100003
+1107 next day:100004
+1108 next day:100004
+1109 next day:100005
+1110 next day:100005
+1111 next day:100006
+1112 next day:100006
+1113 next day:100007
+1114 next day:100007
+1115 next day:100008
+1116 next day:100008
+1117 next day:100009
+1118 next day:100009
+1119 next day:100010
+1120 next day:100010
+1121 next day:100011
+1122 next day:100011
+1123 next day:100012
+1124 next day:100012
+1125 next day:100013
+1126 next day:100013
+1127 next day:100014
+1128 next day:100014
+1129 next day:100015
+1130 next day:100015
+1131 next day:100016
+1132 next day:100016
+1133 next day:100017
+1134 next day:100017
+1135 next day:100018
+1136 next day:100018
+1137 next day:100019
+1138 next day:100019
+1139 next day:100020
+1140 next day:100020
+1141 next day:100021
+1142 next day:100021
+1143 next day:100022
+1144 next day:100023
+1145 next day:100024
+1146 next day:100025
+1147 next day:100026
+1148 next day:100027
+1149 next day:100028
+1150 next day:100029
+1151 next day:100030
+1152 calculateAltitudeWithCache totalAltitude=100000
+1153 calculateAltitudeWithCache totalAltitude=100000
+1154 calculateAltitudeWithCache totalAltitude=100000
+1155 calculateAltitudeWithCache totalAltitude=100000
+1156 calculateAltitudeWithCache totalAltitude=100000
+1157 calculateAltitudeWithCache totalAltitude=100000
+1158 calculateAltitudeWithCache totalAltitude=100000
+1159 calculateAltitudeWithCache totalAltitude=100000
+1160 calculateAltitudeWithCache totalAltitude=100000
+1161 calculateAltitudeWithCache totalAltitude=100000
+1162 calculateAltitudeWithCache totalAltitude=100000
+1163 calculateAltitudeWithCache totalAltitude=100000
+1164 calculateAltitudeWithCache totalAltitude=100000
+1165 calculateAltitudeWithCache totalAltitude=100001
+1166 calculateAltitudeWithCache totalAltitude=100001
+1167 calculateAltitudeWithCache totalAltitude=100002
+1168 calculateAltitudeWithCache totalAltitude=100002
+1169 calculateAltitudeWithCache totalAltitude=100003
+1170 calculateAltitudeWithCache totalAltitude=100003
+1171 calculateAltitudeWithCache totalAltitude=100004
+1172 calculateAltitudeWithCache totalAltitude=100004
+1173 calculateAltitudeWithCache totalAltitude=100005
+1174 calculateAltitudeWithCache totalAltitude=100005
+1175 calculateAltitudeWithCache totalAltitude=100006
+1176 calculateAltitudeWithCache totalAltitude=100006
+1177 calculateAltitudeWithCache totalAltitude=100007
+1178 calculateAltitudeWithCache totalAltitude=100007
+1179 calculateAltitudeWithCache totalAltitude=100008
+1180 calculateAltitudeWithCache totalAltitude=100008
+1181 calculateAltitudeWithCache totalAltitude=100009
+1182 calculateAltitudeWithCache totalAltitude=100009
+1183 calculateAltitudeWithCache totalAltitude=100010
+1184 calculateAltitudeWithCache totalAltitude=100010
+1185 calculateAltitudeWithCache totalAltitude=100011
+1186 calculateAltitudeWithCache totalAltitude=100011
+1187 calculateAltitudeWithCache totalAltitude=100012
+1188 calculateAltitudeWithCache totalAltitude=100012
+1189 calculateAltitudeWithCache totalAltitude=100013
+1190 calculateAltitudeWithCache totalAltitude=100013
+1191 calculateAltitudeWithCache totalAltitude=100014
+1192 calculateAltitudeWithCache totalAltitude=100014
+1193 calculateAltitudeWithCache totalAltitude=100015
+1194 calculateAltitudeWithCache totalAltitude=100015
+1195 calculateAltitudeWithCache totalAltitude=100016
+1196 calculateAltitudeWithCache totalAltitude=100016
+1197 calculateAltitudeWithCache totalAltitude=100017
+1198 calculateAltitudeWithCache totalAltitude=100017
+1199 calculateAltitudeWithCache totalAltitude=100018
+1200 calculateAltitudeWithCache totalAltitude=100018
+1201 calculateAltitudeWithCache totalAltitude=100019
+1202 calculateAltitudeWithCache totalAltitude=100019
+1203 calculateAltitudeWithCache totalAltitude=100020
+1204 calculateAltitudeWithCache totalAltitude=100020
+1205 calculateAltitudeWithCache totalAltitude=100021
+1206 calculateAltitudeWithCache totalAltitude=100021
+1207 calculateAltitudeWithCache totalAltitude=100022
+1208 calculateAltitudeWithCache totalAltitude=100023
+1209 calculateAltitudeWithCache totalAltitude=100024
+1210 calculateAltitudeWithCache totalAltitude=100025
+1211 calculateAltitudeWithCache totalAltitude=100026
+1212 calculateAltitudeWithCache totalAltitude=100027
+1213 calculateAltitudeWithCache totalAltitude=100028
+1214 calculateAltitudeWithCache totalAltitude=100029
+1215 calculateAltitudeWithCache totalAltitude=100030
+1216 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1217 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1218 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1219 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1220 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1221 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1222 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1223 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1224 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1225 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1226 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1227 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1228 checkFirstSyncByType no such data in db ,type is 100000 deviceCode is 110000
+1229 checkFirstSyncByType no such data in db ,type is 100001 deviceCode is 110001
+1230 checkFirstSyncByType no such data in db ,type is 100001 deviceCode is 110001
+1231 checkFirstSyncByType no such data in db ,type is 100002 deviceCode is 110002
+1232 checkFirstSyncByType no such data in db ,type is 100002 deviceCode is 110002
+1233 checkFirstSyncByType no such data in db ,type is 100003 deviceCode is 110003
+1234 checkFirstSyncByType no such data in db ,type is 100003 deviceCode is 110003
+1235 checkFirstSyncByType no such data in db ,type is 100004 deviceCode is 110004
+1236 checkFirstSyncByType no such data in db ,type is 100004 deviceCode is 110004
+1237 checkFirstSyncByType no such data in db ,type is 100005 deviceCode is 110005
+1238 checkFirstSyncByType no such data in db ,type is 100005 deviceCode is 110005
+1239 checkFirstSyncByType no such data in db ,type is 100006 deviceCode is 110006
+1240 checkFirstSyncByType no such data in db ,type is 100006 deviceCode is 110006
+1241 checkFirstSyncByType no such data in db ,type is 100007 deviceCode is 110007
+1242 checkFirstSyncByType no such data in db ,type is 100007 deviceCode is 110007
+1243 checkFirstSyncByType no such data in db ,type is 100008 deviceCode is 110008
+1244 checkFirstSyncByType no such data in db ,type is 100008 deviceCode is 110008
+1245 checkFirstSyncByType no such data in db ,type is 100009 deviceCode is 110009
+1246 checkFirstSyncByType no such data in db ,type is 100009 deviceCode is 110009
+1247 checkFirstSyncByType no such data in db ,type is 100010 deviceCode is 110010
+1248 checkFirstSyncByType no such data in db ,type is 100010 deviceCode is 110010
+1249 checkFirstSyncByType no such data in db ,type is 100011 deviceCode is 110011
+1250 checkFirstSyncByType no such data in db ,type is 100011 deviceCode is 110011
+1251 checkFirstSyncByType no such data in db ,type is 100012 deviceCode is 110012
+1252 checkFirstSyncByType no such data in db ,type is 100012 deviceCode is 110012
+1253 checkFirstSyncByType no such data in db ,type is 100013 deviceCode is 110013
+1254 checkFirstSyncByType no such data in db ,type is 100013 deviceCode is 110013
+1255 checkFirstSyncByType no such data in db ,type is 100014 deviceCode is 110014
+1256 checkFirstSyncByType no such data in db ,type is 100014 deviceCode is 110014
+1257 checkFirstSyncByType no such data in db ,type is 100015 deviceCode is 110015
+1258 checkFirstSyncByType no such data in db ,type is 100015 deviceCode is 110015
+1259 checkFirstSyncByType no such data in db ,type is 100016 deviceCode is 110016
+1260 checkFirstSyncByType no such data in db ,type is 100016 deviceCode is 110016
+1261 checkFirstSyncByType no such data in db ,type is 100017 deviceCode is 110017
+1262 checkFirstSyncByType no such data in db ,type is 100017 deviceCode is 110017
+1263 checkFirstSyncByType no such data in db ,type is 100018 deviceCode is 110018
+1264 checkFirstSyncByType no such data in db ,type is 100018 deviceCode is 110018
+1265 checkFirstSyncByType no such data in db ,type is 100019 deviceCode is 110019
+1266 checkFirstSyncByType no such data in db ,type is 100019 deviceCode is 110019
+1267 checkFirstSyncByType no such data in db ,type is 100020 deviceCode is 110020
+1268 checkFirstSyncByType no such data in db ,type is 100020 deviceCode is 110020
+1269 checkFirstSyncByType no such data in db ,type is 100021 deviceCode is 110021
+1270 checkFirstSyncByType no such data in db ,type is 100021 deviceCode is 110021
+1271 checkFirstSyncByType no such data in db ,type is 100022 deviceCode is 110022
+1272 checkFirstSyncByType no such data in db ,type is 100023 deviceCode is 110023
+1273 checkFirstSyncByType no such data in db ,type is 100024 deviceCode is 110024
+1274 checkFirstSyncByType no such data in db ,type is 100025 deviceCode is 110025
+1275 checkFirstSyncByType no such data in db ,type is 100026 deviceCode is 110026
+1276 checkFirstSyncByType no such data in db ,type is 100027 deviceCode is 110027
+1277 checkFirstSyncByType no such data in db ,type is 100028 deviceCode is 110028
+1278 checkFirstSyncByType no such data in db ,type is 100029 deviceCode is 110029
+1279 checkFirstSyncByType no such data in db ,type is 100030 deviceCode is 110030
+1280 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1281 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1282 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1283 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1284 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1285 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1286 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1287 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1288 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1289 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1290 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1291 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1292 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100000,type = 110000
+1293 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100001,type = 110001
+1294 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100001,type = 110001
+1295 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100002,type = 110002
+1296 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100002,type = 110002
+1297 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100003,type = 110003
+1298 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100003,type = 110003
+1299 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100004,type = 110004
+1300 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100004,type = 110004
+1301 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100005,type = 110005
+1302 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100005,type = 110005
+1303 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100006,type = 110006
+1304 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100006,type = 110006
+1305 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100007,type = 110007
+1306 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100007,type = 110007
+1307 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100008,type = 110008
+1308 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100008,type = 110008
+1309 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100009,type = 110009
+1310 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100009,type = 110009
+1311 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100010,type = 110010
+1312 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100010,type = 110010
+1313 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100011,type = 110011
+1314 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100011,type = 110011
+1315 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100012,type = 110012
+1316 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100012,type = 110012
+1317 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100013,type = 110013
+1318 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100013,type = 110013
+1319 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100014,type = 110014
+1320 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100014,type = 110014
+1321 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100015,type = 110015
+1322 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100015,type = 110015
+1323 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100016,type = 110016
+1324 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100016,type = 110016
+1325 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100017,type = 110017
+1326 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100017,type = 110017
+1327 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100018,type = 110018
+1328 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100018,type = 110018
+1329 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100019,type = 110019
+1330 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100019,type = 110019
+1331 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100020,type = 110020
+1332 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100020,type = 110020
+1333 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100021,type = 110021
+1334 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100021,type = 110021
+1335 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100022,type = 110022
+1336 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100023,type = 110023
+1337 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100024,type = 110024
+1338 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100025,type = 110025
+1339 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100026,type = 110026
+1340 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100027,type = 110027
+1341 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100028,type = 110028
+1342 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100029,type = 110029
+1343 saveHealthDetailData() saveOneDetailData fail hiHealthData = 100030,type = 110030
+1344 initDataPrivacy the dataPrivacy is 100000
+1345 initDataPrivacy the dataPrivacy is 100000
+1346 initDataPrivacy the dataPrivacy is 100000
+1347 initDataPrivacy the dataPrivacy is 100000
+1348 initDataPrivacy the dataPrivacy is 100000
+1349 initDataPrivacy the dataPrivacy is 100000
+1350 initDataPrivacy the dataPrivacy is 100000
+1351 initDataPrivacy the dataPrivacy is 100000
+1352 initDataPrivacy the dataPrivacy is 100000
+1353 initDataPrivacy the dataPrivacy is 100000
+1354 initDataPrivacy the dataPrivacy is 100000
+1355 initDataPrivacy the dataPrivacy is 100000
+1356 initDataPrivacy the dataPrivacy is 100000
+1357 initDataPrivacy the dataPrivacy is 100001
+1358 initDataPrivacy the dataPrivacy is 100001
+1359 initDataPrivacy the dataPrivacy is 100002
+1360 initDataPrivacy the dataPrivacy is 100002
+1361 initDataPrivacy the dataPrivacy is 100003
+1362 initDataPrivacy the dataPrivacy is 100003
+1363 initDataPrivacy the dataPrivacy is 100004
+1364 initDataPrivacy the dataPrivacy is 100004
+1365 initDataPrivacy the dataPrivacy is 100005
+1366 initDataPrivacy the dataPrivacy is 100005
+1367 initDataPrivacy the dataPrivacy is 100006
+1368 initDataPrivacy the dataPrivacy is 100006
+1369 initDataPrivacy the dataPrivacy is 100007
+1370 initDataPrivacy the dataPrivacy is 100007
+1371 initDataPrivacy the dataPrivacy is 100008
+1372 initDataPrivacy the dataPrivacy is 100008
+1373 initDataPrivacy the dataPrivacy is 100009
+1374 initDataPrivacy the dataPrivacy is 100009
+1375 initDataPrivacy the dataPrivacy is 100010
+1376 initDataPrivacy the dataPrivacy is 100010
+1377 initDataPrivacy the dataPrivacy is 100011
+1378 initDataPrivacy the dataPrivacy is 100011
+1379 initDataPrivacy the dataPrivacy is 100012
+1380 initDataPrivacy the dataPrivacy is 100012
+1381 initDataPrivacy the dataPrivacy is 100013
+1382 initDataPrivacy the dataPrivacy is 100013
+1383 initDataPrivacy the dataPrivacy is 100014
+1384 initDataPrivacy the dataPrivacy is 100014
+1385 initDataPrivacy the dataPrivacy is 100015
+1386 initDataPrivacy the dataPrivacy is 100015
+1387 initDataPrivacy the dataPrivacy is 100016
+1388 initDataPrivacy the dataPrivacy is 100016
+1389 initDataPrivacy the dataPrivacy is 100017
+1390 initDataPrivacy the dataPrivacy is 100017
+1391 initDataPrivacy the dataPrivacy is 100018
+1392 initDataPrivacy the dataPrivacy is 100018
+1393 initDataPrivacy the dataPrivacy is 100019
+1394 initDataPrivacy the dataPrivacy is 100019
+1395 initDataPrivacy the dataPrivacy is 100020
+1396 initDataPrivacy the dataPrivacy is 100020
+1397 initDataPrivacy the dataPrivacy is 100021
+1398 initDataPrivacy the dataPrivacy is 100021
+1399 initDataPrivacy the dataPrivacy is 100022
+1400 initDataPrivacy the dataPrivacy is 100023
+1401 initDataPrivacy the dataPrivacy is 100024
+1402 initDataPrivacy the dataPrivacy is 100025
+1403 initDataPrivacy the dataPrivacy is 100026
+1404 initDataPrivacy the dataPrivacy is 100027
+1405 initDataPrivacy the dataPrivacy is 100028
+1406 initDataPrivacy the dataPrivacy is 100029
+1407 initDataPrivacy the dataPrivacy is 100030
+1408 startInsertSportSync start auto sync,app is 100000
+1409 startInsertSportSync start auto sync,app is 100000
+1410 startInsertSportSync start auto sync,app is 100000
+1411 startInsertSportSync start auto sync,app is 100000
+1412 startInsertSportSync start auto sync,app is 100000
+1413 startInsertSportSync start auto sync,app is 100000
+1414 startInsertSportSync start auto sync,app is 100000
+1415 startInsertSportSync start auto sync,app is 100000
+1416 startInsertSportSync start auto sync,app is 100000
+1417 startInsertSportSync start auto sync,app is 100000
+1418 startInsertSportSync start auto sync,app is 100000
+1419 startInsertSportSync start auto sync,app is 100000
+1420 startInsertSportSync start auto sync,app is 100000
+1421 startInsertSportSync start auto sync,app is 100001
+1422 startInsertSportSync start auto sync,app is 100001
+1423 startInsertSportSync start auto sync,app is 100002
+1424 startInsertSportSync start auto sync,app is 100002
+1425 startInsertSportSync start auto sync,app is 100003
+1426 startInsertSportSync start auto sync,app is 100003
+1427 startInsertSportSync start auto sync,app is 100004
+1428 startInsertSportSync start auto sync,app is 100004
+1429 startInsertSportSync start auto sync,app is 100005
+1430 startInsertSportSync start auto sync,app is 100005
+1431 startInsertSportSync start auto sync,app is 100006
+1432 startInsertSportSync start auto sync,app is 100006
+1433 startInsertSportSync start auto sync,app is 100007
+1434 startInsertSportSync start auto sync,app is 100007
+1435 startInsertSportSync start auto sync,app is 100008
+1436 startInsertSportSync start auto sync,app is 100008
+1437 startInsertSportSync start auto sync,app is 100009
+1438 startInsertSportSync start auto sync,app is 100009
+1439 startInsertSportSync start auto sync,app is 100010
+1440 startInsertSportSync start auto sync,app is 100010
+1441 startInsertSportSync start auto sync,app is 100011
+1442 startInsertSportSync start auto sync,app is 100011
+1443 startInsertSportSync start auto sync,app is 100012
+1444 startInsertSportSync start auto sync,app is 100012
+1445 startInsertSportSync start auto sync,app is 100013
+1446 startInsertSportSync start auto sync,app is 100013
+1447 startInsertSportSync start auto sync,app is 100014
+1448 startInsertSportSync start auto sync,app is 100014
+1449 startInsertSportSync start auto sync,app is 100015
+1450 startInsertSportSync start auto sync,app is 100015
+1451 startInsertSportSync start auto sync,app is 100016
+1452 startInsertSportSync start auto sync,app is 100016
+1453 startInsertSportSync start auto sync,app is 100017
+1454 startInsertSportSync start auto sync,app is 100017
+1455 startInsertSportSync start auto sync,app is 100018
+1456 startInsertSportSync start auto sync,app is 100018
+1457 startInsertSportSync start auto sync,app is 100019
+1458 startInsertSportSync start auto sync,app is 100019
+1459 startInsertSportSync start auto sync,app is 100020
+1460 startInsertSportSync start auto sync,app is 100020
+1461 startInsertSportSync start auto sync,app is 100021
+1462 startInsertSportSync start auto sync,app is 100021
+1463 startInsertSportSync start auto sync,app is 100022
+1464 startInsertSportSync start auto sync,app is 100023
+1465 startInsertSportSync start auto sync,app is 100024
+1466 startInsertSportSync start auto sync,app is 100025
+1467 startInsertSportSync start auto sync,app is 100026
+1468 startInsertSportSync start auto sync,app is 100027
+1469 startInsertSportSync start auto sync,app is 100028
+1470 startInsertSportSync start auto sync,app is 100029
+1471 startInsertSportSync start auto sync,app is 100030
+1472 theDayChanged 100000
+1473 theDayChanged 100000
+1474 theDayChanged 100000
+1475 theDayChanged 100000
+1476 theDayChanged 100000
+1477 theDayChanged 100000
+1478 theDayChanged 100000
+1479 theDayChanged 100000
+1480 theDayChanged 100000
+1481 theDayChanged 100000
+1482 theDayChanged 100000
+1483 theDayChanged 100000
+1484 theDayChanged 100000
+1485 theDayChanged 100001
+1486 theDayChanged 100001
+1487 theDayChanged 100002
+1488 theDayChanged 100002
+1489 theDayChanged 100003
+1490 theDayChanged 100003
+1491 theDayChanged 100004
+1492 theDayChanged 100004
+1493 theDayChanged 100005
+1494 theDayChanged 100005
+1495 theDayChanged 100006
+1496 theDayChanged 100006
+1497 theDayChanged 100007
+1498 theDayChanged 100007
+1499 theDayChanged 100008
+1500 theDayChanged 100008
+1501 theDayChanged 100009
+1502 theDayChanged 100009
+1503 theDayChanged 100010
+1504 theDayChanged 100010
+1505 theDayChanged 100011
+1506 theDayChanged 100011
+1507 theDayChanged 100012
+1508 theDayChanged 100012
+1509 theDayChanged 100013
+1510 theDayChanged 100013
+1511 theDayChanged 100014
+1512 theDayChanged 100014
+1513 theDayChanged 100015
+1514 theDayChanged 100015
+1515 theDayChanged 100016
+1516 theDayChanged 100016
+1517 theDayChanged 100017
+1518 theDayChanged 100017
+1519 theDayChanged 100018
+1520 theDayChanged 100018
+1521 theDayChanged 100019
+1522 theDayChanged 100019
+1523 theDayChanged 100020
+1524 theDayChanged 100020
+1525 theDayChanged 100021
+1526 theDayChanged 100021
+1527 theDayChanged 100022
+1528 theDayChanged 100023
+1529 theDayChanged 100024
+1530 theDayChanged 100025
+1531 theDayChanged 100026
+1532 theDayChanged 100027
+1533 theDayChanged 100028
+1534 theDayChanged 100029
+1535 theDayChanged 100030
+1536 stepSyncOrNot appSynTimes is 100000
+1537 stepSyncOrNot appSynTimes is 100000
+1538 stepSyncOrNot appSynTimes is 100000
+1539 stepSyncOrNot appSynTimes is 100000
+1540 stepSyncOrNot appSynTimes is 100000
+1541 stepSyncOrNot appSynTimes is 100000
+1542 stepSyncOrNot appSynTimes is 100000
+1543 stepSyncOrNot appSynTimes is 100000
+1544 stepSyncOrNot appSynTimes is 100000
+1545 stepSyncOrNot appSynTimes is 100000
+1546 stepSyncOrNot appSynTimes is 100000
+1547 stepSyncOrNot appSynTimes is 100000
+1548 stepSyncOrNot appSynTimes is 100000
+1549 stepSyncOrNot appSynTimes is 100001
+1550 stepSyncOrNot appSynTimes is 100001
+1551 stepSyncOrNot appSynTimes is 100002
+1552 stepSyncOrNot appSynTimes is 100002
+1553 stepSyncOrNot appSynTimes is 100003
+1554 stepSyncOrNot appSynTimes is 100003
+1555 stepSyncOrNot appSynTimes is 100004
+1556 stepSyncOrNot appSynTimes is 100004
+1557 stepSyncOrNot appSynTimes is 100005
+1558 stepSyncOrNot appSynTimes is 100005
+1559 stepSyncOrNot appSynTimes is 100006
+1560 stepSyncOrNot appSynTimes is 100006
+1561 stepSyncOrNot appSynTimes is 100007
+1562 stepSyncOrNot appSynTimes is 100007
+1563 stepSyncOrNot appSynTimes is 100008
+1564 stepSyncOrNot appSynTimes is 100008
+1565 stepSyncOrNot appSynTimes is 100009
+1566 stepSyncOrNot appSynTimes is 100009
+1567 stepSyncOrNot appSynTimes is 100010
+1568 stepSyncOrNot appSynTimes is 100010
+1569 stepSyncOrNot appSynTimes is 100011
+1570 stepSyncOrNot appSynTimes is 100011
+1571 stepSyncOrNot appSynTimes is 100012
+1572 stepSyncOrNot appSynTimes is 100012
+1573 stepSyncOrNot appSynTimes is 100013
+1574 stepSyncOrNot appSynTimes is 100013
+1575 stepSyncOrNot appSynTimes is 100014
+1576 stepSyncOrNot appSynTimes is 100014
+1577 stepSyncOrNot appSynTimes is 100015
+1578 stepSyncOrNot appSynTimes is 100015
+1579 stepSyncOrNot appSynTimes is 100016
+1580 stepSyncOrNot appSynTimes is 100016
+1581 stepSyncOrNot appSynTimes is 100017
+1582 stepSyncOrNot appSynTimes is 100017
+1583 stepSyncOrNot appSynTimes is 100018
+1584 stepSyncOrNot appSynTimes is 100018
+1585 stepSyncOrNot appSynTimes is 100019
+1586 stepSyncOrNot appSynTimes is 100019
+1587 stepSyncOrNot appSynTimes is 100020
+1588 stepSyncOrNot appSynTimes is 100020
+1589 stepSyncOrNot appSynTimes is 100021
+1590 stepSyncOrNot appSynTimes is 100021
+1591 stepSyncOrNot appSynTimes is 100022
+1592 stepSyncOrNot appSynTimes is 100023
+1593 stepSyncOrNot appSynTimes is 100024
+1594 stepSyncOrNot appSynTimes is 100025
+1595 stepSyncOrNot appSynTimes is 100026
+1596 stepSyncOrNot appSynTimes is 100027
+1597 stepSyncOrNot appSynTimes is 100028
+1598 stepSyncOrNot appSynTimes is 100029
+1599 stepSyncOrNot appSynTimes is 100030
+1600 initUserPrivacy the userPrivacy is 100000
+1601 initUserPrivacy the userPrivacy is 100000
+1602 initUserPrivacy the userPrivacy is 100000
+1603 initUserPrivacy the userPrivacy is 100000
+1604 initUserPrivacy the userPrivacy is 100000
+1605 initUserPrivacy the userPrivacy is 100000
+1606 initUserPrivacy the userPrivacy is 100000
+1607 initUserPrivacy the userPrivacy is 100000
+1608 initUserPrivacy the userPrivacy is 100000
+1609 initUserPrivacy the userPrivacy is 100000
+1610 initUserPrivacy the userPrivacy is 100000
+1611 initUserPrivacy the userPrivacy is 100000
+1612 initUserPrivacy the userPrivacy is 100000
+1613 initUserPrivacy the userPrivacy is 100001
+1614 initUserPrivacy the userPrivacy is 100001
+1615 initUserPrivacy the userPrivacy is 100002
+1616 initUserPrivacy the userPrivacy is 100002
+1617 initUserPrivacy the userPrivacy is 100003
+1618 initUserPrivacy the userPrivacy is 100003
+1619 initUserPrivacy the userPrivacy is 100004
+1620 initUserPrivacy the userPrivacy is 100004
+1621 initUserPrivacy the userPrivacy is 100005
+1622 initUserPrivacy the userPrivacy is 100005
+1623 initUserPrivacy the userPrivacy is 100006
+1624 initUserPrivacy the userPrivacy is 100006
+1625 initUserPrivacy the userPrivacy is 100007
+1626 initUserPrivacy the userPrivacy is 100007
+1627 initUserPrivacy the userPrivacy is 100008
+1628 initUserPrivacy the userPrivacy is 100008
+1629 initUserPrivacy the userPrivacy is 100009
+1630 initUserPrivacy the userPrivacy is 100009
+1631 initUserPrivacy the userPrivacy is 100010
+1632 initUserPrivacy the userPrivacy is 100010
+1633 initUserPrivacy the userPrivacy is 100011
+1634 initUserPrivacy the userPrivacy is 100011
+1635 initUserPrivacy the userPrivacy is 100012
+1636 initUserPrivacy the userPrivacy is 100012
+1637 initUserPrivacy the userPrivacy is 100013
+1638 initUserPrivacy the userPrivacy is 100013
+1639 initUserPrivacy the userPrivacy is 100014
+1640 initUserPrivacy the userPrivacy is 100014
+1641 initUserPrivacy the userPrivacy is 100015
+1642 initUserPrivacy the userPrivacy is 100015
+1643 initUserPrivacy the userPrivacy is 100016
+1644 initUserPrivacy the userPrivacy is 100016
+1645 initUserPrivacy the userPrivacy is 100017
+1646 initUserPrivacy the userPrivacy is 100017
+1647 initUserPrivacy the userPrivacy is 100018
+1648 initUserPrivacy the userPrivacy is 100018
+1649 initUserPrivacy the userPrivacy is 100019
+1650 initUserPrivacy the userPrivacy is 100019
+1651 initUserPrivacy the userPrivacy is 100020
+1652 initUserPrivacy the userPrivacy is 100020
+1653 initUserPrivacy the userPrivacy is 100021
+1654 initUserPrivacy the userPrivacy is 100021
+1655 initUserPrivacy the userPrivacy is 100022
+1656 initUserPrivacy the userPrivacy is 100023
+1657 initUserPrivacy the userPrivacy is 100024
+1658 initUserPrivacy the userPrivacy is 100025
+1659 initUserPrivacy the userPrivacy is 100026
+1660 initUserPrivacy the userPrivacy is 100027
+1661 initUserPrivacy the userPrivacy is 100028
+1662 initUserPrivacy the userPrivacy is 100029
+1663 initUserPrivacy the userPrivacy is 100030
+1664 getDiffTotalSteps= 100000##110000
+1665 getDiffTotalSteps= 100000##110000
+1666 getDiffTotalSteps= 100000##110000
+1667 getDiffTotalSteps= 100000##110000
+1668 getDiffTotalSteps= 100000##110000
+1669 getDiffTotalSteps= 100000##110000
+1670 getDiffTotalSteps= 100000##110000
+1671 getDiffTotalSteps= 100000##110000
+1672 getDiffTotalSteps= 100000##110000
+1673 getDiffTotalSteps= 100000##110000
+1674 getDiffTotalSteps= 100000##110000
+1675 getDiffTotalSteps= 100000##110000
+1676 getDiffTotalSteps= 100000##110000
+1677 getDiffTotalSteps= 100001##110001
+1678 getDiffTotalSteps= 100001##110001
+1679 getDiffTotalSteps= 100002##110002
+1680 getDiffTotalSteps= 100002##110002
+1681 getDiffTotalSteps= 100003##110003
+1682 getDiffTotalSteps= 100003##110003
+1683 getDiffTotalSteps= 100004##110004
+1684 getDiffTotalSteps= 100004##110004
+1685 getDiffTotalSteps= 100005##110005
+1686 getDiffTotalSteps= 100005##110005
+1687 getDiffTotalSteps= 100006##110006
+1688 getDiffTotalSteps= 100006##110006
+1689 getDiffTotalSteps= 100007##110007
+1690 getDiffTotalSteps= 100007##110007
+1691 getDiffTotalSteps= 100008##110008
+1692 getDiffTotalSteps= 100008##110008
+1693 getDiffTotalSteps= 100009##110009
+1694 getDiffTotalSteps= 100009##110009
+1695 getDiffTotalSteps= 100010##110010
+1696 getDiffTotalSteps= 100010##110010
+1697 getDiffTotalSteps= 100011##110011
+1698 getDiffTotalSteps= 100011##110011
+1699 getDiffTotalSteps= 100012##110012
+1700 getDiffTotalSteps= 100012##110012
+1701 getDiffTotalSteps= 100013##110013
+1702 getDiffTotalSteps= 100013##110013
+1703 getDiffTotalSteps= 100014##110014
+1704 getDiffTotalSteps= 100014##110014
+1705 getDiffTotalSteps= 100015##110015
+1706 getDiffTotalSteps= 100015##110015
+1707 getDiffTotalSteps= 100016##110016
+1708 getDiffTotalSteps= 100016##110016
+1709 getDiffTotalSteps= 100017##110017
+1710 getDiffTotalSteps= 100017##110017
+1711 getDiffTotalSteps= 100018##110018
+1712 getDiffTotalSteps= 100018##110018
+1713 getDiffTotalSteps= 100019##110019
+1714 getDiffTotalSteps= 100019##110019
+1715 getDiffTotalSteps= 100020##110020
+1716 getDiffTotalSteps= 100020##110020
+1717 getDiffTotalSteps= 100021##110021
+1718 getDiffTotalSteps= 100021##110021
+1719 getDiffTotalSteps= 100022##110022
+1720 getDiffTotalSteps= 100023##110023
+1721 getDiffTotalSteps= 100024##110024
+1722 getDiffTotalSteps= 100025##110025
+1723 getDiffTotalSteps= 100026##110026
+1724 getDiffTotalSteps= 100027##110027
+1725 getDiffTotalSteps= 100028##110028
+1726 getDiffTotalSteps= 100029##110029
+1727 getDiffTotalSteps= 100030##110030
+1728 getTodaySportData mStepsRecordManager=100000
+1729 getTodaySportData mStepsRecordManager=100000
+1730 getTodaySportData mStepsRecordManager=100000
+1731 getTodaySportData mStepsRecordManager=100000
+1732 getTodaySportData mStepsRecordManager=100000
+1733 getTodaySportData mStepsRecordManager=100000
+1734 getTodaySportData mStepsRecordManager=100000
+1735 getTodaySportData mStepsRecordManager=100000
+1736 getTodaySportData mStepsRecordManager=100000
+1737 getTodaySportData mStepsRecordManager=100000
+1738 getTodaySportData mStepsRecordManager=100000
+1739 getTodaySportData mStepsRecordManager=100000
+1740 getTodaySportData mStepsRecordManager=100000
+1741 getTodaySportData mStepsRecordManager=100001
+1742 getTodaySportData mStepsRecordManager=100001
+1743 getTodaySportData mStepsRecordManager=100002
+1744 getTodaySportData mStepsRecordManager=100002
+1745 getTodaySportData mStepsRecordManager=100003
+1746 getTodaySportData mStepsRecordManager=100003
+1747 getTodaySportData mStepsRecordManager=100004
+1748 getTodaySportData mStepsRecordManager=100004
+1749 getTodaySportData mStepsRecordManager=100005
+1750 getTodaySportData mStepsRecordManager=100005
+1751 getTodaySportData mStepsRecordManager=100006
+1752 getTodaySportData mStepsRecordManager=100006
+1753 getTodaySportData mStepsRecordManager=100007
+1754 getTodaySportData mStepsRecordManager=100007
+1755 getTodaySportData mStepsRecordManager=100008
+1756 getTodaySportData mStepsRecordManager=100008
+1757 getTodaySportData mStepsRecordManager=100009
+1758 getTodaySportData mStepsRecordManager=100009
+1759 getTodaySportData mStepsRecordManager=100010
+1760 getTodaySportData mStepsRecordManager=100010
+1761 getTodaySportData mStepsRecordManager=100011
+1762 getTodaySportData mStepsRecordManager=100011
+1763 getTodaySportData mStepsRecordManager=100012
+1764 getTodaySportData mStepsRecordManager=100012
+1765 getTodaySportData mStepsRecordManager=100013
+1766 getTodaySportData mStepsRecordManager=100013
+1767 getTodaySportData mStepsRecordManager=100014
+1768 getTodaySportData mStepsRecordManager=100014
+1769 getTodaySportData mStepsRecordManager=100015
+1770 getTodaySportData mStepsRecordManager=100015
+1771 getTodaySportData mStepsRecordManager=100016
+1772 getTodaySportData mStepsRecordManager=100016
+1773 getTodaySportData mStepsRecordManager=100017
+1774 getTodaySportData mStepsRecordManager=100017
+1775 getTodaySportData mStepsRecordManager=100018
+1776 getTodaySportData mStepsRecordManager=100018
+1777 getTodaySportData mStepsRecordManager=100019
+1778 getTodaySportData mStepsRecordManager=100019
+1779 getTodaySportData mStepsRecordManager=100020
+1780 getTodaySportData mStepsRecordManager=100020
+1781 getTodaySportData mStepsRecordManager=100021
+1782 getTodaySportData mStepsRecordManager=100021
+1783 getTodaySportData mStepsRecordManager=100022
+1784 getTodaySportData mStepsRecordManager=100023
+1785 getTodaySportData mStepsRecordManager=100024
+1786 getTodaySportData mStepsRecordManager=100025
+1787 getTodaySportData mStepsRecordManager=100026
+1788 getTodaySportData mStepsRecordManager=100027
+1789 getTodaySportData mStepsRecordManager=100028
+1790 getTodaySportData mStepsRecordManager=100029
+1791 getTodaySportData mStepsRecordManager=100030
+1792 writeDataToDB size 100000
+1793 writeDataToDB size 100000
+1794 writeDataToDB size 100000
+1795 writeDataToDB size 100000
+1796 writeDataToDB size 100000
+1797 writeDataToDB size 100000
+1798 writeDataToDB size 100000
+1799 writeDataToDB size 100000
+1800 writeDataToDB size 100000
+1801 writeDataToDB size 100000
+1802 writeDataToDB size 100000
+1803 writeDataToDB size 100000
+1804 writeDataToDB size 100000
+1805 writeDataToDB size 100001
+1806 writeDataToDB size 100001
+1807 writeDataToDB size 100002
+1808 writeDataToDB size 100002
+1809 writeDataToDB size 100003
+1810 writeDataToDB size 100003
+1811 writeDataToDB size 100004
+1812 writeDataToDB size 100004
+1813 writeDataToDB size 100005
+1814 writeDataToDB size 100005
+1815 writeDataToDB size 100006
+1816 writeDataToDB size 100006
+1817 writeDataToDB size 100007
+1818 writeDataToDB size 100007
+1819 writeDataToDB size 100008
+1820 writeDataToDB size 100008
+1821 writeDataToDB size 100009
+1822 writeDataToDB size 100009
+1823 writeDataToDB size 100010
+1824 writeDataToDB size 100010
+1825 writeDataToDB size 100011
+1826 writeDataToDB size 100011
+1827 writeDataToDB size 100012
+1828 writeDataToDB size 100012
+1829 writeDataToDB size 100013
+1830 writeDataToDB size 100013
+1831 writeDataToDB size 100014
+1832 writeDataToDB size 100014
+1833 writeDataToDB size 100015
+1834 writeDataToDB size 100015
+1835 writeDataToDB size 100016
+1836 writeDataToDB size 100016
+1837 writeDataToDB size 100017
+1838 writeDataToDB size 100017
+1839 writeDataToDB size 100018
+1840 writeDataToDB size 100018
+1841 writeDataToDB size 100019
+1842 writeDataToDB size 100019
+1843 writeDataToDB size 100020
+1844 writeDataToDB size 100020
+1845 writeDataToDB size 100021
+1846 writeDataToDB size 100021
+1847 writeDataToDB size 100022
+1848 writeDataToDB size 100023
+1849 writeDataToDB size 100024
+1850 writeDataToDB size 100025
+1851 writeDataToDB size 100026
+1852 writeDataToDB size 100027
+1853 writeDataToDB size 100028
+1854 writeDataToDB size 100029
+1855 writeDataToDB size 100030
+1856 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1857 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1858 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1859 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1860 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1861 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1862 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1863 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1864 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1865 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1866 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1867 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1868 getTodayTotalDetailSteps = 100000##110000##120000##130000##140000##150000
+1869 getTodayTotalDetailSteps = 100001##110001##120001##130001##140001##150001
+1870 getTodayTotalDetailSteps = 100001##110001##120001##130001##140001##150001
+1871 getTodayTotalDetailSteps = 100002##110002##120002##130002##140002##150002
+1872 getTodayTotalDetailSteps = 100002##110002##120002##130002##140002##150002
+1873 getTodayTotalDetailSteps = 100003##110003##120003##130003##140003##150003
+1874 getTodayTotalDetailSteps = 100003##110003##120003##130003##140003##150003
+1875 getTodayTotalDetailSteps = 100004##110004##120004##130004##140004##150004
+1876 getTodayTotalDetailSteps = 100004##110004##120004##130004##140004##150004
+1877 getTodayTotalDetailSteps = 100005##110005##120005##130005##140005##150005
+1878 getTodayTotalDetailSteps = 100005##110005##120005##130005##140005##150005
+1879 getTodayTotalDetailSteps = 100006##110006##120006##130006##140006##150006
+1880 getTodayTotalDetailSteps = 100006##110006##120006##130006##140006##150006
+1881 getTodayTotalDetailSteps = 100007##110007##120007##130007##140007##150007
+1882 getTodayTotalDetailSteps = 100007##110007##120007##130007##140007##150007
+1883 getTodayTotalDetailSteps = 100008##110008##120008##130008##140008##150008
+1884 getTodayTotalDetailSteps = 100008##110008##120008##130008##140008##150008
+1885 getTodayTotalDetailSteps = 100009##110009##120009##130009##140009##150009
+1886 getTodayTotalDetailSteps = 100009##110009##120009##130009##140009##150009
+1887 getTodayTotalDetailSteps = 100010##110010##120010##130010##140010##150010
+1888 getTodayTotalDetailSteps = 100010##110010##120010##130010##140010##150010
+1889 getTodayTotalDetailSteps = 100011##110011##120011##130011##140011##150011
+1890 getTodayTotalDetailSteps = 100011##110011##120011##130011##140011##150011
+1891 getTodayTotalDetailSteps = 100012##110012##120012##130012##140012##150012
+1892 getTodayTotalDetailSteps = 100012##110012##120012##130012##140012##150012
+1893 getTodayTotalDetailSteps = 100013##110013##120013##130013##140013##150013
+1894 getTodayTotalDetailSteps = 100013##110013##120013##130013##140013##150013
+1895 getTodayTotalDetailSteps = 100014##110014##120014##130014##140014##150014
+1896 getTodayTotalDetailSteps = 100014##110014##120014##130014##140014##150014
+1897 getTodayTotalDetailSteps = 100015##110015##120015##130015##140015##150015
+1898 getTodayTotalDetailSteps = 100015##110015##120015##130015##140015##150015
+1899 getTodayTotalDetailSteps = 100016##110016##120016##130016##140016##150016
+1900 getTodayTotalDetailSteps = 100016##110016##120016##130016##140016##150016
+1901 getTodayTotalDetailSteps = 100017##110017##120017##130017##140017##150017
+1902 getTodayTotalDetailSteps = 100017##110017##120017##130017##140017##150017
+1903 getTodayTotalDetailSteps = 100018##110018##120018##130018##140018##150018
+1904 getTodayTotalDetailSteps = 100018##110018##120018##130018##140018##150018
+1905 getTodayTotalDetailSteps = 100019##110019##120019##130019##140019##150019
+1906 getTodayTotalDetailSteps = 100019##110019##120019##130019##140019##150019
+1907 getTodayTotalDetailSteps = 100020##110020##120020##130020##140020##150020
+1908 getTodayTotalDetailSteps = 100020##110020##120020##130020##140020##150020
+1909 getTodayTotalDetailSteps = 100021##110021##120021##130021##140021##150021
+1910 getTodayTotalDetailSteps = 100021##110021##120021##130021##140021##150021
+1911 getTodayTotalDetailSteps = 100022##110022##120022##130022##140022##150022
+1912 getTodayTotalDetailSteps = 100023##110023##120023##130023##140023##150023
+1913 getTodayTotalDetailSteps = 100024##110024##120024##130024##140024##150024
+1914 getTodayTotalDetailSteps = 100025##110025##120025##130025##140025##150025
+1915 getTodayTotalDetailSteps = 100026##110026##120026##130026##140026##150026
+1916 getTodayTotalDetailSteps = 100027##110027##120027##130027##140027##150027
+1917 getTodayTotalDetailSteps = 100028##110028##120028##130028##140028##150028
+1918 getTodayTotalDetailSteps = 100029##110029##120029##130029##140029##150029
+1919 getTodayTotalDetailSteps = 100030##110030##120030##130030##140030##150030
+1920 tryToRecordAsBasicStepData bWrite 100000
+1921 tryToRecordAsBasicStepData bWrite 100000
+1922 tryToRecordAsBasicStepData bWrite 100000
+1923 tryToRecordAsBasicStepData bWrite 100000
+1924 tryToRecordAsBasicStepData bWrite 100000
+1925 tryToRecordAsBasicStepData bWrite 100000
+1926 tryToRecordAsBasicStepData bWrite 100000
+1927 tryToRecordAsBasicStepData bWrite 100000
+1928 tryToRecordAsBasicStepData bWrite 100000
+1929 tryToRecordAsBasicStepData bWrite 100000
+1930 tryToRecordAsBasicStepData bWrite 100000
+1931 tryToRecordAsBasicStepData bWrite 100000
+1932 tryToRecordAsBasicStepData bWrite 100000
+1933 tryToRecordAsBasicStepData bWrite 100001
+1934 tryToRecordAsBasicStepData bWrite 100001
+1935 tryToRecordAsBasicStepData bWrite 100002
+1936 tryToRecordAsBasicStepData bWrite 100002
+1937 tryToRecordAsBasicStepData bWrite 100003
+1938 tryToRecordAsBasicStepData bWrite 100003
+1939 tryToRecordAsBasicStepData bWrite 100004
+1940 tryToRecordAsBasicStepData bWrite 100004
+1941 tryToRecordAsBasicStepData bWrite 100005
+1942 tryToRecordAsBasicStepData bWrite 100005
+1943 tryToRecordAsBasicStepData bWrite 100006
+1944 tryToRecordAsBasicStepData bWrite 100006
+1945 tryToRecordAsBasicStepData bWrite 100007
+1946 tryToRecordAsBasicStepData bWrite 100007
+1947 tryToRecordAsBasicStepData bWrite 100008
+1948 tryToRecordAsBasicStepData bWrite 100008
+1949 tryToRecordAsBasicStepData bWrite 100009
+1950 tryToRecordAsBasicStepData bWrite 100009
+1951 tryToRecordAsBasicStepData bWrite 100010
+1952 tryToRecordAsBasicStepData bWrite 100010
+1953 tryToRecordAsBasicStepData bWrite 100011
+1954 tryToRecordAsBasicStepData bWrite 100011
+1955 tryToRecordAsBasicStepData bWrite 100012
+1956 tryToRecordAsBasicStepData bWrite 100012
+1957 tryToRecordAsBasicStepData bWrite 100013
+1958 tryToRecordAsBasicStepData bWrite 100013
+1959 tryToRecordAsBasicStepData bWrite 100014
+1960 tryToRecordAsBasicStepData bWrite 100014
+1961 tryToRecordAsBasicStepData bWrite 100015
+1962 tryToRecordAsBasicStepData bWrite 100015
+1963 tryToRecordAsBasicStepData bWrite 100016
+1964 tryToRecordAsBasicStepData bWrite 100016
+1965 tryToRecordAsBasicStepData bWrite 100017
+1966 tryToRecordAsBasicStepData bWrite 100017
+1967 tryToRecordAsBasicStepData bWrite 100018
+1968 tryToRecordAsBasicStepData bWrite 100018
+1969 tryToRecordAsBasicStepData bWrite 100019
+1970 tryToRecordAsBasicStepData bWrite 100019
+1971 tryToRecordAsBasicStepData bWrite 100020
+1972 tryToRecordAsBasicStepData bWrite 100020
+1973 tryToRecordAsBasicStepData bWrite 100021
+1974 tryToRecordAsBasicStepData bWrite 100021
+1975 tryToRecordAsBasicStepData bWrite 100022
+1976 tryToRecordAsBasicStepData bWrite 100023
+1977 tryToRecordAsBasicStepData bWrite 100024
+1978 tryToRecordAsBasicStepData bWrite 100025
+1979 tryToRecordAsBasicStepData bWrite 100026
+1980 tryToRecordAsBasicStepData bWrite 100027
+1981 tryToRecordAsBasicStepData bWrite 100028
+1982 tryToRecordAsBasicStepData bWrite 100029
+1983 tryToRecordAsBasicStepData bWrite 100030
+1984 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1985 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1986 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1987 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1988 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1989 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1990 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1991 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1992 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1993 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1994 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1995 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1996 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100000 oldDay is 110000
+1997 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100001 oldDay is 110001
+1998 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100001 oldDay is 110001
+1999 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100002 oldDay is 110002
+2000 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100002 oldDay is 110002
+2001 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100003 oldDay is 110003
+2002 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100003 oldDay is 110003
+2003 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100004 oldDay is 110004
+2004 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100004 oldDay is 110004
+2005 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100005 oldDay is 110005
+2006 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100005 oldDay is 110005
+2007 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100006 oldDay is 110006
+2008 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100006 oldDay is 110006
+2009 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100007 oldDay is 110007
+2010 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100007 oldDay is 110007
+2011 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100008 oldDay is 110008
+2012 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100008 oldDay is 110008
+2013 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100009 oldDay is 110009
+2014 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100009 oldDay is 110009
+2015 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100010 oldDay is 110010
+2016 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100010 oldDay is 110010
+2017 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100011 oldDay is 110011
+2018 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100011 oldDay is 110011
+2019 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100012 oldDay is 110012
+2020 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100012 oldDay is 110012
+2021 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100013 oldDay is 110013
+2022 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100013 oldDay is 110013
+2023 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100014 oldDay is 110014
+2024 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100014 oldDay is 110014
+2025 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100015 oldDay is 110015
+2026 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100015 oldDay is 110015
+2027 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100016 oldDay is 110016
+2028 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100016 oldDay is 110016
+2029 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100017 oldDay is 110017
+2030 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100017 oldDay is 110017
+2031 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100018 oldDay is 110018
+2032 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100018 oldDay is 110018
+2033 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100019 oldDay is 110019
+2034 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100019 oldDay is 110019
+2035 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100020 oldDay is 110020
+2036 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100020 oldDay is 110020
+2037 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100021 oldDay is 110021
+2038 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100021 oldDay is 110021
+2039 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100022 oldDay is 110022
+2040 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100023 oldDay is 110023
+2041 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100024 oldDay is 110024
+2042 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100025 oldDay is 110025
+2043 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100026 oldDay is 110026
+2044 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100027 oldDay is 110027
+2045 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100028 oldDay is 110028
+2046 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100029 oldDay is 110029
+2047 checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 100030 oldDay is 110030
+2048 insertHiHealthData() checkAppType 100000 appID = 110000
+2049 insertHiHealthData() checkAppType 100000 appID = 110000
+2050 insertHiHealthData() checkAppType 100000 appID = 110000
+2051 insertHiHealthData() checkAppType 100000 appID = 110000
+2052 insertHiHealthData() checkAppType 100000 appID = 110000
+2053 insertHiHealthData() checkAppType 100000 appID = 110000
+2054 insertHiHealthData() checkAppType 100000 appID = 110000
+2055 insertHiHealthData() checkAppType 100000 appID = 110000
+2056 insertHiHealthData() checkAppType 100000 appID = 110000
+2057 insertHiHealthData() checkAppType 100000 appID = 110000
+2058 insertHiHealthData() checkAppType 100000 appID = 110000
+2059 insertHiHealthData() checkAppType 100000 appID = 110000
+2060 insertHiHealthData() checkAppType 100000 appID = 110000
+2061 insertHiHealthData() checkAppType 100001 appID = 110001
+2062 insertHiHealthData() checkAppType 100001 appID = 110001
+2063 insertHiHealthData() checkAppType 100002 appID = 110002
+2064 insertHiHealthData() checkAppType 100002 appID = 110002
+2065 insertHiHealthData() checkAppType 100003 appID = 110003
+2066 insertHiHealthData() checkAppType 100003 appID = 110003
+2067 insertHiHealthData() checkAppType 100004 appID = 110004
+2068 insertHiHealthData() checkAppType 100004 appID = 110004
+2069 insertHiHealthData() checkAppType 100005 appID = 110005
+2070 insertHiHealthData() checkAppType 100005 appID = 110005
+2071 insertHiHealthData() checkAppType 100006 appID = 110006
+2072 insertHiHealthData() checkAppType 100006 appID = 110006
+2073 insertHiHealthData() checkAppType 100007 appID = 110007
+2074 insertHiHealthData() checkAppType 100007 appID = 110007
+2075 insertHiHealthData() checkAppType 100008 appID = 110008
+2076 insertHiHealthData() checkAppType 100008 appID = 110008
+2077 insertHiHealthData() checkAppType 100009 appID = 110009
+2078 insertHiHealthData() checkAppType 100009 appID = 110009
+2079 insertHiHealthData() checkAppType 100010 appID = 110010
+2080 insertHiHealthData() checkAppType 100010 appID = 110010
+2081 insertHiHealthData() checkAppType 100011 appID = 110011
+2082 insertHiHealthData() checkAppType 100011 appID = 110011
+2083 insertHiHealthData() checkAppType 100012 appID = 110012
+2084 insertHiHealthData() checkAppType 100012 appID = 110012
+2085 insertHiHealthData() checkAppType 100013 appID = 110013
+2086 insertHiHealthData() checkAppType 100013 appID = 110013
+2087 insertHiHealthData() checkAppType 100014 appID = 110014
+2088 insertHiHealthData() checkAppType 100014 appID = 110014
+2089 insertHiHealthData() checkAppType 100015 appID = 110015
+2090 insertHiHealthData() checkAppType 100015 appID = 110015
+2091 insertHiHealthData() checkAppType 100016 appID = 110016
+2092 insertHiHealthData() checkAppType 100016 appID = 110016
+2093 insertHiHealthData() checkAppType 100017 appID = 110017
+2094 insertHiHealthData() checkAppType 100017 appID = 110017
+2095 insertHiHealthData() checkAppType 100018 appID = 110018
+2096 insertHiHealthData() checkAppType 100018 appID = 110018
+2097 insertHiHealthData() checkAppType 100019 appID = 110019
+2098 insertHiHealthData() checkAppType 100019 appID = 110019
+2099 insertHiHealthData() checkAppType 100020 appID = 110020
+2100 insertHiHealthData() checkAppType 100020 appID = 110020
+2101 insertHiHealthData() checkAppType 100021 appID = 110021
+2102 insertHiHealthData() checkAppType 100021 appID = 110021
+2103 insertHiHealthData() checkAppType 100022 appID = 110022
+2104 insertHiHealthData() checkAppType 100023 appID = 110023
+2105 insertHiHealthData() checkAppType 100024 appID = 110024
+2106 insertHiHealthData() checkAppType 100025 appID = 110025
+2107 insertHiHealthData() checkAppType 100026 appID = 110026
+2108 insertHiHealthData() checkAppType 100027 appID = 110027
+2109 insertHiHealthData() checkAppType 100028 appID = 110028
+2110 insertHiHealthData() checkAppType 100029 appID = 110029
+2111 insertHiHealthData() checkAppType 100030 appID = 110030
+2112 onStandStepChanged 100000
+2113 onStandStepChanged 100000
+2114 onStandStepChanged 100000
+2115 onStandStepChanged 100000
+2116 onStandStepChanged 100000
+2117 onStandStepChanged 100000
+2118 onStandStepChanged 100000
+2119 onStandStepChanged 100000
+2120 onStandStepChanged 100000
+2121 onStandStepChanged 100000
+2122 onStandStepChanged 100000
+2123 onStandStepChanged 100000
+2124 onStandStepChanged 100000
+2125 onStandStepChanged 100001
+2126 onStandStepChanged 100001
+2127 onStandStepChanged 100002
+2128 onStandStepChanged 100002
+2129 onStandStepChanged 100003
+2130 onStandStepChanged 100003
+2131 onStandStepChanged 100004
+2132 onStandStepChanged 100004
+2133 onStandStepChanged 100005
+2134 onStandStepChanged 100005
+2135 onStandStepChanged 100006
+2136 onStandStepChanged 100006
+2137 onStandStepChanged 100007
+2138 onStandStepChanged 100007
+2139 onStandStepChanged 100008
+2140 onStandStepChanged 100008
+2141 onStandStepChanged 100009
+2142 onStandStepChanged 100009
+2143 onStandStepChanged 100010
+2144 onStandStepChanged 100010
+2145 onStandStepChanged 100011
+2146 onStandStepChanged 100011
+2147 onStandStepChanged 100012
+2148 onStandStepChanged 100012
+2149 onStandStepChanged 100013
+2150 onStandStepChanged 100013
+2151 onStandStepChanged 100014
+2152 onStandStepChanged 100014
+2153 onStandStepChanged 100015
+2154 onStandStepChanged 100015
+2155 onStandStepChanged 100016
+2156 onStandStepChanged 100016
+2157 onStandStepChanged 100017
+2158 onStandStepChanged 100017
+2159 onStandStepChanged 100018
+2160 onStandStepChanged 100018
+2161 onStandStepChanged 100019
+2162 onStandStepChanged 100019
+2163 onStandStepChanged 100020
+2164 onStandStepChanged 100020
+2165 onStandStepChanged 100021
+2166 onStandStepChanged 100021
+2167 onStandStepChanged 100022
+2168 onStandStepChanged 100023
+2169 onStandStepChanged 100024
+2170 onStandStepChanged 100025
+2171 onStandStepChanged 100026
+2172 onStandStepChanged 100027
+2173 onStandStepChanged 100028
+2174 onStandStepChanged 100029
+2175 onStandStepChanged 100030
+2176 setWriteDBLastDataMinute=100000
+2177 setWriteDBLastDataMinute=100000
+2178 setWriteDBLastDataMinute=100000
+2179 setWriteDBLastDataMinute=100000
+2180 setWriteDBLastDataMinute=100000
+2181 setWriteDBLastDataMinute=100000
+2182 setWriteDBLastDataMinute=100000
+2183 setWriteDBLastDataMinute=100000
+2184 setWriteDBLastDataMinute=100000
+2185 setWriteDBLastDataMinute=100000
+2186 setWriteDBLastDataMinute=100000
+2187 setWriteDBLastDataMinute=100000
+2188 setWriteDBLastDataMinute=100000
+2189 setWriteDBLastDataMinute=100001
+2190 setWriteDBLastDataMinute=100001
+2191 setWriteDBLastDataMinute=100002
+2192 setWriteDBLastDataMinute=100002
+2193 setWriteDBLastDataMinute=100003
+2194 setWriteDBLastDataMinute=100003
+2195 setWriteDBLastDataMinute=100004
+2196 setWriteDBLastDataMinute=100004
+2197 setWriteDBLastDataMinute=100005
+2198 setWriteDBLastDataMinute=100005
+2199 setWriteDBLastDataMinute=100006
+2200 setWriteDBLastDataMinute=100006
+2201 setWriteDBLastDataMinute=100007
+2202 setWriteDBLastDataMinute=100007
+2203 setWriteDBLastDataMinute=100008
+2204 setWriteDBLastDataMinute=100008
+2205 setWriteDBLastDataMinute=100009
+2206 setWriteDBLastDataMinute=100009
+2207 setWriteDBLastDataMinute=100010
+2208 setWriteDBLastDataMinute=100010
+2209 setWriteDBLastDataMinute=100011
+2210 setWriteDBLastDataMinute=100011
+2211 setWriteDBLastDataMinute=100012
+2212 setWriteDBLastDataMinute=100012
+2213 setWriteDBLastDataMinute=100013
+2214 setWriteDBLastDataMinute=100013
+2215 setWriteDBLastDataMinute=100014
+2216 setWriteDBLastDataMinute=100014
+2217 setWriteDBLastDataMinute=100015
+2218 setWriteDBLastDataMinute=100015
+2219 setWriteDBLastDataMinute=100016
+2220 setWriteDBLastDataMinute=100016
+2221 setWriteDBLastDataMinute=100017
+2222 setWriteDBLastDataMinute=100017
+2223 setWriteDBLastDataMinute=100018
+2224 setWriteDBLastDataMinute=100018
+2225 setWriteDBLastDataMinute=100019
+2226 setWriteDBLastDataMinute=100019
+2227 setWriteDBLastDataMinute=100020
+2228 setWriteDBLastDataMinute=100020
+2229 setWriteDBLastDataMinute=100021
+2230 setWriteDBLastDataMinute=100021
+2231 setWriteDBLastDataMinute=100022
+2232 setWriteDBLastDataMinute=100023
+2233 setWriteDBLastDataMinute=100024
+2234 setWriteDBLastDataMinute=100025
+2235 setWriteDBLastDataMinute=100026
+2236 setWriteDBLastDataMinute=100027
+2237 setWriteDBLastDataMinute=100028
+2238 setWriteDBLastDataMinute=100029
+2239 setWriteDBLastDataMinute=100030
+2240 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2241 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2242 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2243 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2244 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2245 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2246 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2247 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2248 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2249 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2250 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2251 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2252 upLoadOneMinuteDataToEngine time=100000,110000,120000,130000,140000
+2253 upLoadOneMinuteDataToEngine time=100001,110001,120001,130001,140001
+2254 upLoadOneMinuteDataToEngine time=100001,110001,120001,130001,140001
+2255 upLoadOneMinuteDataToEngine time=100002,110002,120002,130002,140002
+2256 upLoadOneMinuteDataToEngine time=100002,110002,120002,130002,140002
+2257 upLoadOneMinuteDataToEngine time=100003,110003,120003,130003,140003
+2258 upLoadOneMinuteDataToEngine time=100003,110003,120003,130003,140003
+2259 upLoadOneMinuteDataToEngine time=100004,110004,120004,130004,140004
+2260 upLoadOneMinuteDataToEngine time=100004,110004,120004,130004,140004
+2261 upLoadOneMinuteDataToEngine time=100005,110005,120005,130005,140005
+2262 upLoadOneMinuteDataToEngine time=100005,110005,120005,130005,140005
+2263 upLoadOneMinuteDataToEngine time=100006,110006,120006,130006,140006
+2264 upLoadOneMinuteDataToEngine time=100006,110006,120006,130006,140006
+2265 upLoadOneMinuteDataToEngine time=100007,110007,120007,130007,140007
+2266 upLoadOneMinuteDataToEngine time=100007,110007,120007,130007,140007
+2267 upLoadOneMinuteDataToEngine time=100008,110008,120008,130008,140008
+2268 upLoadOneMinuteDataToEngine time=100008,110008,120008,130008,140008
+2269 upLoadOneMinuteDataToEngine time=100009,110009,120009,130009,140009
+2270 upLoadOneMinuteDataToEngine time=100009,110009,120009,130009,140009
+2271 upLoadOneMinuteDataToEngine time=100010,110010,120010,130010,140010
+2272 upLoadOneMinuteDataToEngine time=100010,110010,120010,130010,140010
+2273 upLoadOneMinuteDataToEngine time=100011,110011,120011,130011,140011
+2274 upLoadOneMinuteDataToEngine time=100011,110011,120011,130011,140011
+2275 upLoadOneMinuteDataToEngine time=100012,110012,120012,130012,140012
+2276 upLoadOneMinuteDataToEngine time=100012,110012,120012,130012,140012
+2277 upLoadOneMinuteDataToEngine time=100013,110013,120013,130013,140013
+2278 upLoadOneMinuteDataToEngine time=100013,110013,120013,130013,140013
+2279 upLoadOneMinuteDataToEngine time=100014,110014,120014,130014,140014
+2280 upLoadOneMinuteDataToEngine time=100014,110014,120014,130014,140014
+2281 upLoadOneMinuteDataToEngine time=100015,110015,120015,130015,140015
+2282 upLoadOneMinuteDataToEngine time=100015,110015,120015,130015,140015
+2283 upLoadOneMinuteDataToEngine time=100016,110016,120016,130016,140016
+2284 upLoadOneMinuteDataToEngine time=100016,110016,120016,130016,140016
+2285 upLoadOneMinuteDataToEngine time=100017,110017,120017,130017,140017
+2286 upLoadOneMinuteDataToEngine time=100017,110017,120017,130017,140017
+2287 upLoadOneMinuteDataToEngine time=100018,110018,120018,130018,140018
+2288 upLoadOneMinuteDataToEngine time=100018,110018,120018,130018,140018
+2289 upLoadOneMinuteDataToEngine time=100019,110019,120019,130019,140019
+2290 upLoadOneMinuteDataToEngine time=100019,110019,120019,130019,140019
+2291 upLoadOneMinuteDataToEngine time=100020,110020,120020,130020,140020
+2292 upLoadOneMinuteDataToEngine time=100020,110020,120020,130020,140020
+2293 upLoadOneMinuteDataToEngine time=100021,110021,120021,130021,140021
+2294 upLoadOneMinuteDataToEngine time=100021,110021,120021,130021,140021
+2295 upLoadOneMinuteDataToEngine time=100022,110022,120022,130022,140022
+2296 upLoadOneMinuteDataToEngine time=100023,110023,120023,130023,140023
+2297 upLoadOneMinuteDataToEngine time=100024,110024,120024,130024,140024
+2298 upLoadOneMinuteDataToEngine time=100025,110025,120025,130025,140025
+2299 upLoadOneMinuteDataToEngine time=100026,110026,120026,130026,140026
+2300 upLoadOneMinuteDataToEngine time=100027,110027,120027,130027,140027
+2301 upLoadOneMinuteDataToEngine time=100028,110028,120028,130028,140028
+2302 upLoadOneMinuteDataToEngine time=100029,110029,120029,130029,140029
+2303 upLoadOneMinuteDataToEngine time=100030,110030,120030,130030,140030
+2304 insertHiHealthData() end totalTime = 100000
+2305 insertHiHealthData() end totalTime = 100000
+2306 insertHiHealthData() end totalTime = 100000
+2307 insertHiHealthData() end totalTime = 100000
+2308 insertHiHealthData() end totalTime = 100000
+2309 insertHiHealthData() end totalTime = 100000
+2310 insertHiHealthData() end totalTime = 100000
+2311 insertHiHealthData() end totalTime = 100000
+2312 insertHiHealthData() end totalTime = 100000
+2313 insertHiHealthData() end totalTime = 100000
+2314 insertHiHealthData() end totalTime = 100000
+2315 insertHiHealthData() end totalTime = 100000
+2316 insertHiHealthData() end totalTime = 100000
+2317 insertHiHealthData() end totalTime = 100001
+2318 insertHiHealthData() end totalTime = 100001
+2319 insertHiHealthData() end totalTime = 100002
+2320 insertHiHealthData() end totalTime = 100002
+2321 insertHiHealthData() end totalTime = 100003
+2322 insertHiHealthData() end totalTime = 100003
+2323 insertHiHealthData() end totalTime = 100004
+2324 insertHiHealthData() end totalTime = 100004
+2325 insertHiHealthData() end totalTime = 100005
+2326 insertHiHealthData() end totalTime = 100005
+2327 insertHiHealthData() end totalTime = 100006
+2328 insertHiHealthData() end totalTime = 100006
+2329 insertHiHealthData() end totalTime = 100007
+2330 insertHiHealthData() end totalTime = 100007
+2331 insertHiHealthData() end totalTime = 100008
+2332 insertHiHealthData() end totalTime = 100008
+2333 insertHiHealthData() end totalTime = 100009
+2334 insertHiHealthData() end totalTime = 100009
+2335 insertHiHealthData() end totalTime = 100010
+2336 insertHiHealthData() end totalTime = 100010
+2337 insertHiHealthData() end totalTime = 100011
+2338 insertHiHealthData() end totalTime = 100011
+2339 insertHiHealthData() end totalTime = 100012
+2340 insertHiHealthData() end totalTime = 100012
+2341 insertHiHealthData() end totalTime = 100013
+2342 insertHiHealthData() end totalTime = 100013
+2343 insertHiHealthData() end totalTime = 100014
+2344 insertHiHealthData() end totalTime = 100014
+2345 insertHiHealthData() end totalTime = 100015
+2346 insertHiHealthData() end totalTime = 100015
+2347 insertHiHealthData() end totalTime = 100016
+2348 insertHiHealthData() end totalTime = 100016
+2349 insertHiHealthData() end totalTime = 100017
+2350 insertHiHealthData() end totalTime = 100017
+2351 insertHiHealthData() end totalTime = 100018
+2352 insertHiHealthData() end totalTime = 100018
+2353 insertHiHealthData() end totalTime = 100019
+2354 insertHiHealthData() end totalTime = 100019
+2355 insertHiHealthData() end totalTime = 100020
+2356 insertHiHealthData() end totalTime = 100020
+2357 insertHiHealthData() end totalTime = 100021
+2358 insertHiHealthData() end totalTime = 100021
+2359 insertHiHealthData() end totalTime = 100022
+2360 insertHiHealthData() end totalTime = 100023
+2361 insertHiHealthData() end totalTime = 100024
+2362 insertHiHealthData() end totalTime = 100025
+2363 insertHiHealthData() end totalTime = 100026
+2364 insertHiHealthData() end totalTime = 100027
+2365 insertHiHealthData() end totalTime = 100028
+2366 insertHiHealthData() end totalTime = 100029
+2367 insertHiHealthData() end totalTime = 100030
+2368 REPORT : 100000 110000 120000 130000
+2369 REPORT : 100000 110000 120000 130000
+2370 REPORT : 100000 110000 120000 130000
+2371 REPORT : 100000 110000 120000 130000
+2372 REPORT : 100000 110000 120000 130000
+2373 REPORT : 100000 110000 120000 130000
+2374 REPORT : 100000 110000 120000 130000
+2375 REPORT : 100000 110000 120000 130000
+2376 REPORT : 100000 110000 120000 130000
+2377 REPORT : 100000 110000 120000 130000
+2378 REPORT : 100000 110000 120000 130000
+2379 REPORT : 100000 110000 120000 130000
+2380 REPORT : 100000 110000 120000 130000
+2381 REPORT : 100001 110001 120001 130001
+2382 REPORT : 100001 110001 120001 130001
+2383 REPORT : 100002 110002 120002 130002
+2384 REPORT : 100002 110002 120002 130002
+2385 REPORT : 100003 110003 120003 130003
+2386 REPORT : 100003 110003 120003 130003
+2387 REPORT : 100004 110004 120004 130004
+2388 REPORT : 100004 110004 120004 130004
+2389 REPORT : 100005 110005 120005 130005
+2390 REPORT : 100005 110005 120005 130005
+2391 REPORT : 100006 110006 120006 130006
+2392 REPORT : 100006 110006 120006 130006
+2393 REPORT : 100007 110007 120007 130007
+2394 REPORT : 100007 110007 120007 130007
+2395 REPORT : 100008 110008 120008 130008
+2396 REPORT : 100008 110008 120008 130008
+2397 REPORT : 100009 110009 120009 130009
+2398 REPORT : 100009 110009 120009 130009
+2399 REPORT : 100010 110010 120010 130010
+2400 REPORT : 100010 110010 120010 130010
+2401 REPORT : 100011 110011 120011 130011
+2402 REPORT : 100011 110011 120011 130011
+2403 REPORT : 100012 110012 120012 130012
+2404 REPORT : 100012 110012 120012 130012
+2405 REPORT : 100013 110013 120013 130013
+2406 REPORT : 100013 110013 120013 130013
+2407 REPORT : 100014 110014 120014 130014
+2408 REPORT : 100014 110014 120014 130014
+2409 REPORT : 100015 110015 120015 130015
+2410 REPORT : 100015 110015 120015 130015
+2411 REPORT : 100016 110016 120016 130016
+2412 REPORT : 100016 110016 120016 130016
+2413 REPORT : 100017 110017 120017 130017
+2414 REPORT : 100017 110017 120017 130017
+2415 REPORT : 100018 110018 120018 130018
+2416 REPORT : 100018 110018 120018 130018
+2417 REPORT : 100019 110019 120019 130019
+2418 REPORT : 100019 110019 120019 130019
+2419 REPORT : 100020 110020 120020 130020
+2420 REPORT : 100020 110020 120020 130020
+2421 REPORT : 100021 110021 120021 130021
+2422 REPORT : 100021 110021 120021 130021
+2423 REPORT : 100022 110022 120022 130022
+2424 REPORT : 100023 110023 120023 130023
+2425 REPORT : 100024 110024 120024 130024
+2426 REPORT : 100025 110025 120025 130025
+2427 REPORT : 100026 110026 120026 130026
+2428 REPORT : 100027 110027 120027 130027
+2429 REPORT : 100028 110028 120028 130028
+2430 REPORT : 100029 110029 120029 130029
+2431 REPORT : 100030 110030 120030 130030
+2432 getTodayBasicStandardSteps= 100000##110000##120000
+2433 getTodayBasicStandardSteps= 100000##110000##120000
+2434 getTodayBasicStandardSteps= 100000##110000##120000
+2435 getTodayBasicStandardSteps= 100000##110000##120000
+2436 getTodayBasicStandardSteps= 100000##110000##120000
+2437 getTodayBasicStandardSteps= 100000##110000##120000
+2438 getTodayBasicStandardSteps= 100000##110000##120000
+2439 getTodayBasicStandardSteps= 100000##110000##120000
+2440 getTodayBasicStandardSteps= 100000##110000##120000
+2441 getTodayBasicStandardSteps= 100000##110000##120000
+2442 getTodayBasicStandardSteps= 100000##110000##120000
+2443 getTodayBasicStandardSteps= 100000##110000##120000
+2444 getTodayBasicStandardSteps= 100000##110000##120000
+2445 getTodayBasicStandardSteps= 100001##110001##120001
+2446 getTodayBasicStandardSteps= 100001##110001##120001
+2447 getTodayBasicStandardSteps= 100002##110002##120002
+2448 getTodayBasicStandardSteps= 100002##110002##120002
+2449 getTodayBasicStandardSteps= 100003##110003##120003
+2450 getTodayBasicStandardSteps= 100003##110003##120003
+2451 getTodayBasicStandardSteps= 100004##110004##120004
+2452 getTodayBasicStandardSteps= 100004##110004##120004
+2453 getTodayBasicStandardSteps= 100005##110005##120005
+2454 getTodayBasicStandardSteps= 100005##110005##120005
+2455 getTodayBasicStandardSteps= 100006##110006##120006
+2456 getTodayBasicStandardSteps= 100006##110006##120006
+2457 getTodayBasicStandardSteps= 100007##110007##120007
+2458 getTodayBasicStandardSteps= 100007##110007##120007
+2459 getTodayBasicStandardSteps= 100008##110008##120008
+2460 getTodayBasicStandardSteps= 100008##110008##120008
+2461 getTodayBasicStandardSteps= 100009##110009##120009
+2462 getTodayBasicStandardSteps= 100009##110009##120009
+2463 getTodayBasicStandardSteps= 100010##110010##120010
+2464 getTodayBasicStandardSteps= 100010##110010##120010
+2465 getTodayBasicStandardSteps= 100011##110011##120011
+2466 getTodayBasicStandardSteps= 100011##110011##120011
+2467 getTodayBasicStandardSteps= 100012##110012##120012
+2468 getTodayBasicStandardSteps= 100012##110012##120012
+2469 getTodayBasicStandardSteps= 100013##110013##120013
+2470 getTodayBasicStandardSteps= 100013##110013##120013
+2471 getTodayBasicStandardSteps= 100014##110014##120014
+2472 getTodayBasicStandardSteps= 100014##110014##120014
+2473 getTodayBasicStandardSteps= 100015##110015##120015
+2474 getTodayBasicStandardSteps= 100015##110015##120015
+2475 getTodayBasicStandardSteps= 100016##110016##120016
+2476 getTodayBasicStandardSteps= 100016##110016##120016
+2477 getTodayBasicStandardSteps= 100017##110017##120017
+2478 getTodayBasicStandardSteps= 100017##110017##120017
+2479 getTodayBasicStandardSteps= 100018##110018##120018
+2480 getTodayBasicStandardSteps= 100018##110018##120018
+2481 getTodayBasicStandardSteps= 100019##110019##120019
+2482 getTodayBasicStandardSteps= 100019##110019##120019
+2483 getTodayBasicStandardSteps= 100020##110020##120020
+2484 getTodayBasicStandardSteps= 100020##110020##120020
+2485 getTodayBasicStandardSteps= 100021##110021##120021
+2486 getTodayBasicStandardSteps= 100021##110021##120021
+2487 getTodayBasicStandardSteps= 100022##110022##120022
+2488 getTodayBasicStandardSteps= 100023##110023##120023
+2489 getTodayBasicStandardSteps= 100024##110024##120024
+2490 getTodayBasicStandardSteps= 100025##110025##120025
+2491 getTodayBasicStandardSteps= 100026##110026##120026
+2492 getTodayBasicStandardSteps= 100027##110027##120027
+2493 getTodayBasicStandardSteps= 100028##110028##120028
+2494 getTodayBasicStandardSteps= 100029##110029##120029
+2495 getTodayBasicStandardSteps= 100030##110030##120030
+2496 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2497 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2498 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2499 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2500 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2501 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2502 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2503 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2504 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2505 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2506 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2507 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2508 saveHealthDetailData() deviceID = 100000,clientID=110000,id=120000
+2509 saveHealthDetailData() deviceID = 100001,clientID=110001,id=120001
+2510 saveHealthDetailData() deviceID = 100001,clientID=110001,id=120001
+2511 saveHealthDetailData() deviceID = 100002,clientID=110002,id=120002
+2512 saveHealthDetailData() deviceID = 100002,clientID=110002,id=120002
+2513 saveHealthDetailData() deviceID = 100003,clientID=110003,id=120003
+2514 saveHealthDetailData() deviceID = 100003,clientID=110003,id=120003
+2515 saveHealthDetailData() deviceID = 100004,clientID=110004,id=120004
+2516 saveHealthDetailData() deviceID = 100004,clientID=110004,id=120004
+2517 saveHealthDetailData() deviceID = 100005,clientID=110005,id=120005
+2518 saveHealthDetailData() deviceID = 100005,clientID=110005,id=120005
+2519 saveHealthDetailData() deviceID = 100006,clientID=110006,id=120006
+2520 saveHealthDetailData() deviceID = 100006,clientID=110006,id=120006
+2521 saveHealthDetailData() deviceID = 100007,clientID=110007,id=120007
+2522 saveHealthDetailData() deviceID = 100007,clientID=110007,id=120007
+2523 saveHealthDetailData() deviceID = 100008,clientID=110008,id=120008
+2524 saveHealthDetailData() deviceID = 100008,clientID=110008,id=120008
+2525 saveHealthDetailData() deviceID = 100009,clientID=110009,id=120009
+2526 saveHealthDetailData() deviceID = 100009,clientID=110009,id=120009
+2527 saveHealthDetailData() deviceID = 100010,clientID=110010,id=120010
+2528 saveHealthDetailData() deviceID = 100010,clientID=110010,id=120010
+2529 saveHealthDetailData() deviceID = 100011,clientID=110011,id=120011
+2530 saveHealthDetailData() deviceID = 100011,clientID=110011,id=120011
+2531 saveHealthDetailData() deviceID = 100012,clientID=110012,id=120012
+2532 saveHealthDetailData() deviceID = 100012,clientID=110012,id=120012
+2533 saveHealthDetailData() deviceID = 100013,clientID=110013,id=120013
+2534 saveHealthDetailData() deviceID = 100013,clientID=110013,id=120013
+2535 saveHealthDetailData() deviceID = 100014,clientID=110014,id=120014
+2536 saveHealthDetailData() deviceID = 100014,clientID=110014,id=120014
+2537 saveHealthDetailData() deviceID = 100015,clientID=110015,id=120015
+2538 saveHealthDetailData() deviceID = 100015,clientID=110015,id=120015
+2539 saveHealthDetailData() deviceID = 100016,clientID=110016,id=120016
+2540 saveHealthDetailData() deviceID = 100016,clientID=110016,id=120016
+2541 saveHealthDetailData() deviceID = 100017,clientID=110017,id=120017
+2542 saveHealthDetailData() deviceID = 100017,clientID=110017,id=120017
+2543 saveHealthDetailData() deviceID = 100018,clientID=110018,id=120018
+2544 saveHealthDetailData() deviceID = 100018,clientID=110018,id=120018
+2545 saveHealthDetailData() deviceID = 100019,clientID=110019,id=120019
+2546 saveHealthDetailData() deviceID = 100019,clientID=110019,id=120019
+2547 saveHealthDetailData() deviceID = 100020,clientID=110020,id=120020
+2548 saveHealthDetailData() deviceID = 100020,clientID=110020,id=120020
+2549 saveHealthDetailData() deviceID = 100021,clientID=110021,id=120021
+2550 saveHealthDetailData() deviceID = 100021,clientID=110021,id=120021
+2551 saveHealthDetailData() deviceID = 100022,clientID=110022,id=120022
+2552 saveHealthDetailData() deviceID = 100023,clientID=110023,id=120023
+2553 saveHealthDetailData() deviceID = 100024,clientID=110024,id=120024
+2554 saveHealthDetailData() deviceID = 100025,clientID=110025,id=120025
+2555 saveHealthDetailData() deviceID = 100026,clientID=110026,id=120026
+2556 saveHealthDetailData() deviceID = 100027,clientID=110027,id=120027
+2557 saveHealthDetailData() deviceID = 100028,clientID=110028,id=120028
+2558 saveHealthDetailData() deviceID = 100029,clientID=110029,id=120029
+2559 saveHealthDetailData() deviceID = 100030,clientID=110030,id=120030
+2560 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2561 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2562 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2563 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2564 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2565 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2566 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2567 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2568 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2569 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2570 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2571 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2572 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2573 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2574 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2575 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2576 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2577 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2578 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2579 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2580 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2581 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2582 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2583 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2584 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2585 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2586 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2587 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2588 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2589 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2590 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2591 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2592 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2593 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2594 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2595 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2596 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2597 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2598 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2599 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2600 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2601 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2602 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2603 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2604 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2605 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2606 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2607 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2608 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2609 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2610 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2611 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2612 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2613 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2614 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2615 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2616 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2617 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2618 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2619 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2620 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2621 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2622 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2623 startSync hiSyncOption = HiSyncOption{syncAction=aaalpha, syncMethod=bbalpha, syncScope=ccalpha, syncDataType=ddalpha, syncModel=eealpha, pushAction=ffalpha},app = ggalpha who = hhalpha
+2624 getStepCounterStatus= aaalpha
+2625 getStepCounterStatus= aaalpha
+2626 getStepCounterStatus= aaalpha
+2627 getStepCounterStatus= aaalpha
+2628 getStepCounterStatus= aaalpha
+2629 getStepCounterStatus= aaalpha
+2630 getStepCounterStatus= aaalpha
+2631 getStepCounterStatus= aaalpha
+2632 getStepCounterStatus= aaalpha
+2633 getStepCounterStatus= aaalpha
+2634 getStepCounterStatus= aaalpha
+2635 getStepCounterStatus= aaalpha
+2636 getStepCounterStatus= aaalpha
+2637 getStepCounterStatus= aaalpha
+2638 getStepCounterStatus= aaalpha
+2639 getStepCounterStatus= aaalpha
+2640 getStepCounterStatus= aaalpha
+2641 getStepCounterStatus= aaalpha
+2642 getStepCounterStatus= aaalpha
+2643 getStepCounterStatus= aaalpha
+2644 getStepCounterStatus= aaalpha
+2645 getStepCounterStatus= aaalpha
+2646 getStepCounterStatus= aaalpha
+2647 getStepCounterStatus= aaalpha
+2648 getStepCounterStatus= aaalpha
+2649 getStepCounterStatus= aaalpha
+2650 getStepCounterStatus= aaalpha
+2651 getStepCounterStatus= aaalpha
+2652 getStepCounterStatus= aaalpha
+2653 getStepCounterStatus= aaalpha
+2654 getStepCounterStatus= aaalpha
+2655 getStepCounterStatus= aaalpha
+2656 getStepCounterStatus= aaalpha
+2657 getStepCounterStatus= aaalpha
+2658 getStepCounterStatus= aaalpha
+2659 getStepCounterStatus= aaalpha
+2660 getStepCounterStatus= aaalpha
+2661 getStepCounterStatus= aaalpha
+2662 getStepCounterStatus= aaalpha
+2663 getStepCounterStatus= aaalpha
+2664 getStepCounterStatus= aaalpha
+2665 getStepCounterStatus= aaalpha
+2666 getStepCounterStatus= aaalpha
+2667 getStepCounterStatus= aaalpha
+2668 getStepCounterStatus= aaalpha
+2669 getStepCounterStatus= aaalpha
+2670 getStepCounterStatus= aaalpha
+2671 getStepCounterStatus= aaalpha
+2672 getStepCounterStatus= aaalpha
+2673 getStepCounterStatus= aaalpha
+2674 getStepCounterStatus= aaalpha
+2675 getStepCounterStatus= aaalpha
+2676 getStepCounterStatus= aaalpha
+2677 getStepCounterStatus= aaalpha
+2678 getStepCounterStatus= aaalpha
+2679 getStepCounterStatus= aaalpha
+2680 getStepCounterStatus= aaalpha
+2681 getStepCounterStatus= aaalpha
+2682 getStepCounterStatus= aaalpha
+2683 getStepCounterStatus= aaalpha
+2684 getStepCounterStatus= aaalpha
+2685 getStepCounterStatus= aaalpha
+2686 getStepCounterStatus= aaalpha
+2687 getStepCounterStatus= aaalpha
+2688 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2689 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2690 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2691 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2692 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2693 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2694 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2695 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2696 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2697 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2698 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2699 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2700 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2701 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2702 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2703 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2704 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2705 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2706 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2707 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2708 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2709 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2710 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2711 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2712 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2713 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2714 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2715 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2716 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2717 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2718 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2719 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2720 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2721 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2722 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2723 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2724 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2725 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2726 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2727 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2728 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2729 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2730 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2731 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2732 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2733 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2734 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2735 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2736 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2737 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2738 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2739 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2740 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2741 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2742 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2743 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2744 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2745 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2746 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2747 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2748 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2749 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2750 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2751 saveStatData() type =aaalpha,time = bbalpha,statClient = ccalpha,who is ddalpha
+2752 isScreenOn aaalpha
+2753 isScreenOn aaalpha
+2754 isScreenOn aaalpha
+2755 isScreenOn aaalpha
+2756 isScreenOn aaalpha
+2757 isScreenOn aaalpha
+2758 isScreenOn aaalpha
+2759 isScreenOn aaalpha
+2760 isScreenOn aaalpha
+2761 isScreenOn aaalpha
+2762 isScreenOn aaalpha
+2763 isScreenOn aaalpha
+2764 isScreenOn aaalpha
+2765 isScreenOn aaalpha
+2766 isScreenOn aaalpha
+2767 isScreenOn aaalpha
+2768 isScreenOn aaalpha
+2769 isScreenOn aaalpha
+2770 isScreenOn aaalpha
+2771 isScreenOn aaalpha
+2772 isScreenOn aaalpha
+2773 isScreenOn aaalpha
+2774 isScreenOn aaalpha
+2775 isScreenOn aaalpha
+2776 isScreenOn aaalpha
+2777 isScreenOn aaalpha
+2778 isScreenOn aaalpha
+2779 isScreenOn aaalpha
+2780 isScreenOn aaalpha
+2781 isScreenOn aaalpha
+2782 isScreenOn aaalpha
+2783 isScreenOn aaalpha
+2784 isScreenOn aaalpha
+2785 isScreenOn aaalpha
+2786 isScreenOn aaalpha
+2787 isScreenOn aaalpha
+2788 isScreenOn aaalpha
+2789 isScreenOn aaalpha
+2790 isScreenOn aaalpha
+2791 isScreenOn aaalpha
+2792 isScreenOn aaalpha
+2793 isScreenOn aaalpha
+2794 isScreenOn aaalpha
+2795 isScreenOn aaalpha
+2796 isScreenOn aaalpha
+2797 isScreenOn aaalpha
+2798 isScreenOn aaalpha
+2799 isScreenOn aaalpha
+2800 isScreenOn aaalpha
+2801 isScreenOn aaalpha
+2802 isScreenOn aaalpha
+2803 isScreenOn aaalpha
+2804 isScreenOn aaalpha
+2805 isScreenOn aaalpha
+2806 isScreenOn aaalpha
+2807 isScreenOn aaalpha
+2808 isScreenOn aaalpha
+2809 isScreenOn aaalpha
+2810 isScreenOn aaalpha
+2811 isScreenOn aaalpha
+2812 isScreenOn aaalpha
+2813 isScreenOn aaalpha
+2814 isScreenOn aaalpha
+2815 isScreenOn aaalpha
+2816 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2817 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2818 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2819 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2820 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2821 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2822 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2823 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2824 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2825 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2826 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2827 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2828 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2829 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2830 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2831 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2832 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2833 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2834 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2835 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2836 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2837 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2838 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2839 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2840 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2841 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2842 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2843 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2844 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2845 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2846 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2847 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2848 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2849 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2850 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2851 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2852 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2853 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2854 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2855 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2856 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2857 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2858 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2859 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2860 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2861 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2862 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2863 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2864 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2865 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2866 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2867 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2868 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2869 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2870 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2871 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2872 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2873 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2874 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2875 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2876 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2877 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2878 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2879 insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = aaalpha,errorMessage = ERR_DATA_INSERT
+2880 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2881 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2882 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2883 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2884 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2885 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2886 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2887 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2888 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2889 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2890 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2891 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2892 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2893 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2894 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2895 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2896 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2897 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2898 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2899 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2900 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2901 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2902 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2903 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2904 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2905 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2906 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2907 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2908 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2909 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2910 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2911 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2912 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2913 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2914 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2915 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2916 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2917 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2918 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2919 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2920 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2921 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2922 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2923 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2924 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2925 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2926 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2927 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2928 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2929 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2930 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2931 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2932 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2933 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2934 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2935 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2936 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2937 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2938 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2939 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2940 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2941 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2942 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2943 uploadStaticsToDB() onResult type = aaalpha obj=bbalpha
+2944 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2945 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2946 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2947 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2948 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2949 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2950 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2951 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2952 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2953 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2954 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2955 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2956 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2957 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2958 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2959 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2960 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2961 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2962 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2963 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2964 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2965 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2966 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2967 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2968 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2969 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2970 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2971 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2972 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2973 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2974 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2975 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2976 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2977 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2978 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2979 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2980 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2981 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2982 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2983 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2984 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2985 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2986 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2987 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2988 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2989 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2990 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2991 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2992 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2993 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2994 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2995 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2996 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2997 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2998 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+2999 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3000 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3001 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3002 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3003 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3004 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3005 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3006 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3007 insertHiHealthData() size = aaalpha,app = bbalpha,One Data Type = ccalpha,packageName = ddalpha,writeStatType = eealpha
+3008 calculateCaloriesWithCache totalCalories=aaalpha
+3009 calculateCaloriesWithCache totalCalories=aaalpha
+3010 calculateCaloriesWithCache totalCalories=aaalpha
+3011 calculateCaloriesWithCache totalCalories=aaalpha
+3012 calculateCaloriesWithCache totalCalories=aaalpha
+3013 calculateCaloriesWithCache totalCalories=aaalpha
+3014 calculateCaloriesWithCache totalCalories=aaalpha
+3015 calculateCaloriesWithCache totalCalories=aaalpha
+3016 calculateCaloriesWithCache totalCalories=aaalpha
+3017 calculateCaloriesWithCache totalCalories=aaalpha
+3018 calculateCaloriesWithCache totalCalories=aaalpha
+3019 calculateCaloriesWithCache totalCalories=aaalpha
+3020 calculateCaloriesWithCache totalCalories=aaalpha
+3021 calculateCaloriesWithCache totalCalories=aaalpha
+3022 calculateCaloriesWithCache totalCalories=aaalpha
+3023 calculateCaloriesWithCache totalCalories=aaalpha
+3024 calculateCaloriesWithCache totalCalories=aaalpha
+3025 calculateCaloriesWithCache totalCalories=aaalpha
+3026 calculateCaloriesWithCache totalCalories=aaalpha
+3027 calculateCaloriesWithCache totalCalories=aaalpha
+3028 calculateCaloriesWithCache totalCalories=aaalpha
+3029 calculateCaloriesWithCache totalCalories=aaalpha
+3030 calculateCaloriesWithCache totalCalories=aaalpha
+3031 calculateCaloriesWithCache totalCalories=aaalpha
+3032 calculateCaloriesWithCache totalCalories=aaalpha
+3033 calculateCaloriesWithCache totalCalories=aaalpha
+3034 calculateCaloriesWithCache totalCalories=aaalpha
+3035 calculateCaloriesWithCache totalCalories=aaalpha
+3036 calculateCaloriesWithCache totalCalories=aaalpha
+3037 calculateCaloriesWithCache totalCalories=aaalpha
+3038 calculateCaloriesWithCache totalCalories=aaalpha
+3039 calculateCaloriesWithCache totalCalories=aaalpha
+3040 calculateCaloriesWithCache totalCalories=aaalpha
+3041 calculateCaloriesWithCache totalCalories=aaalpha
+3042 calculateCaloriesWithCache totalCalories=aaalpha
+3043 calculateCaloriesWithCache totalCalories=aaalpha
+3044 calculateCaloriesWithCache totalCalories=aaalpha
+3045 calculateCaloriesWithCache totalCalories=aaalpha
+3046 calculateCaloriesWithCache totalCalories=aaalpha
+3047 calculateCaloriesWithCache totalCalories=aaalpha
+3048 calculateCaloriesWithCache totalCalories=aaalpha
+3049 calculateCaloriesWithCache totalCalories=aaalpha
+3050 calculateCaloriesWithCache totalCalories=aaalpha
+3051 calculateCaloriesWithCache totalCalories=aaalpha
+3052 calculateCaloriesWithCache totalCalories=aaalpha
+3053 calculateCaloriesWithCache totalCalories=aaalpha
+3054 calculateCaloriesWithCache totalCalories=aaalpha
+3055 calculateCaloriesWithCache totalCalories=aaalpha
+3056 calculateCaloriesWithCache totalCalories=aaalpha
+3057 calculateCaloriesWithCache totalCalories=aaalpha
+3058 calculateCaloriesWithCache totalCalories=aaalpha
+3059 calculateCaloriesWithCache totalCalories=aaalpha
+3060 calculateCaloriesWithCache totalCalories=aaalpha
+3061 calculateCaloriesWithCache totalCalories=aaalpha
+3062 calculateCaloriesWithCache totalCalories=aaalpha
+3063 calculateCaloriesWithCache totalCalories=aaalpha
+3064 calculateCaloriesWithCache totalCalories=aaalpha
+3065 calculateCaloriesWithCache totalCalories=aaalpha
+3066 calculateCaloriesWithCache totalCalories=aaalpha
+3067 calculateCaloriesWithCache totalCalories=aaalpha
+3068 calculateCaloriesWithCache totalCalories=aaalpha
+3069 calculateCaloriesWithCache totalCalories=aaalpha
+3070 calculateCaloriesWithCache totalCalories=aaalpha
+3071 calculateCaloriesWithCache totalCalories=aaalpha
+3072 registersensorsuccess: aaalpha
+3073 registersensorsuccess: aaalpha
+3074 registersensorsuccess: aaalpha
+3075 registersensorsuccess: aaalpha
+3076 registersensorsuccess: aaalpha
+3077 registersensorsuccess: aaalpha
+3078 registersensorsuccess: aaalpha
+3079 registersensorsuccess: aaalpha
+3080 registersensorsuccess: aaalpha
+3081 registersensorsuccess: aaalpha
+3082 registersensorsuccess: aaalpha
+3083 registersensorsuccess: aaalpha
+3084 registersensorsuccess: aaalpha
+3085 registersensorsuccess: aaalpha
+3086 registersensorsuccess: aaalpha
+3087 registersensorsuccess: aaalpha
+3088 registersensorsuccess: aaalpha
+3089 registersensorsuccess: aaalpha
+3090 registersensorsuccess: aaalpha
+3091 registersensorsuccess: aaalpha
+3092 registersensorsuccess: aaalpha
+3093 registersensorsuccess: aaalpha
+3094 registersensorsuccess: aaalpha
+3095 registersensorsuccess: aaalpha
+3096 registersensorsuccess: aaalpha
+3097 registersensorsuccess: aaalpha
+3098 registersensorsuccess: aaalpha
+3099 registersensorsuccess: aaalpha
+3100 registersensorsuccess: aaalpha
+3101 registersensorsuccess: aaalpha
+3102 registersensorsuccess: aaalpha
+3103 registersensorsuccess: aaalpha
+3104 registersensorsuccess: aaalpha
+3105 registersensorsuccess: aaalpha
+3106 registersensorsuccess: aaalpha
+3107 registersensorsuccess: aaalpha
+3108 registersensorsuccess: aaalpha
+3109 registersensorsuccess: aaalpha
+3110 registersensorsuccess: aaalpha
+3111 registersensorsuccess: aaalpha
+3112 registersensorsuccess: aaalpha
+3113 registersensorsuccess: aaalpha
+3114 registersensorsuccess: aaalpha
+3115 registersensorsuccess: aaalpha
+3116 registersensorsuccess: aaalpha
+3117 registersensorsuccess: aaalpha
+3118 registersensorsuccess: aaalpha
+3119 registersensorsuccess: aaalpha
+3120 registersensorsuccess: aaalpha
+3121 registersensorsuccess: aaalpha
+3122 registersensorsuccess: aaalpha
+3123 registersensorsuccess: aaalpha
+3124 registersensorsuccess: aaalpha
+3125 registersensorsuccess: aaalpha
+3126 registersensorsuccess: aaalpha
+3127 registersensorsuccess: aaalpha
+3128 registersensorsuccess: aaalpha
+3129 registersensorsuccess: aaalpha
+3130 registersensorsuccess: aaalpha
+3131 registersensorsuccess: aaalpha
+3132 registersensorsuccess: aaalpha
+3133 registersensorsuccess: aaalpha
+3134 registersensorsuccess: aaalpha
+3135 registersensorsuccess: aaalpha
+3136 onExtend:aaalpha bbalpha ccalpha ddalpha
+3137 onExtend:aaalpha bbalpha ccalpha ddalpha
+3138 onExtend:aaalpha bbalpha ccalpha ddalpha
+3139 onExtend:aaalpha bbalpha ccalpha ddalpha
+3140 onExtend:aaalpha bbalpha ccalpha ddalpha
+3141 onExtend:aaalpha bbalpha ccalpha ddalpha
+3142 onExtend:aaalpha bbalpha ccalpha ddalpha
+3143 onExtend:aaalpha bbalpha ccalpha ddalpha
+3144 onExtend:aaalpha bbalpha ccalpha ddalpha
+3145 onExtend:aaalpha bbalpha ccalpha ddalpha
+3146 onExtend:aaalpha bbalpha ccalpha ddalpha
+3147 onExtend:aaalpha bbalpha ccalpha ddalpha
+3148 onExtend:aaalpha bbalpha ccalpha ddalpha
+3149 onExtend:aaalpha bbalpha ccalpha ddalpha
+3150 onExtend:aaalpha bbalpha ccalpha ddalpha
+3151 onExtend:aaalpha bbalpha ccalpha ddalpha
+3152 onExtend:aaalpha bbalpha ccalpha ddalpha
+3153 onExtend:aaalpha bbalpha ccalpha ddalpha
+3154 onExtend:aaalpha bbalpha ccalpha ddalpha
+3155 onExtend:aaalpha bbalpha ccalpha ddalpha
+3156 onExtend:aaalpha bbalpha ccalpha ddalpha
+3157 onExtend:aaalpha bbalpha ccalpha ddalpha
+3158 onExtend:aaalpha bbalpha ccalpha ddalpha
+3159 onExtend:aaalpha bbalpha ccalpha ddalpha
+3160 onExtend:aaalpha bbalpha ccalpha ddalpha
+3161 onExtend:aaalpha bbalpha ccalpha ddalpha
+3162 onExtend:aaalpha bbalpha ccalpha ddalpha
+3163 onExtend:aaalpha bbalpha ccalpha ddalpha
+3164 onExtend:aaalpha bbalpha ccalpha ddalpha
+3165 onExtend:aaalpha bbalpha ccalpha ddalpha
+3166 onExtend:aaalpha bbalpha ccalpha ddalpha
+3167 onExtend:aaalpha bbalpha ccalpha ddalpha
+3168 onExtend:aaalpha bbalpha ccalpha ddalpha
+3169 onExtend:aaalpha bbalpha ccalpha ddalpha
+3170 onExtend:aaalpha bbalpha ccalpha ddalpha
+3171 onExtend:aaalpha bbalpha ccalpha ddalpha
+3172 onExtend:aaalpha bbalpha ccalpha ddalpha
+3173 onExtend:aaalpha bbalpha ccalpha ddalpha
+3174 onExtend:aaalpha bbalpha ccalpha ddalpha
+3175 onExtend:aaalpha bbalpha ccalpha ddalpha
+3176 onExtend:aaalpha bbalpha ccalpha ddalpha
+3177 onExtend:aaalpha bbalpha ccalpha ddalpha
+3178 onExtend:aaalpha bbalpha ccalpha ddalpha
+3179 onExtend:aaalpha bbalpha ccalpha ddalpha
+3180 onExtend:aaalpha bbalpha ccalpha ddalpha
+3181 onExtend:aaalpha bbalpha ccalpha ddalpha
+3182 onExtend:aaalpha bbalpha ccalpha ddalpha
+3183 onExtend:aaalpha bbalpha ccalpha ddalpha
+3184 onExtend:aaalpha bbalpha ccalpha ddalpha
+3185 onExtend:aaalpha bbalpha ccalpha ddalpha
+3186 onExtend:aaalpha bbalpha ccalpha ddalpha
+3187 onExtend:aaalpha bbalpha ccalpha ddalpha
+3188 onExtend:aaalpha bbalpha ccalpha ddalpha
+3189 onExtend:aaalpha bbalpha ccalpha ddalpha
+3190 onExtend:aaalpha bbalpha ccalpha ddalpha
+3191 onExtend:aaalpha bbalpha ccalpha ddalpha
+3192 onExtend:aaalpha bbalpha ccalpha ddalpha
+3193 onExtend:aaalpha bbalpha ccalpha ddalpha
+3194 onExtend:aaalpha bbalpha ccalpha ddalpha
+3195 onExtend:aaalpha bbalpha ccalpha ddalpha
+3196 onExtend:aaalpha bbalpha ccalpha ddalpha
+3197 onExtend:aaalpha bbalpha ccalpha ddalpha
+3198 onExtend:aaalpha bbalpha ccalpha ddalpha
+3199 onExtend:aaalpha bbalpha ccalpha ddalpha
+3200 setTodayTotalDetailSteps=aaalpha
+3201 setTodayTotalDetailSteps=aaalpha
+3202 setTodayTotalDetailSteps=aaalpha
+3203 setTodayTotalDetailSteps=aaalpha
+3204 setTodayTotalDetailSteps=aaalpha
+3205 setTodayTotalDetailSteps=aaalpha
+3206 setTodayTotalDetailSteps=aaalpha
+3207 setTodayTotalDetailSteps=aaalpha
+3208 setTodayTotalDetailSteps=aaalpha
+3209 setTodayTotalDetailSteps=aaalpha
+3210 setTodayTotalDetailSteps=aaalpha
+3211 setTodayTotalDetailSteps=aaalpha
+3212 setTodayTotalDetailSteps=aaalpha
+3213 setTodayTotalDetailSteps=aaalpha
+3214 setTodayTotalDetailSteps=aaalpha
+3215 setTodayTotalDetailSteps=aaalpha
+3216 setTodayTotalDetailSteps=aaalpha
+3217 setTodayTotalDetailSteps=aaalpha
+3218 setTodayTotalDetailSteps=aaalpha
+3219 setTodayTotalDetailSteps=aaalpha
+3220 setTodayTotalDetailSteps=aaalpha
+3221 setTodayTotalDetailSteps=aaalpha
+3222 setTodayTotalDetailSteps=aaalpha
+3223 setTodayTotalDetailSteps=aaalpha
+3224 setTodayTotalDetailSteps=aaalpha
+3225 setTodayTotalDetailSteps=aaalpha
+3226 setTodayTotalDetailSteps=aaalpha
+3227 setTodayTotalDetailSteps=aaalpha
+3228 setTodayTotalDetailSteps=aaalpha
+3229 setTodayTotalDetailSteps=aaalpha
+3230 setTodayTotalDetailSteps=aaalpha
+3231 setTodayTotalDetailSteps=aaalpha
+3232 setTodayTotalDetailSteps=aaalpha
+3233 setTodayTotalDetailSteps=aaalpha
+3234 setTodayTotalDetailSteps=aaalpha
+3235 setTodayTotalDetailSteps=aaalpha
+3236 setTodayTotalDetailSteps=aaalpha
+3237 setTodayTotalDetailSteps=aaalpha
+3238 setTodayTotalDetailSteps=aaalpha
+3239 setTodayTotalDetailSteps=aaalpha
+3240 setTodayTotalDetailSteps=aaalpha
+3241 setTodayTotalDetailSteps=aaalpha
+3242 setTodayTotalDetailSteps=aaalpha
+3243 setTodayTotalDetailSteps=aaalpha
+3244 setTodayTotalDetailSteps=aaalpha
+3245 setTodayTotalDetailSteps=aaalpha
+3246 setTodayTotalDetailSteps=aaalpha
+3247 setTodayTotalDetailSteps=aaalpha
+3248 setTodayTotalDetailSteps=aaalpha
+3249 setTodayTotalDetailSteps=aaalpha
+3250 setTodayTotalDetailSteps=aaalpha
+3251 setTodayTotalDetailSteps=aaalpha
+3252 setTodayTotalDetailSteps=aaalpha
+3253 setTodayTotalDetailSteps=aaalpha
+3254 setTodayTotalDetailSteps=aaalpha
+3255 setTodayTotalDetailSteps=aaalpha
+3256 setTodayTotalDetailSteps=aaalpha
+3257 setTodayTotalDetailSteps=aaalpha
+3258 setTodayTotalDetailSteps=aaalpha
+3259 setTodayTotalDetailSteps=aaalpha
+3260 setTodayTotalDetailSteps=aaalpha
+3261 setTodayTotalDetailSteps=aaalpha
+3262 setTodayTotalDetailSteps=aaalpha
+3263 setTodayTotalDetailSteps=aaalpha
