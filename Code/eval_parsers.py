@@ -496,6 +496,9 @@ def request_deepseek_variants(
     model: str,
     base_url: str,
     count: int,
+    temperature: float,
+    max_tokens: int,
+    thinking_mode: str,
     timeout: int,
 ) -> list[str]:
     prompt = (
@@ -513,9 +516,11 @@ def request_deepseek_variants(
             {"role": "system", "content": "You generate concise log content variants for data augmentation."},
             {"role": "user", "content": prompt},
         ],
-        "temperature": 0.7,
-        "max_tokens": 800,
+        "temperature": temperature,
+        "thinking": {"type": thinking_mode},
     }
+    if max_tokens > 0:
+        payload["max_tokens"] = max_tokens
     request = urllib.request.Request(
         base_url.rstrip("/") + "/chat/completions",
         data=json.dumps(payload).encode("utf-8"),
@@ -543,7 +548,17 @@ def cached_deepseek_variants(
 ) -> list[str]:
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_key = hashlib.sha256(
-        f"{args.logdepfull_api_model}\n{args.logdepfull_api_variants}\n{seed_content}".encode("utf-8")
+        "\n".join(
+            [
+                args.logdepfull_api_base_url,
+                args.logdepfull_api_model,
+                str(args.logdepfull_api_variants),
+                str(args.logdepfull_api_temperature),
+                str(args.logdepfull_api_max_tokens),
+                args.logdepfull_api_thinking_mode,
+                seed_content,
+            ]
+        ).encode("utf-8")
     ).hexdigest()
     cache_file = cache_dir / f"{cache_key}.json"
     if cache_file.exists():
@@ -559,10 +574,25 @@ def cached_deepseek_variants(
         model=args.logdepfull_api_model,
         base_url=args.logdepfull_api_base_url,
         count=args.logdepfull_api_variants,
+        temperature=args.logdepfull_api_temperature,
+        max_tokens=args.logdepfull_api_max_tokens,
+        thinking_mode=args.logdepfull_api_thinking_mode,
         timeout=args.logdepfull_api_timeout,
     )
     with cache_file.open("w", encoding="utf-8") as f:
-        json.dump({"seed": seed_content, "variants": variants}, f, ensure_ascii=False, indent=2)
+        json.dump(
+            {
+                "seed": seed_content,
+                "variants": variants,
+                "model": args.logdepfull_api_model,
+                "temperature": args.logdepfull_api_temperature,
+                "max_tokens": args.logdepfull_api_max_tokens if args.logdepfull_api_max_tokens > 0 else None,
+                "thinking_mode": args.logdepfull_api_thinking_mode,
+            },
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
     return variants
 
 
@@ -1148,6 +1178,9 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
     )
     parser.add_argument("--logdepfull-api-base-url", default="https://api.deepseek.com")
     parser.add_argument("--logdepfull-api-model", default="deepseek-chat")
+    parser.add_argument("--logdepfull-api-temperature", type=float, default=1.0)
+    parser.add_argument("--logdepfull-api-max-tokens", type=int, default=0)
+    parser.add_argument("--logdepfull-api-thinking-mode", choices=["disabled", "enabled"], default="disabled")
     parser.add_argument("--logdepfull-api-key-env", default="DEEPSEEK_API_KEY")
     parser.add_argument("--logdepfull-api-key-file", default="")
     parser.add_argument("--logdepfull-api-trigger-ld", type=float, default=0.35)
